@@ -65,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T22:10:48.208Z,62.6713,-149.9126,18,1,ml,,,,0.47,ak,ak0226e8v0tw,2022-05-19T22:23:39.888Z,"26 km NNE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-19T22:01:57.488Z,61.5965,-149.8182,51.7,1.7,ml,,,,0.34,ak,ak0226e8t43s,2022-05-19T22:14:21.055Z,"3 km S of Houston, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-19T21:53:54.140Z,38.8226662,-122.805336,3.18,0.96,md,19,52,0.003772,0.02,nc,nc73735811,2022-05-19T22:05:11.789Z,"7km NW of The Geysers, CA",earthquake,0.25,0.6,0.21,3,automatic,nc,nc
-2022-05-19T21:43:10.617Z,62.1713,-152.0458,108.5,1.4,ml,,,,0.79,ak,ak0226e8gkyj,2022-05-19T22:01:01.165Z,"39 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-19T21:43:10.617Z,62.1713,-152.0458,108.5,1.4,ml,,,,0.79,ak,ak0226e8gkyj,2022-05-19T22:01:01.165Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-19T21:35:49.640Z,38.8279991,-122.8519974,1.82,0.95,md,13,70,0.003835,0.01,nc,nc73735806,2022-05-19T21:45:10.672Z,"10km NW of The Geysers, CA",earthquake,0.26,0.47,0.22,3,automatic,nc,nc
 2022-05-19T21:34:24.745Z,62.1693,-150.2838,19.9,1,ml,,,,0.2,ak,ak0226e8eolm,2022-05-19T21:46:16.513Z,"16 km S of Trapper Creek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-19T21:32:46.750Z,17.9481666666667,-66.9108333333333,11.05,2.33,md,8,209,,0.19,pr,pr71349448,2022-05-19T21:55:44.610Z,"2 km S of Guánica, Puerto Rico",earthquake,0.96,0.59,0.0615499537212467,5,reviewed,pr,pr
@@ -216,7 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T09:07:17.890Z,51.6115,-178.524166666667,17.33,0.43,ml,11,184,,0.14,av,av91566676,2022-05-19T16:31:58.310Z,"133 km WSW of Adak, Alaska",earthquake,0.57,2.1,0.275955435562876,11,reviewed,av,av
 2022-05-19T09:00:37.610Z,48.29216666666667,-121.8805,8.25,0.8,ml,9,84,0.1019,0.07,uw,uw61841661,2022-05-19T19:17:39.130Z,"4 km ENE of Oso, Washington",earthquake,0.31,0.59,0.21206264024764243,2,reviewed,uw,uw
 2022-05-19T08:53:25.270Z,51.5746666666667,-177.933166666667,15.66,0.66,ml,7,276,,0.08,av,av91566666,2022-05-19T22:23:21.100Z,"95 km WSW of Adak, Alaska",earthquake,0.71,1.67,0.270283478469864,7,reviewed,av,av
-2022-05-19T08:49:04.470Z,17.9935,-66.9528333333333,13.64,1.89,md,7,151,,0.06,pr,pr71349388,2022-05-19T09:14:44.460Z,"3 km W of Fuig, Puerto Rico",earthquake,0.57,0.49,0.0968683515368089,6,reviewed,pr,pr
-2022-05-19T08:45:33.798Z,36.7844,-115.9488,10.7,-0.3,ml,5,211.68,0.063,0.1487,nn,nn00839183,2022-05-20T02:38:59.636Z,"34 km NW of Indian Springs, Nevada",earthquake,,3.4,0,1,reviewed,nn,nn
-2022-05-19T08:45:08.031Z,60.4423,-152.2044,29.4,0.9,ml,,,,0.89,ak,ak0226e0qdbn,2022-05-19T08:46:57.579Z,"50 km W of Cohoe, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-19T08:44:05.632Z,60.5187,-151.1597,48.8,1.2,ml,,,,0.33,ak,ak0226e0q5f7,2022-05-19T08:47:40.940Z,"4 km WSW of Ridgeway, Alaska",earthquake,,5.9,,,automatic,ak,ak

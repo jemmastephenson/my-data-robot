@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-21T07:43:28.050Z,60.6024,-147.2414,11.5,2.6,ml,,,,0.57,ak,ak0226hb78uj,2022-05-21T07:46:14.303Z,"42 km SW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-21T07:56:26.830Z,36.5528336,-121.1313324,5.93,1.83,md,21,103,0.04743,0.28,nc,nc73736221,2022-05-21T07:59:17.575Z,"3km NNE of Pinnacles, CA",earthquake,0.58,1.68,0.29,9,automatic,nc,nc
+2022-05-21T07:43:28.051Z,60.6025,-147.241,11.5,2.6,ml,,,,0.56,ak,ak0226hb78uj,2022-05-21T07:55:29.472Z,"42 km SW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-21T07:43:19.487Z,84.2101,-0.6007,10,5.1,mww,,59,5.61,0.97,us,us6000hmv8,2022-05-21T07:58:48.040Z,"north of Svalbard",earthquake,5,1.9,0.071,19,reviewed,us,us
 2022-05-21T07:24:46.986Z,84.1691,-0.7749,10,4.5,mb,,85,5.581,0.88,us,us6000hmv4,2022-05-21T07:37:26.040Z,"north of Svalbard",earthquake,9.6,1.9,0.088,38,reviewed,us,us
 2022-05-21T07:15:41.741Z,84.1422,-1.3979,10,4.3,mb,,86,5.585,0.89,us,us6000hmv5,2022-05-21T07:40:47.040Z,"north of Svalbard",earthquake,10.3,1.9,0.1,28,reviewed,us,us
 2022-05-21T07:01:23.810Z,84.3425,0.8374,10,5.8,mww,,23,5.674,1.24,us,us6000hmv1,2022-05-21T07:26:50.628Z,"north of Svalbard",earthquake,7.6,1.8,0.042,54,reviewed,us,us

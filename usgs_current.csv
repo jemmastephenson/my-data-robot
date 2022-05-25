@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-25T07:40:42.148Z,60.0397,-142.4696,6.5,0.9,ml,,,,0.27,ak,ak0226nxc0qe,2022-05-25T07:43:16.453Z,"157 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-25T07:38:49.840Z,32.5595,-115.5258333,4.6,1.8,ml,16,154,0.09929,0.21,ci,ci40026055,2022-05-25T07:42:30.448Z,"6km ESE of Progreso, B.C., MX",earthquake,0.77,1.55,0.14,27,automatic,ci,ci
+2022-05-25T07:36:46.670Z,32.8548333,-116.1721667,7.41,0.89,ml,18,90,0.08907,0.21,ci,ci40026047,2022-05-25T07:40:19.860Z,"21km NW of Ocotillo, CA",earthquake,0.41,1.03,0.153,9,automatic,ci,ci
 2022-05-25T07:27:59.060Z,32.5935,-115.527,3.2,1.45,ml,16,140,0.07917,0.17,ci,ci40026031,2022-05-25T07:31:36.387Z,"6km ENE of Progreso, B.C., MX",earthquake,0.62,0.82,0.181,18,automatic,ci,ci
-2022-05-25T07:27:30.130Z,59.5519,-148.676,30.4,1.8,ml,,,,1.04,ak,ak0226nx97hx,2022-05-25T07:32:30.938Z,"68 km SSW of Chenega, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2022-05-25T07:27:30.130Z,59.5519,-148.676,30.4,1.8,ml,,,,1.04,ak,ak0226nx97hx,2022-05-25T07:41:00.557Z,"68 km SSW of Chenega, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-05-25T07:18:51.490Z,32.6398333,-115.7098333,9.15,1.61,ml,26,118,0.01687,0.24,ci,ci40026023,2022-05-25T07:29:32.470Z,"14km WNW of Progreso, B.C., MX",earthquake,0.66,0.84,0.175,24,automatic,ci,ci
 2022-05-25T07:14:00.170Z,32.5926667,-115.5291667,4.24,1.89,ml,18,140,0.08117,0.22,ci,ci40026015,2022-05-25T07:17:48.805Z,"5km ENE of Progreso, B.C., MX",earthquake,0.84,1.62,0.174,28,automatic,ci,ci
 2022-05-25T07:12:39.950Z,32.5438333,-115.5235,1.09,1.74,ml,16,217,0.1099,0.31,ci,ci40026007,2022-05-25T07:16:24.680Z,"7km SE of Progreso, B.C., MX",earthquake,1.1,31.61,0.2,22,automatic,ci,ci
@@ -238,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-24T07:53:29.460Z,38.8264999,-122.8021698,1.62,1.18,md,21,34,0.006909,0.02,nc,nc73737371,2022-05-24T10:00:16.692Z,"7km NW of The Geysers, CA",earthquake,0.2,0.34,0.09,5,automatic,nc,nc
 2022-05-24T07:51:38.200Z,33.9326667,-116.702,15.9,0.71,ml,37,49,0.1147,0.09,ci,ci40025231,2022-05-24T17:26:19.383Z,"8km ENE of Cabazon, CA",earthquake,0.13,0.35,0.173,21,reviewed,ci,ci
 2022-05-24T07:46:56.577Z,63.6171,-150.8575,0,2.2,ml,,,,0.89,ak,ak0226m9tzlz,2022-05-24T07:49:45.088Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-05-24T07:41:59.420Z,35.51,-118.3913333,4.71,1.99,ml,53,31,0.1667,0.16,ci,ci40025223,2022-05-24T17:18:36.950Z,"13km SE of Bodfish, CA",earthquake,0.13,0.91,0.187,26,reviewed,ci,ci
-2022-05-24T07:37:35.322Z,23.915,122.5273,10,4.7,mb,,127,0.705,0.91,us,us7000hc5v,2022-05-24T09:04:08.704Z,"77 km SW of Yonakuni, Japan",earthquake,6.1,1.9,0.088,39,reviewed,us,us

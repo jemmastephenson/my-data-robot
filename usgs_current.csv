@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-05T23:30:27.029Z,59.0671,-137.2856,0,2.4,ml,,,,1.27,ak,ak02276dplim,2022-06-05T23:40:37.998Z,"81 km WSW of Covenant Life, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-06-05T23:46:54.883Z,64.6534,-147.74,14.9,1,ml,,,,0.27,ak,ak02276dt2f8,2022-06-05T23:50:32.525Z,"17 km S of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-06-05T23:39:44.000Z,64.6627,-149.3761,19.3,1.2,ml,,,,1.05,ak,ak02276drk9s,2022-06-05T23:50:33.324Z,"13 km WNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-06-05T23:30:55.600Z,17.9111666666667,-66.8841666666667,16.1,2.61,md,6,228,,0.06,pr,pr71352603,2022-06-05T23:49:34.270Z,"7 km SSE of Guánica, Puerto Rico",earthquake,0.78,0.63,0.0233404712557119,3,reviewed,pr,pr
+2022-06-05T23:30:27.029Z,59.0671,-137.2856,0,2.4,ml,,,,1.27,ak,ak02276dplim,2022-06-05T23:48:39.040Z,"81 km WSW of Covenant Life, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-05T23:27:39.930Z,19.2476673126221,-155.404006958008,30.6100006103516,2.23,ml,46,130,,0.129999995,hv,hv73035137,2022-06-05T23:40:41.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.48,0.629999995,3.45,18,automatic,hv,hv
 2022-06-05T23:25:26.081Z,57.3825,-156.2111,83.4,2.1,ml,,,,0.3,ak,ak02276doiv4,2022-06-05T23:28:25.969Z,"72 km ESE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-05T23:10:06.563Z,-25.0567,-175.0793,10,4.8,mb,,84,4.893,0.53,us,us7000hf85,2022-06-05T23:30:09.040Z,"south of Tonga",earthquake,8.5,1.9,0.093,36,reviewed,us,us

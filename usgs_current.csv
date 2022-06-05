@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-05T03:49:01.060Z,33.4503333,-116.4071667,10.7,0.42,ml,25,65,0.1198,0.2,ci,ci40034071,2022-06-05T03:52:35.501Z,"22km N of Borrego Springs, CA",earthquake,0.39,0.78,0.129,9,automatic,ci,ci
 2022-06-05T03:22:39.020Z,33.4725,-116.4136667,12.45,0.63,ml,22,85,0.05175,0.2,ci,ci40034063,2022-06-05T03:26:13.214Z,"23km SSW of La Quinta, CA",earthquake,0.46,0.9,0.153,10,automatic,ci,ci
-2022-06-05T03:16:41.630Z,38.828167,-122.8134995,1.98,2.34,md,23,113,0.02468,0.17,nc,nc73740756,2022-06-05T03:26:10.398Z,"8km NW of The Geysers, CA",earthquake,0.4,0.82,0.13,21,automatic,nc,nc
+2022-06-05T03:16:41.630Z,38.828167,-122.8134995,1.98,2.34,md,23,113,0.02468,0.17,nc,nc73740756,2022-06-05T03:58:14.447Z,"8km NW of The Geysers, CA",earthquake,0.4,0.82,0.13,21,automatic,nc,nc
 2022-06-05T03:10:01.000Z,37.9674988,-122.0488358,10.27,1.51,md,12,134,0.06474,0.09,nc,nc73740741,2022-06-05T03:36:15.340Z,"2km NNE of Pleasant Hill, CA",earthquake,0.44,0.83,0.1,9,automatic,nc,nc
 2022-06-05T03:09:06.870Z,36.6368332,-121.2776642,5.65,1.44,md,9,94,0.03947,0.21,nc,nc73740736,2022-06-05T03:43:13.382Z,"17km NW of Pinnacles, CA",earthquake,0.79,2.02,0.22,6,automatic,nc,nc
 2022-06-05T02:52:04.126Z,63.8492,-149.6656,6.7,0.5,ml,,,,1.12,ak,ak022761c12x,2022-06-05T03:28:11.696Z,"32 km SW of Ferry, Alaska",earthquake,,1.8,,,reviewed,ak,ak

@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-10T09:43:33.130Z,19.1876659393311,-155.484329223633,32.8699989318848,2.21000004,md,43,74,,0.140000001,hv,hv73039907,2022-06-10T09:46:48.320Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.57,0.779999971,1.82000005,18,automatic,hv,hv
 2022-06-10T09:41:53.450Z,19.1958332061768,-155.395172119141,32.0699996948242,1.83000004,md,42,161,,0.119999997,hv,hv73039902,2022-06-10T09:45:01.290Z,"Island of Hawaii, Hawaii",earthquake,0.53,0.889999986,1.38,6,automatic,hv,hv
 2022-06-10T09:36:57.020Z,34.0098333,-117.038,20.6,0.65,ml,19,98,0.119,0.29,ci,ci40037815,2022-06-10T09:40:34.056Z,"3km S of Yucaipa, CA",earthquake,0.61,2.13,0.233,8,automatic,ci,ci
 2022-06-10T09:32:40.614Z,63.5187,-150.7533,6.3,1.9,ml,,,,0.61,ak,ak0227ef2pzx,2022-06-10T09:34:52.729Z,"48 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T10:17:24.420Z,38.7868347,-122.7770004,2.19,0.36,md,7,125,0.01063,0.02,nc,nc73743256,2022-06-09T11:55:10.601Z,"2km WNW of The Geysers, CA",earthquake,0.59,1.41,,1,automatic,nc,nc
 2022-06-09T10:04:34.770Z,46.8815,-112.53,10.29,1.32,ml,21,64,0.055,0.23,mb,mb80548289,2022-06-09T14:57:14.580Z,"14 km SE of Lincoln, Montana",earthquake,0.51,0.7,0.134,7,reviewed,mb,mb
 2022-06-09T09:59:41.755Z,40.0753,-119.7486,15.4,0.1,ml,5,134.94,0.096,0.1219,nn,nn00840668,2022-06-10T02:38:27.495Z,"18 km NW of Sutcliffe, Nevada",earthquake,,2.5,0.46,3,reviewed,nn,nn
-2022-06-09T09:50:44.030Z,47.5566667,-114.6506667,5.98,0.01,ml,5,143,0.216,0.12,mb,mb80548309,2022-06-09T16:55:25.120Z,"5 km SSE of Hot Springs, Montana",earthquake,0.51,7.19,,0,reviewed,mb,mb

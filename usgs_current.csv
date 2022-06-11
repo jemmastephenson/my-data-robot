@@ -161,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T00:19:21.950Z,40.637,-122.4095,20.61,1.78,md,13,135,0.06528,0.15,nc,nc73743776,2022-06-11T17:01:10.659Z,"6km SW of Shasta Lake, CA",earthquake,0.59,0.36,0.113,14,reviewed,nc,nc
 2022-06-11T00:13:28.090Z,17.9751666666667,-66.8785,10.33,2.2,md,8,190,,0.12,pr,pr71353438,2022-06-11T00:23:52.180Z,"1 km ESE of Maria Antonia, Puerto Rico",earthquake,0.5,0.54,0.229793769030612,6,reviewed,pr,pr
 2022-06-11T00:09:06.318Z,64.3478,-150.9744,12.3,1.1,ml,,,,0.62,ak,ak0227fx45xj,2022-06-11T00:10:54.049Z,"74 km SSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-06-11T00:03:12.090Z,46.189166666666665,-120.35433333333333,12.47,2.41,ml,31,93,0.1494,0.13,uw,uw61850311,2022-06-11T00:26:37.040Z,"Washington",earthquake,0.25,1.35,0.16453003091207008,19,reviewed,uw,uw
+2022-06-11T00:03:12.090Z,46.189166666666665,-120.35433333333333,12.47,2.41,ml,31,93,0.1494,0.13,uw,uw61850311,2022-06-11T00:26:37.040Z,"18 km WSW of Satus, Washington",earthquake,0.25,1.35,0.16453003091207008,19,reviewed,uw,uw
 2022-06-11T00:03:03.442Z,62.9487,-150.3539,10.6,1.4,ml,,,,0.22,ak,ak0227fx2vew,2022-06-11T00:04:49.447Z,"54 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-11T00:02:06.230Z,19.1979999542236,-155.466171264648,35.7799987792969,1.79999995,md,36,100,,0.129999995,hv,hv73040457,2022-06-11T00:05:24.060Z,"1 km ESE of Pāhala, Hawaii",earthquake,0.64,1.00999999,0.49000001,5,automatic,hv,hv
 2022-06-10T23:36:52.770Z,17.9616666666667,-66.9845,8.84,1.93,md,4,196,,0.05,pr,pr71353428,2022-06-11T00:00:01.070Z,"Puerto Rico region",earthquake,0.77,0.91,0.0473311250265518,3,reviewed,pr,pr
@@ -185,5 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T22:07:25.240Z,33.4125,-116.6181667,7.92,1.04,ml,29,34,0.07705,0.23,ci,ci40038151,2022-06-10T22:11:00.859Z,"15km N of Warner Springs, CA",earthquake,0.3,0.75,0.158,25,automatic,ci,ci
 2022-06-10T22:02:59.030Z,38.8825,-109.3151667,5.98,1.62,md,11,172,0.4169,0.08,uu,uu60501112,2022-06-10T22:45:06.930Z,"28 km NNE of Castle Valley, Utah",earthquake,0.73,6,0.056,5,reviewed,uu,uu
 2022-06-10T21:46:14.380Z,37.4281667,-118.5216667,12.44,2.25,md,31,57,0.07384,0.06,nc,nc73743746,2022-06-11T19:10:15.455Z,"7km ENE of Round Valley, CA",earthquake,0.22,0.55,0.24,35,reviewed,nc,nc
-2022-06-10T21:40:45.680Z,33.2441667,-116.1026667,3.41,1.32,ml,38,55,0.1262,0.24,ci,ci40038143,2022-06-10T21:51:17.930Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.29,1.26,0.146,27,automatic,ci,ci
-2022-06-10T21:38:01.554Z,62.2007,-149.7513,17.6,1,ml,,,,0.61,ak,ak0227em94jf,2022-06-10T21:40:26.990Z,"6 km NE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak

@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-06-11T07:44:20.255Z,62.2475,-150.1417,12.5,1.7,ml,,,,0.63,ak,ak0227g1hqax,2022-06-11T07:46:42.781Z,"8 km S of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-11T07:39:14.599Z,62.2464,-150.1415,11.8,1.7,ml,,,,0.65,ak,ak0227g1gnab,2022-06-11T07:41:38.437Z,"8 km S of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-11T07:29:54.223Z,-8.0129,-13.6184,10,5.6,mww,,45,0.738,0.59,us,us7000hgp6,2022-06-11T07:49:09.040Z,"87 km E of Georgetown, Saint Helena",earthquake,6.1,1.8,0.093,11,reviewed,us,us
+2022-06-11T07:29:54.223Z,-8.0129,-13.6184,10,5.6,mww,,45,0.738,0.59,us,us7000hgp6,2022-06-11T07:52:01.679Z,"87 km E of Georgetown, Saint Helena",earthquake,6.1,1.8,0.093,11,reviewed,us,us
 2022-06-11T07:21:25.860Z,38.7944984,-122.7303314,2.16,0.21,md,10,97,0.01231,0.02,nc,nc73743911,2022-06-11T07:30:10.229Z,"3km NE of The Geysers, CA",earthquake,0.39,0.89,0.17,2,automatic,nc,nc
 2022-06-11T07:16:10.490Z,38.8326683,-122.8073349,2.19,0.85,md,17,47,0.009504,0.02,nc,nc73743906,2022-06-11T07:24:10.329Z,"7km W of Cobb, CA",earthquake,0.27,0.62,,1,automatic,nc,nc
 2022-06-11T07:14:02.212Z,61.3192,-149.3746,72.9,1.4,ml,,,,1.23,ak,ak0227g1b586,2022-06-11T07:26:33.165Z,"10 km E of Eagle River, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -166,6 +166,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T11:06:59.040Z,35.5073333,-118.3931667,5.64,1.79,ml,43,38,0.1685,0.15,ci,ci40037839,2022-06-10T19:20:26.530Z,"13km SE of Bodfish, CA",earthquake,0.13,0.71,0.231,27,reviewed,ci,ci
 2022-06-10T10:54:04.342Z,31.63339912,-104.4316623,6.157275391,2.3,ml,12,66,0.06867100483,0.2,tx,tx2022lheb,2022-06-10T21:10:14.600Z,"60 km S of Whites City, New Mexico",earthquake,1.270306889,1.98424188,0.1,7,reviewed,tx,tx
 2022-06-10T10:52:38.300Z,46.722,-121.91266666666667,2.44,0.360000014,md,15,145,0.01839,0.09,uw,uw61841322,2022-06-10T17:59:55.490Z,"9 km ESE of Ashford, Washington",earthquake,0.41,0.92,0.349999994,2,reviewed,uw,uw
+2022-06-10T10:51:33.155Z,58.3054,-154.9522,2.5,0.3,ml,,,,0.51,ak,ak0227efs7mr,2022-06-11T07:56:45.886Z,"87 km NNW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-06-10T10:51:30.090Z,19.1749992370605,-155.488662719727,31.1399993896484,1.70000005,md,40,147,,0.129999995,hv,hv73039957,2022-06-10T10:54:37.910Z,"Island of Hawaii, Hawaii",earthquake,0.53,0.779999971,0.980000019,7,automatic,hv,hv
 2022-06-10T10:50:43.043Z,39.2207,-120.0794,7.7,0.1,ml,6,98.13,0.039,0.0785,nn,nn00840747,2022-06-11T02:38:06.478Z,"0 km SSE of Carnelian Bay, California",earthquake,,1.8,0.05,2,reviewed,nn,nn
 2022-06-10T10:50:14.670Z,39.7561667,-123.4231667,7.86,1.84,md,24,50,0.06885,0.12,nc,nc73743586,2022-06-10T18:43:15.812Z,"9km NE of Laytonville, CA",earthquake,0.23,0.42,0.14,27,reviewed,nc,nc

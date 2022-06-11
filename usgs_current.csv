@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-11T11:32:32.990Z,34.4948349,-118.3451691,7.09,1.1,ml,17,69,0.07482,0.12,ci,ci40038335,2022-06-11T11:34:38.292Z,"2km W of Agua Dulce, CA",earthquake,0.31,0.67,0.169,7,automatic,ci,ci
+2022-06-11T11:38:14.488Z,64.4626,-147.3558,0,0.9,ml,,,,1.06,ak,ak0227g3u5zl,2022-06-11T11:40:45.321Z,"22 km WSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-06-11T11:32:33.070Z,34.5003333,-118.3386667,4.52,1.06,ml,21,54,0.07617,0.14,ci,ci40038335,2022-06-11T11:36:04.260Z,"1km WNW of Agua Dulce, CA",earthquake,0.26,0.54,0.198,25,automatic,ci,ci
 2022-06-11T11:31:25.650Z,60.8689,-149.3137,60.8,1.5,ml,,,,1.3,ak,ak0227g3sotx,2022-06-11T11:33:33.485Z,"6 km ESE of Sunrise, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-06-11T11:25:29.870Z,32.3606667,-115.3091667,6.7,1.95,ml,16,108,0.05877,0.28,ci,ci40038327,2022-06-11T11:29:08.230Z,"11km W of Delta, B.C., MX",earthquake,0.74,1.56,0.168,21,automatic,ci,ci
 2022-06-11T11:15:23.390Z,33.7808333,-116.1248333,2.52,1.19,ml,30,138,0.08208,0.21,ci,ci40038319,2022-06-11T11:19:08.824Z,"11km NE of Indio, CA",earthquake,0.36,0.53,0.097,26,automatic,ci,ci
@@ -21,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T08:24:07.178Z,32.40142822,-101.598347,13.5723877,2.9,ml,10,94,0.1974227172,0.1,tx,tx2022liuq,2022-06-11T09:40:46.504Z,"western Texas",earthquake,1.357160701,2.253064249,0.1,8,reviewed,tx,tx
 2022-06-11T08:06:53.501Z,-7.9872,-13.675,10,4.8,mb,,138,0.68,0.67,us,us7000hgpe,2022-06-11T08:30:31.040Z,"81 km E of Georgetown, Saint Helena",earthquake,7.9,1.9,0.116,23,reviewed,us,us
 2022-06-11T08:03:09.090Z,19.1946659088135,-155.49299621582,36.0499992370605,1.76999998,md,40,68,,0.170000002,hv,hv73040862,2022-06-11T08:06:17.050Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.65,1.16999996,0.879999995,8,automatic,hv,hv
-2022-06-11T07:52:42.060Z,17.978,-66.8405,17.03,2.44,md,4,198,,0.11,pr,pr71353493,2022-06-11T08:12:09.640Z,"Puerto Rico region",earthquake,0.75,0.84,0.0715309651305334,3,reviewed,pr,pr
+2022-06-11T07:52:42.060Z,17.978,-66.8405,17.03,2.44,md,4,198,,0.11,pr,pr71353493,2022-06-11T08:12:09.640Z,"2 km SW of Indios, Puerto Rico",earthquake,0.75,0.84,0.0715309651305334,3,reviewed,pr,pr
 2022-06-11T07:45:02.360Z,17.9893333333333,-66.977,6.84,2.14,md,4,174,,0.08,pr,pr71353488,2022-06-11T08:08:08.130Z,"6 km W of Fuig, Puerto Rico",earthquake,1.8,1.39,0.0305241230336799,3,reviewed,pr,pr
 2022-06-11T07:44:20.255Z,62.2475,-150.1417,12.5,1.7,ml,,,,0.63,ak,ak0227g1hqax,2022-06-11T07:46:42.781Z,"8 km S of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-11T07:41:59.860Z,18.009,-66.8258333333333,14.71,2.76,md,6,157,,0.11,pr,pr71353483,2022-06-11T10:39:02.137Z,"1 km NNW of Indios, Puerto Rico",earthquake,0.44,0.91,0.170971430842863,3,reviewed,pr,pr
@@ -185,6 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T12:08:01.784Z,-0.172,122.8886,86.48,4.7,mb,,51,0.871,0.56,us,us7000hgga,2022-06-10T12:27:56.040Z,"80 km SSW of Gorontalo, Indonesia",earthquake,6.2,4.7,0.076,53,reviewed,us,us
 2022-06-10T12:04:40.000Z,61.5266,-146.4246,33.3,1.3,ml,,,,0.6,ak,ak0227egp0ps,2022-06-10T12:07:47.247Z,"44 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-10T11:51:02.690Z,53.8537,-166.6462,8.2,0.1,ml,,,,0.09,ak,ak0227egdkvx,2022-06-11T08:08:01.681Z,"7 km WSW of Unalaska, Alaska",earthquake,,0.7,,,reviewed,ak,ak
-2022-06-10T11:42:36.300Z,19.1441669464111,-155.380661010742,30.9099998474121,2.25,md,47,180,,0.119999997,hv,hv73039997,2022-06-10T18:17:07.307Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.6,0.779999971,1.38,24,automatic,hv,hv
-2022-06-10T11:40:57.648Z,62.9037,-148.3618,62.2,1.2,ml,,,,0.87,ak,ak0227egbc90,2022-06-10T11:43:01.970Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-06-10T11:36:16.130Z,38.8486667,-123.3675,-0.57,1.44,md,14,173,0.08778,0.1,nc,nc73743621,2022-06-10T20:52:15.516Z,"17km NNE of Sea Ranch, CA",earthquake,0.44,1.1,0.269,16,reviewed,nc,nc

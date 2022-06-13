@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-06-13T06:35:30.100Z,38.831665,-122.809166,2.33,0.69,md,17,67,0.008288,0.01,nc,nc73744776,2022-06-13T06:44:10.354Z,"8km W of Cobb, CA",earthquake,0.24,0.7,0.48,3,automatic,nc,nc
 2022-06-13T06:22:41.110Z,18.0878333333333,-66.8583333333333,5.47,2.07,md,5,129,,0.07,pr,pr71353878,2022-06-13T06:48:37.200Z,"5 km N of Yauco, Puerto Rico",earthquake,0.47,0.94,0.449266581319457,2,reviewed,pr,pr
-2022-06-13T06:16:38.080Z,35.5106667,-118.388,4.29,2.16,ml,36,31,0.1672,0.18,ci,ci40039215,2022-06-13T06:30:15.951Z,"13km SE of Bodfish, CA",earthquake,0.22,1.1,0.252,26,automatic,ci,ci
+2022-06-13T06:16:38.080Z,35.5106667,-118.388,4.29,2.16,ml,36,31,0.1672,0.18,ci,ci40039215,2022-06-13T06:53:19.994Z,"13km SE of Bodfish, CA",earthquake,0.22,1.1,0.252,26,automatic,ci,ci
 2022-06-13T06:09:28.400Z,34.6958333,-116.2966667,6.59,1.76,ml,17,93,0.1204,0.14,ci,ci40039207,2022-06-13T06:20:34.450Z,"13km WSW of Ludlow, CA",earthquake,0.24,1.01,0.218,26,automatic,ci,ci
 2022-06-13T06:05:44.540Z,38.8300018,-122.7521667,-0.04,0.47,md,7,162,0.01387,0.01,nc,nc73744756,2022-06-13T06:44:16.528Z,"3km WNW of Cobb, CA",earthquake,0.57,0.86,0.08,2,automatic,nc,nc
 2022-06-13T06:04:55.530Z,38.8136673,-122.8208313,2.47,0.96,md,20,54,0.008093,0.03,nc,nc73744751,2022-06-13T06:34:17.296Z,"7km NW of The Geysers, CA",earthquake,0.23,0.6,0.05,3,automatic,nc,nc
@@ -178,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-12T07:08:00.400Z,36.3754997,-121.1338348,3.23,2.14,md,8,147,0.3558,0.29,nc,nc73744326,2022-06-12T08:50:17.338Z,"12km ENE of Greenfield, CA",earthquake,10.01,17.64,,1,automatic,nc,nc
 2022-06-12T07:05:55.612Z,0.5316,-78.0072,5.77,4.1,mb,,105,0.317,0.42,us,us7000hgvq,2022-06-12T20:43:26.467Z,"Colombia-Ecuador border region",earthquake,7.1,7.4,0.13,17,reviewed,us,us
 2022-06-12T07:05:19.280Z,33.2483333,-116.1051667,3.96,0.73,ml,19,100,0.1303,0.23,ci,ci40038711,2022-06-12T07:08:50.142Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.39,1.58,0.07,13,automatic,ci,ci
-2022-06-12T06:57:49.877Z,8.4189,-83.0016,22.75,4.2,mb,,150,0.485,0.52,us,us7000hgvm,2022-06-12T13:34:58.363Z,"Costa Rica",earthquake,4.2,8.7,0.215,6,reviewed,us,us

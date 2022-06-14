@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-13T08:04:53.600Z,40.5948333,-122.0756667,16.11,1.46,md,15,70,0.0961,0.19,nc,nc73744856,2022-06-14T01:45:15.058Z,"10km ENE of Millville, CA",earthquake,0.52,1.16,0.096,18,reviewed,nc,nc
 2022-06-13T08:04:02.040Z,38.8146667,-122.8225021,2.64,0.83,md,12,95,0.007793,0.01,nc,nc73744851,2022-06-13T10:03:16.538Z,"7km NW of The Geysers, CA",earthquake,0.4,0.87,0.46,2,automatic,nc,nc
 2022-06-13T07:59:41.390Z,42.3801667,-112.281,1.86,1.2,md,8,135,0.2918,0.15,uu,uu60501652,2022-06-13T18:55:18.330Z,"13 km WSW of Downey, Idaho",earthquake,0.72,31.61,0.378,5,reviewed,uu,uu
-2022-06-13T07:48:28.770Z,35.6231667,-117.4673333,9.61,1.67,ml,24,74,0.1289,0.13,ci,ci40039231,2022-06-13T21:29:19.570Z,"17km SSW of Searles Valley, CA",earthquake,0.2,0.48,0.134,19,reviewed,ci,ci

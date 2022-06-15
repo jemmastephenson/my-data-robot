@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-15T08:48:43.890Z,35.5073333,-118.3868333,5.81,0.87,ml,14,96,0.1706,0.13,ci,ci40040487,2022-06-15T08:52:14.529Z,"13km SE of Bodfish, CA",earthquake,0.43,2.13,0.148,8,automatic,ci,ci
 2022-06-15T08:30:00.670Z,19.1978340148926,-155.383499145508,32.9799995422363,2.43,ml,39,163,,0.119999997,hv,hv73044427,2022-06-15T08:35:30.490Z,"10 km E of Pāhala, Hawaii",earthquake,0.71,0.860000014,3.68,6,automatic,hv,hv
 2022-06-15T08:29:33.470Z,19.121166229248,-155.473999023438,32,2.33,ml,18,179,,0.140000001,hv,hv73044422,2022-06-15T08:35:04.110Z,"9 km S of Pāhala, Hawaii",earthquake,1.02,1.63,4.15,5,automatic,hv,hv
 2022-06-15T08:27:12.720Z,33.5253333,-116.5218333,12.92,0.48,ml,11,202,0.03298,0.09,ci,ci40040479,2022-06-15T08:30:42.631Z,"14km ESE of Anza, CA",earthquake,0.6,0.5,0.272,3,automatic,ci,ci
@@ -219,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-14T09:02:46.156Z,38.2383,-118.7093,11.5,0.4,ml,9,295.23,0.161,0.1212,nn,nn00840882,2022-06-15T02:39:23.799Z,"32 km SSW of Hawthorne, Nevada",earthquake,,4.9,0.32,2,reviewed,nn,nn
 2022-06-14T08:59:31.194Z,38.5102,-119.4025,2.6,1,ml,16,80.43,0.029,0.1783,nn,nn00840881,2022-06-15T02:39:22.515Z,"6 km E of Walker, California",earthquake,,2.7,0.29,4,reviewed,nn,nn
 2022-06-14T08:55:00.400Z,53.8766666666667,-166.7,8.32,-0.37,ml,5,198,,0.1,av,av91062963,2022-06-15T00:21:35.490Z,"10 km W of Dutch Harbor, Alaska",earthquake,0.71,0.75,0.316506536926389,5,reviewed,av,av
-2022-06-14T08:52:57.009Z,36.7173,-116.2173,2.5,-0.1,ml,8,166.03,0.011,0.101,nn,nn00840879,2022-06-15T02:39:20.020Z,"51 km WNW of Indian Springs, Nevada",earthquake,,1.5,0.17,4,reviewed,nn,nn

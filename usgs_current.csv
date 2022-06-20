@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-20T10:57:51.300Z,36.10939789,-97.83082581,4.291498661,1.82,ml,40,34.95635986,0.1109670028,0.2727010779,ok,ok2022lzlf,2022-06-20T10:59:03.955Z,"6 km E of Hennessey, Oklahoma",earthquake,1.851793077,1.786504663,,10,automatic,ok,ok
-2022-06-20T10:57:38.450Z,33.2876663,-115.9671631,2.89,1.17,ml,33,109,0.1142,0.24,ci,ci40287752,2022-06-20T10:59:55.040Z,"2km SW of Salton City, CA",earthquake,0.47,0.78,0.131,2,automatic,ci,ci
+2022-06-20T11:00:16.687Z,60.1437,-150.6408,41.1,1,ml,,,,0.45,ak,ak0227uzg5dw,2022-06-20T11:02:04.915Z,"36 km NNE of Fox River, Alaska",earthquake,,5.6,,,automatic,ak,ak
+2022-06-20T10:57:51.300Z,36.10939789,-97.83082581,4.291498661,1.92,ml,40,34.95635986,0.1109670028,0.2727010779,ok,ok2022lzlf,2022-06-20T10:59:26.858Z,"6 km E of Hennessey, Oklahoma",earthquake,1.851793077,1.786504663,,25,automatic,ok,ok
+2022-06-20T10:57:38.740Z,33.2786667,-115.9618333,6.59,1.01,ml,26,79,0.1057,0.29,ci,ci40287752,2022-06-20T11:01:09.487Z,"2km SSW of Salton City, CA",earthquake,0.53,2.48,0.172,14,automatic,ci,ci
 2022-06-20T10:56:45.024Z,63.5834,-147.4513,5.6,1.1,ml,,,,0.29,ak,ak0227uz6s2e,2022-06-20T10:59:02.442Z,"74 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-20T10:54:04.090Z,33.2835,-115.9911667,1.57,0.88,ml,20,105,0.1103,0.21,ci,ci40287744,2022-06-20T10:57:37.037Z,"4km WSW of Salton City, CA",earthquake,0.36,0.98,0.108,15,automatic,ci,ci
 2022-06-20T10:47:19.280Z,35.8598333,-117.6526667,9.22,0.59,ml,7,107,0.06281,0.05,ci,ci40287736,2022-06-20T10:50:47.712Z,"24km ESE of Little Lake, CA",earthquake,0.24,0.59,0.239,5,automatic,ci,ci
@@ -34,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-20T08:30:04.470Z,37.6398315,-118.8901672,-0.75,1.95,md,16,96,0.006983,0.07,nc,nc73747986,2022-06-20T09:01:14.373Z,"8km E of Mammoth Lakes, CA",earthquake,0.34,0.19,0.23,16,automatic,nc,nc
 2022-06-20T08:29:03.120Z,37.6416664,-118.8861694,-0.51,1.91,md,12,155,0.02039,0.01,nc,nc73747981,2022-06-20T08:53:16.326Z,"8km E of Mammoth Lakes, CA",earthquake,0.33,0.19,0.12,13,automatic,nc,nc
 2022-06-20T08:28:04.630Z,36.145,-118.5048333,12.13,1.58,ml,7,191,0.3738,0.11,ci,ci40287696,2022-06-20T08:31:45.321Z,"44km N of Kernville, CA",earthquake,1.47,31.61,0.318,18,automatic,ci,ci
-2022-06-20T08:27:36.920Z,37.6401672,-118.8896637,-0.5,2.71,md,20,80,0.007086,0.05,nc,nc73747976,2022-06-20T08:41:18.253Z,"8km E of Mammoth Lakes, CA",earthquake,0.28,0.2,0.08,22,automatic,nc,nc
+2022-06-20T08:27:36.920Z,37.6401672,-118.8896637,-0.5,2.71,md,20,80,0.007086,0.05,nc,nc73747976,2022-06-20T11:01:13.054Z,"8km E of Mammoth Lakes, CA",earthquake,0.28,0.2,0.08,22,automatic,nc,nc
 2022-06-20T08:24:36.490Z,37.6419983,-118.8915024,-0.75,1.5,md,9,100,0.004862,0.05,nc,nc73747971,2022-06-20T10:56:11.162Z,"8km E of Mammoth Lakes, CA",earthquake,0.37,0.25,0.17,8,automatic,nc,nc
 2022-06-20T08:13:13.790Z,33.3768333,-116.9608333,6.64,0.64,ml,16,105,0.06063,0.17,ci,ci40287688,2022-06-20T08:16:46.043Z,"9km WNW of Palomar Observatory, CA",earthquake,0.31,0.64,0.103,16,automatic,ci,ci
 2022-06-20T08:09:00.900Z,37.6431656,-118.8858337,-0.74,1.56,md,10,192,0.008819,0.05,nc,nc73747966,2022-06-20T10:29:11.875Z,"8km E of Mammoth Lakes, CA",earthquake,0.49,0.23,0.22,10,automatic,nc,nc
@@ -68,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-20T05:45:49.000Z,37.6351662,-118.882164,-0.3,2.04,md,16,105,0.01485,0.05,nc,nc73747911,2022-06-20T08:51:10.312Z,"8km E of Mammoth Lakes, CA",earthquake,0.35,0.26,0.18,16,automatic,nc,nc
 2022-06-20T05:41:59.190Z,39.3496667,-123.2718333,3.6,1.29,md,15,94,0.07305,0.04,nc,nc73747906,2022-06-20T07:04:13.657Z,"10km SE of Willits, CA",earthquake,0.25,1.84,0.204,13,reviewed,nc,nc
 2022-06-20T05:39:12.386Z,2.5581,128.2986,161.25,4.6,mb,,97,2.004,0.53,us,us7000hing,2022-06-20T06:32:15.040Z,"97 km NNE of Tobelo, Indonesia",earthquake,9.6,5.8,0.051,113,reviewed,us,us
-2022-06-20T05:34:12.950Z,19.2490005493164,-155.409164428711,32.4500007629395,2.3,ml,44,127,,0.129999995,hv,hv73049532,2022-06-20T05:39:44.410Z,"8 km NE of Pāhala, Hawaii",earthquake,0.56,0.670000017,4.12,15,automatic,hv,hv
+2022-06-20T05:34:12.950Z,19.2490005493164,-155.409164428711,32.4500007629395,2.3,ml,44,127,,0.129999995,hv,hv73049532,2022-06-20T11:11:44.040Z,"8 km NE of Pāhala, Hawaii",earthquake,0.56,0.670000017,4.12,15,automatic,hv,hv
 2022-06-20T05:33:03.620Z,37.6356659,-118.8841629,-0.26,2.79,md,23,86,0.01331,0.05,nc,nc73747896,2022-06-20T08:10:11.174Z,"8km E of Mammoth Lakes, CA",earthquake,0.29,0.22,0.18,27,automatic,nc,nc
 2022-06-20T05:26:27.768Z,61.6828,-146.959,17.1,3.1,ml,,,,0.81,ak,ak0227uw157g,2022-06-20T05:28:06.790Z,"30 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-20T05:26:05.850Z,37.6376648,-118.8848343,-0.41,1.49,md,10,144,0.01166,0.05,nc,nc73747891,2022-06-20T07:53:12.077Z,"8km E of Mammoth Lakes, CA",earthquake,0.5,0.3,0.14,10,automatic,nc,nc
@@ -261,5 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-19T11:31:50.380Z,37.6365,-118.897,4.36,0.84,md,19,91,0.007881,0.06,nc,nc73747541,2022-06-19T17:16:15.507Z,"7km E of Mammoth Lakes, CA",earthquake,0.26,0.43,0.196,16,reviewed,nc,nc
 2022-06-19T11:30:34.190Z,37.6375,-118.8946667,4.72,1.38,md,21,90,0.007094,0.04,nc,nc73747536,2022-06-19T19:34:15.408Z,"7km E of Mammoth Lakes, CA",earthquake,0.33,0.54,0.175,17,reviewed,nc,nc
 2022-06-19T11:29:02.040Z,61.6324,-147.361,26.1,1.5,ml,,,,0.69,ak,ak0227tc2zj0,2022-06-19T11:31:19.602Z,"24 km SE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-19T11:09:50.141Z,64.9256,-149.2525,18.7,0.7,ml,,,,0.32,ak,ak0227tbysx2,2022-06-19T11:12:11.080Z,"25 km S of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-19T11:09:32.170Z,36.031,-117.8288333,-0.22,1.03,ml,11,130,0.05105,0.25,ci,ci40287200,2022-06-19T11:13:08.020Z,"11km E of Coso Junction, CA",earthquake,0.73,31.61,0.122,15,automatic,ci,ci

@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-27T17:46:18.110Z,36.1851654,-118.0073318,1.65,1.24,ml,15,88,0.1406,0.1,ci,ci40292408,2022-06-27T17:48:22.892Z,"11km S of Olancha, CA",earthquake,0.35,0.84,0.24,2,automatic,ci,ci
 2022-06-27T17:12:12.280Z,18.8659992218018,-155.189163208008,10.210000038147,2.27999997,md,29,265,,0.200000003,hv,hv73057912,2022-06-27T17:15:36.320Z,"46 km ESE of Naalehu, Hawaii",earthquake,1.65,0.910000026,1.37,11,automatic,hv,hv
 2022-06-27T17:08:54.740Z,38.7701683,-122.713501,1.2,0.71,md,7,128,0.01129,0.03,nc,nc73751706,2022-06-27T17:19:11.088Z,"2km WSW of Anderson Springs, CA",earthquake,0.49,0.94,0.17,2,automatic,nc,nc
 2022-06-27T16:47:12.770Z,37.5625,-118.8636703,3.54,1.57,md,18,167,0.03885,0.02,nc,nc73751701,2022-06-27T16:54:10.922Z,"13km SE of Mammoth Lakes, CA",earthquake,0.62,0.75,0.14,18,automatic,nc,nc
@@ -102,6 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-27T04:51:28.170Z,19.1480007171631,-155.495666503906,33.2299995422363,2.95,ml,34,163,,0.140000001,hv,hv73057307,2022-06-27T04:57:35.929Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.68,0.810000002,3.59,35,automatic,hv,hv
 2022-06-27T04:49:03.328Z,-22.6838,-68.8309,105.03,4.3,mb,,70,0.658,0.88,us,us7000hkhv,2022-06-27T05:08:41.040Z,"26 km SSE of Calama, Chile",earthquake,5.2,3.9,0.099,29,reviewed,us,us
 2022-06-27T04:45:07.460Z,40.7451667,-112.0596667,1.16,0.42,md,6,119,0.07734,0.18,uu,uu60503542,2022-06-27T16:38:50.290Z,"5 km NE of Magna, Utah",earthquake,0.74,11.02,0.392,5,reviewed,uu,uu
+2022-06-27T04:38:24.658Z,36.7357,-116.2067,5.3,-0.5,ml,11,122.23,0.009,0.1133,nn,nn00841781,2022-06-27T17:49:06.639Z,"51 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.35,4,reviewed,nn,nn
 2022-06-27T04:35:58.910Z,32.6546667,-115.7315,7.41,0.99,ml,15,72,0.006854,0.25,ci,ci40292056,2022-06-27T04:39:30.053Z,"16km WNW of Progreso, B.C., MX",earthquake,0.61,0.81,0.3,8,automatic,ci,ci
 2022-06-27T04:24:30.459Z,62.5704,-151.1727,80.4,1.7,ml,,,,0.49,ak,ak02286g6puu,2022-06-27T04:26:37.825Z,"22 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-27T04:17:18.221Z,16.5771,-100.1464,10,4,mb,,220,1.801,0.69,us,us7000hkht,2022-06-27T04:53:26.040Z,"39 km SW of Acapulco de Juárez, Mexico",earthquake,9.9,1.9,0.06,75,reviewed,us,us
@@ -211,5 +213,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T17:53:43.540Z,46.19116666666667,-122.18816666666666,1.26,-0.1,mh,8,205,0.008816,0.17,uw,uw61846482,2022-06-27T03:45:48.660Z,"37 km NNE of Amboy, Washington",earthquake,1.18,0.41,,0,reviewed,uw,uw
 2022-06-26T17:52:30.800Z,37.6258333,-118.8706667,0.12,1.54,md,16,87,0.009174,0.05,nc,nc73751371,2022-06-27T17:24:13.128Z,"10km E of Mammoth Lakes, CA",earthquake,0.31,0.33,0.059,10,reviewed,nc,nc
 2022-06-26T17:51:43.390Z,37.6258333,-118.8705,0.04,1.64,md,18,87,0.009086,0.04,nc,nc73751366,2022-06-27T17:34:13.198Z,"10km E of Mammoth Lakes, CA",earthquake,0.3,0.31,0.1,11,reviewed,nc,nc
-2022-06-26T17:50:13.250Z,37.624,-118.8691667,0.17,1.94,md,20,90,0.007024,0.06,nc,nc73751361,2022-06-27T16:38:10.846Z,"10km E of Mammoth Lakes, CA",earthquake,0.26,0.37,0.077,15,reviewed,nc,nc
-2022-06-26T17:47:38.370Z,47.594,-122.58133333333333,26.64,0.99,ml,12,143,0.1053,0.31,uw,uw61846477,2022-06-27T03:58:21.660Z,"Puget Sound region, Washington",earthquake,1.01,1.44,0.206801451568062,3,reviewed,uw,uw
+2022-06-26T17:50:13.250Z,37.624,-118.8691667,0.17,1.94,md,20,90,0.007024,0.06,nc,nc73751361,2022-06-27T17:45:14.260Z,"10km E of Mammoth Lakes, CA",earthquake,0.26,0.37,0.077,15,reviewed,nc,nc

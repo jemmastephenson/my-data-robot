@@ -98,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T19:53:28.242Z,38.1729,-117.828,4.3,0.9,ml,8,185.49,0.109,0.1276,nn,nn00841770,2022-06-26T19:57:32.002Z,"34 km SE of Mina, Nevada",earthquake,,3.6,0.38,5,automatic,nn,nn
 2022-06-26T19:45:27.840Z,35.8496667,-117.6755,10.7,0.79,ml,8,84,0.07185,0.14,ci,ci40291888,2022-06-26T19:48:54.387Z,"23km ESE of Little Lake, CA",earthquake,0.41,0.82,0.096,8,automatic,ci,ci
 2022-06-26T19:37:06.220Z,33.9608333,-116.6448333,9.83,1.53,ml,49,60,0.06089,0.17,ci,ci40291880,2022-06-26T19:48:03.430Z,"11km NW of Garnet, CA",earthquake,0.2,0.46,0.119,27,automatic,ci,ci
-2022-06-26T19:17:51.013Z,35.9133,-0.3626,10,4.5,mb,,155,1.747,0.76,us,us7000hkfb,2022-06-27T04:31:23.135Z,"13 km NNW of Aïn el Bya, Algeria",earthquake,7.1,1.9,0.096,32,reviewed,us,us
+2022-06-26T19:17:51.013Z,35.9133,-0.3626,10,4.5,mb,,155,1.747,0.76,us,us7000hkfb,2022-06-27T08:52:10.859Z,"13 km NNW of Aïn el Bya, Algeria",earthquake,7.1,1.9,0.096,32,reviewed,us,us
 2022-06-26T19:11:50.286Z,62.6272,-151.3127,82.9,1.7,ml,,,,0.5,ak,ak022851i4no,2022-06-26T19:14:52.292Z,"31 km WNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-06-26T19:09:52.633Z,64.0831,-151.546,0,1.5,ml,,,,0.87,ak,ak022851hpen,2022-06-26T19:11:55.759Z,"43 km ENE of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-26T19:05:11.390Z,18.2648333333333,-68.0501666666667,109.7,3.42,md,15,187,,0.52,pr,pr71356213,2022-06-26T19:42:29.010Z,"51 km SE of Punta Cana, Dominican Republic",earthquake,4.42,2.71,0.0625030261974315,8,reviewed,pr,pr

@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-03T15:53:19.026Z,61.3589,-151.8774,69.4,1.2,ml,,,,0.67,ak,ak0228gk4rcu,2022-07-03T15:57:02.167Z,"49 km WNW of Beluga, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2022-07-03T15:47:35.900Z,19.2479991912842,-155.382659912109,32.9500007629395,2.1500001,md,44,139,,0.129999995,hv,hv73063797,2022-07-03T15:53:07.500Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.46,0.699999988,1.54999995,28,automatic,hv,hv
 2022-07-03T15:44:20.932Z,63.7344,-149.5203,83.8,1.6,ml,,,,0.53,ak,ak0228gk2u25,2022-07-03T15:46:34.023Z,"29 km W of Denali Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-07-03T15:43:30.428Z,38.1828,-117.8347,0.9,1,ml,10,187.08,0.107,0.1412,nn,nn00842155,2022-07-03T15:47:25.854Z,"33 km SE of Mina, Nevada",earthquake,,9.4,0.28,7,automatic,nn,nn
 2022-07-03T15:33:04.698Z,38.1968,-117.8097,2,0.5,ml,11,198.54,0.131,0.2168,nn,nn00842152,2022-07-03T15:37:36.386Z,"33 km SE of Mina, Nevada",earthquake,,4.5,0.48,6,automatic,nn,nn
 2022-07-03T15:32:38.820Z,38.828167,-122.8018341,1.75,1.21,md,25,46,0.008008,0.02,nc,nc73753911,2022-07-03T15:41:10.835Z,"7km W of Cobb, CA",earthquake,0.19,0.36,0.03,5,automatic,nc,nc
-2022-07-03T15:29:16.170Z,38.8286667,-122.8016663,1.74,0.91,md,15,62,0.008417,0.01,nc,nc73753906,2022-07-03T15:37:10.810Z,"7km W of Cobb, CA",earthquake,0.26,0.52,0.29,2,automatic,nc,nc
+2022-07-03T15:29:16.170Z,38.8286667,-122.8016663,1.74,0.91,md,15,62,0.008417,0.01,nc,nc73753906,2022-07-03T15:51:14.891Z,"7km W of Cobb, CA",earthquake,0.26,0.52,0.29,2,automatic,nc,nc
 2022-07-03T15:21:49.680Z,17.9853333333333,-66.839,17.77,2.38,md,23,164,,0.16,pr,pr71357258,2022-07-03T15:40:29.530Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.47,0.41,0.129959878324625,9,reviewed,pr,pr
 2022-07-03T14:52:27.600Z,19.1656665802002,-155.467666625977,31.4400005340576,1.75999999,md,35,84,,0.170000002,hv,hv73063752,2022-07-03T14:55:39.820Z,"Island of Hawaii, Hawaii",earthquake,0.76,1.13,1.57000005,6,automatic,hv,hv
 2022-07-03T14:51:10.231Z,-8.2052,119.5223,174.01,4.6,mb,58,64,1.834,0.83,us,us6000hzjv,2022-07-03T15:28:30.040Z,"42 km N of Komodo, Indonesia",earthquake,7.6,1,0.068,67,reviewed,us,us
@@ -179,5 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-02T16:09:47.400Z,33.2498333,-116.1011667,3.26,0.82,ml,15,58,0.1093,0.24,ci,ci40295512,2022-07-02T16:13:29.158Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.4,0.9,0.098,17,automatic,ci,ci
 2022-07-02T16:05:25.710Z,44.126,-122.89666666666666,9.52,0.92,ml,8,99,0.0961,0.23,uw,uw61848472,2022-07-03T03:47:56.060Z,"13 km NE of Springfield, Oregon",earthquake,0.53,1.69,0.14412782037488225,4,reviewed,uw,uw
 2022-07-02T15:59:56.010Z,34.1685,-80.7256667,1.65,2.09,md,10,63,0.04035,0.42,se,se60155643,2022-07-03T15:16:09.892Z,"6 km E of Elgin, South Carolina",earthquake,1.22,2.03,0.042,8,reviewed,se,se
-2022-07-02T15:57:26.040Z,40.2941667,-124.669,14.85,2.62,md,46,234,0.2497,0.17,nc,nc73753546,2022-07-02T22:34:15.800Z,"33km W of Petrolia, CA",earthquake,0.52,0.57,0.109,42,reviewed,nc,nc
-2022-07-02T15:53:11.760Z,18.0405,-66.6536666666667,19.26,2.6,md,31,59,,0.11,pr,pr71357188,2022-07-02T18:03:55.966Z,"4 km NW of Ponce, Puerto Rico",earthquake,0.26,0.18,0.180032858086994,17,reviewed,pr,pr

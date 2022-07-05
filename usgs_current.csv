@@ -232,6 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T08:25:27.817Z,10.3038,94.2014,10,4.7,mb,36,86,1.962,0.57,us,us6000hzpl,2022-07-04T08:46:31.040Z,"219 km SE of Port Blair, India",earthquake,7.4,1.9,0.123,20,reviewed,us,us
 2022-07-04T08:03:05.470Z,17.9711666666667,-66.9195,14.88,2.45,md,8,197,,0.06,pr,pr71357353,2022-07-04T08:42:17.100Z,"1 km W of Guánica, Puerto Rico",earthquake,0.68,0.45,0.256167096293807,6,reviewed,pr,pr
 2022-07-04T08:02:40.409Z,10.357,94.1381,10,4.9,mb,81,92,5.805,0.49,us,us6000hzpi,2022-07-04T08:36:05.040Z,"210 km SE of Port Blair, India",earthquake,2.4,1.9,0.071,63,reviewed,us,us
-2022-07-04T07:54:38.080Z,17.9721666666667,-66.922,13.5,1.85,md,4,196,,0.04,pr,pr71357348,2022-07-04T08:36:46.970Z,"1 km W of Guánica, Puerto Rico",earthquake,0.58,0.8,0.0440341202885097,4,reviewed,pr,pr
-2022-07-04T07:54:27.070Z,37.3426667,-118.5488333,12.9,1.42,md,28,61,0.1764,0.16,nc,nc73754211,2022-07-04T23:05:11.287Z,"8km WSW of West Bishop, CA",earthquake,0.4,1.7,0.311,22,reviewed,nc,nc
-2022-07-04T07:51:39.890Z,36.1545,-118.0641667,0.66,2.27,ml,23,89,0.1734,0.18,ci,ci40296216,2022-07-04T16:09:06.590Z,"15km SSW of Olancha, CA",earthquake,0.38,0.96,0.207,25,reviewed,ci,ci

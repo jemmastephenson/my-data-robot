@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-08T19:34:26.490Z,32.9131667,-116.3075,7.96,1.01,ml,21,86,0.04146,0.17,ci,ci40300088,2022-07-08T19:38:03.615Z,"23km ENE of Pine Valley, CA",earthquake,0.28,0.65,0.208,14,automatic,ci,ci
 2022-07-08T19:17:48.237Z,58.4814,-153.3313,65.3,2.9,ml,,,,0.16,ak,ak0228ovzkpz,2022-07-08T19:19:44.985Z,"53 km NNW of Aleneva, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-07-08T19:16:36.262Z,61.6244,-141.0041,0,2.9,ml,,,,0.86,ak,ak0228ovzc2y,2022-07-08T19:18:43.643Z,"104 km E of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-07-08T19:05:35.638Z,62.918,-148.3048,0.2,2,ml,,,,0.73,ak,ak0228ovwz5n,2022-07-08T19:08:00.698Z,"62 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-07-08T19:05:36.289Z,62.8862,-148.3454,10.9,2,ml,,,,0.77,ak,ak0228ovwz5n,2022-07-08T19:45:46.588Z,"64 km SSE of Cantwell, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2022-07-08T19:04:24.810Z,32.8125,-115.4838333,3.62,1.56,ml,15,64,0.03201,0.25,ci,ci40300032,2022-07-08T19:08:16.440Z,"7km ENE of El Centro, CA",earthquake,0.68,0.56,0.227,17,automatic,ci,ci
 2022-07-08T19:01:11.470Z,38.8380013,-122.8075027,2.02,0.36,md,7,84,0.01341,0.01,nc,nc73756441,2022-07-08T19:13:09.622Z,"8km WNW of Cobb, CA",earthquake,0.53,2.12,,1,automatic,nc,nc
 2022-07-08T19:00:08.620Z,38.8009987,-122.8134995,4.13,0.35,md,10,72,0.01455,0.02,nc,nc73756431,2022-07-08T19:09:10.601Z,"6km WNW of The Geysers, CA",earthquake,0.48,1.81,,1,automatic,nc,nc
@@ -253,5 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T20:13:49.080Z,33.4441667,-116.4588333,15.09,0.69,ml,22,67,0.08373,0.27,ci,ci40299312,2022-07-07T20:17:18.394Z,"22km NNW of Borrego Springs, CA",earthquake,0.52,1.08,0.102,14,automatic,ci,ci
 2022-07-07T20:11:07.053Z,61.8597,-149.9718,34.1,2,ml,,,,0.47,ak,ak0228n90acx,2022-07-07T20:12:34.497Z,"13 km NNE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-07T20:01:08.300Z,39.426,-110.3023333,-1.3,1.47,ml,8,197,0.01774,0.15,uu,uu60504862,2022-07-07T20:43:46.720Z,"15 km SSE of Sunnyside, Utah",earthquake,1.27,0.79,0.092,5,reviewed,uu,uu
-2022-07-07T19:43:05.440Z,34.3785,-96.85633333,0,1.65,ml,32,81,0.2231562091,0.4,ok,ok2022nfec,2022-07-08T14:03:44.272Z,"3 km SW of Mill Creek, Oklahoma",quarry blast,,0.6,0.26,5,reviewed,ok,ok
-2022-07-07T19:42:18.421Z,61.0409,-152.5902,134.3,1.3,ml,,,,0.28,ak,ak0228n8litu,2022-07-07T19:43:59.753Z,"78 km W of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak

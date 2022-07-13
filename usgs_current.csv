@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-13T11:49:26.010Z,33.6548333,-116.6848333,14.99,1.77,ml,56,25,0.06128,0.2,ci,ci40302936,2022-07-13T11:53:05.054Z,"10km SSE of Idyllwild, CA",earthquake,0.19,0.4,0.157,26,automatic,ci,ci
 2022-07-13T11:30:23.873Z,63.0547,-150.77,28.3,1.5,ml,,,,0.51,ak,ak0228x0zks3,2022-07-13T11:32:25.384Z,"62 km N of Petersville, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-07-13T11:16:42.653Z,13.2799,51.2684,10,4.6,mb,27,98,8.408,0.93,us,us6000i22e,2022-07-13T11:41:28.040Z,"155 km NNE of Caluula, Somalia",earthquake,11.1,1.9,0.133,17,reviewed,us,us
 2022-07-13T11:11:52.429Z,38.7982,-117.982,12.8,1,ml,10,183.68,0.267,0.1102,nn,nn00842803,2022-07-13T11:15:49.383Z,"9 km SSW of Gabbs, Nevada",earthquake,,1.6,0.63,5,automatic,nn,nn
@@ -36,6 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-13T06:35:59.041Z,59.7071,-152.3597,60.1,0.9,ml,,,,0.4,ak,ak0228wy1k1s,2022-07-13T06:37:25.455Z,"30 km WSW of Anchor Point, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-07-13T06:25:40.260Z,38.8348351,-122.8056641,1.97,0.71,md,13,75,0.01193,0.02,nc,nc73758151,2022-07-13T06:42:15.532Z,"7km W of Cobb, CA",earthquake,0.35,0.54,0.14,2,automatic,nc,nc
 2022-07-13T06:10:16.910Z,38.7809982,-122.7173309,1.73,1.54,md,28,75,0.01532,0.05,nc,nc73758146,2022-07-13T08:45:16.224Z,"2km WNW of Anderson Springs, CA",earthquake,0.31,0.48,0.1,8,automatic,nc,nc
+2022-07-13T06:04:00.443Z,31.69507037,-104.1277487,7.57121582,2.3,ml,16,57,0.08148829655,0.2,tx,tx2022npcc,2022-07-13T11:54:01.280Z,"50 km W of Mentone, Texas",earthquake,0.9056476135,1.289492468,0.2,11,reviewed,tx,tx
 2022-07-13T05:58:21.288Z,-4.8277,154.776,467.32,4.4,mb,79,38,2.679,0.89,us,us6000i21m,2022-07-13T06:43:42.040Z,"178 km NNW of Arawa, Papua New Guinea",earthquake,11.7,5.5,0.05,114,reviewed,us,us
 2022-07-13T05:55:02.923Z,23.5966,-108.79,10,4.5,mb,45,178,1.062,0.97,us,us6000i21g,2022-07-13T06:30:04.040Z,"81 km E of La Rivera, Mexico",earthquake,4.1,2,0.046,139,reviewed,us,us
 2022-07-13T05:46:58.570Z,38.8156662,-122.7946701,3.18,1.19,md,26,43,0.007703,0.02,nc,nc73758141,2022-07-13T08:18:16.078Z,"5km NW of The Geysers, CA",earthquake,0.22,0.44,0.06,5,automatic,nc,nc
@@ -227,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-12T12:22:07.393Z,-5.0241,152.9351,35,4.9,mb,98,100,1.129,0.6,us,us6000i1su,2022-07-12T13:11:00.040Z,"105 km SE of Kokopo, Papua New Guinea",earthquake,9.6,2,0.047,144,reviewed,us,us
 2022-07-12T12:20:02.990Z,38.8371658,-122.7798309,1.46,0.85,md,11,88,0.006054,0.02,nc,nc73757771,2022-07-12T12:51:14.737Z,"5km WNW of Cobb, CA",earthquake,0.33,0.59,,1,automatic,nc,nc
 2022-07-12T12:07:13.160Z,63.5984,-147.9721,6.1,1.6,ml,,,,0.58,ak,ak0228vdwplg,2022-07-12T12:09:36.473Z,"48 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-07-12T11:48:56.110Z,62.8145,-149.3916,65.1,1.3,ml,,,,0.68,ak,ak0228vdk5nv,2022-07-12T11:51:36.987Z,"54 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak

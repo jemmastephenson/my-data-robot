@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-16T07:27:58.850Z,38.8134995,-122.8268356,1.91,0.96,md,23,57,0.004974,0.02,nc,nc73759221,2022-07-16T07:29:34.623Z,"7km WNW of The Geysers, CA",earthquake,0.19,0.41,0.08,4,automatic,nc,nc
 2022-07-16T07:16:55.010Z,35.7116667,-117.5893333,8.75,0.9,ml,9,138,0.1041,0.09,ci,ci40064335,2022-07-16T07:20:27.884Z,"13km NE of Ridgecrest, CA",earthquake,0.38,1.03,0.228,8,automatic,ci,ci
 2022-07-16T07:16:08.800Z,19.1965007781982,-155.506332397461,34.8199996948242,2.17000008,md,38,80,,0.119999997,hv,hv73076672,2022-07-16T07:19:17.890Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.59,0.899999976,1.29999995,19,automatic,hv,hv
 2022-07-16T07:11:36.060Z,33.4846667,-116.7541667,6.28,0.27,ml,14,85,0.07316,0.15,ci,ci40064327,2022-07-16T07:15:06.391Z,"11km SW of Anza, CA",earthquake,0.44,1.1,0.147,7,automatic,ci,ci
+2022-07-16T07:10:14.582Z,39.773,75.4223,41.03,4.3,mb,19,120,1.699,0.89,us,us6000i2z9,2022-07-16T07:27:50.040Z,"59 km NW of Kashgar, China",earthquake,8.6,11.6,0.239,5,reviewed,us,us
 2022-07-16T07:05:20.350Z,35.7028333,-117.567,6.64,0.48,ml,6,279,0.1154,0.04,ci,ci40064319,2022-07-16T07:08:52.770Z,"13km NE of Ridgecrest, CA",earthquake,0.66,0.49,0.095,6,automatic,ci,ci
 2022-07-16T07:04:01.639Z,38.696,-116.0939,2.2,1.4,ml,8,153.67,1.406,0.0974,nn,nn00843029,2022-07-16T07:12:14.286Z,"91 km S of Eureka, Nevada",earthquake,,1.9,0.13,5,automatic,nn,nn
 2022-07-16T06:57:39.490Z,38.8243332,-122.8050003,1.35,0.8,md,20,44,0.004072,0.03,nc,nc73759216,2022-07-16T07:15:23.413Z,"7km NW of The Geysers, CA",earthquake,0.21,0.41,0.31,4,automatic,nc,nc
@@ -108,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T21:39:54.200Z,33.2305,-116.1031667,6.8,2.34,ml,66,37,0.09226,0.24,ci,ci40064103,2022-07-15T21:50:33.840Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.22,1.14,0.129,25,automatic,ci,ci
 2022-07-15T21:30:41.646Z,65.2512,-150.0869,0,1.1,ml,,,,0.63,ak,ak02290i0n6s,2022-07-15T21:33:15.441Z,"northern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-07-15T21:29:26.797Z,-41.7533,174.3435,14.5,4.3,mwr,20,102,0.52,0.49,us,us6000i2vv,2022-07-16T04:29:26.040Z,"Cook Strait, New Zealand",earthquake,4.5,8.9,0.063,24,reviewed,us,us
-2022-07-15T21:27:25.810Z,-23.0259,-176.9796,135.7,5.1,mb,94,28,7.021,0.6,us,us6000i2vy,2022-07-15T21:48:29.040Z,"275 km SW of Vaini, Tonga",earthquake,5.4,5.8,0.03,370,reviewed,us,us
+2022-07-15T21:27:25.810Z,-23.0259,-176.9796,135.7,5.1,mb,94,28,7.021,0.6,us,us6000i2vy,2022-07-15T21:48:29.040Z,"south of the Fiji Islands",earthquake,5.4,5.8,0.03,370,reviewed,us,us
 2022-07-15T21:16:31.555Z,51.9322,-176.2013,118,1.7,ml,,,,0.23,ak,ak02290hxkx9,2022-07-15T21:43:06.306Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-07-15T21:06:27.810Z,37.6265,-118.9728333,2.16,0.26,md,11,143,0.03291,0.05,nc,nc73759011,2022-07-16T01:54:23.536Z,"1km SSE of Mammoth Lakes, CA",earthquake,0.47,1.42,0.218,10,reviewed,nc,nc
 2022-07-15T21:06:04.110Z,60.01,-153.066166666667,1.44,-0.46,ml,4,126,,0.04,av,av91633906,2022-07-16T02:04:39.030Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.3,0.28,0.307173001047088,4,reviewed,av,av
@@ -283,4 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T07:39:30.593Z,38.5795,-119.4391,7.9,1.4,ml,16,65.63,0.064,0.1138,nn,nn00842946,2022-07-15T23:24:47.298Z,"6 km ENE of Coleville, California",earthquake,,2.2,0.28,5,reviewed,nn,nn
 2022-07-15T07:37:54.080Z,33.784,-116.1258333,2.7,1.13,ml,31,90,0.0807,0.21,ci,ci40063679,2022-07-15T07:41:37.220Z,"11km NE of Indio, CA",earthquake,0.3,0.6,0.125,25,automatic,ci,ci
 2022-07-15T07:36:33.670Z,38.7791672,-122.7243347,1.77,0.21,md,8,77,0.0105,0.01,nc,nc73758801,2022-07-15T08:38:13.497Z,"3km E of The Geysers, CA",earthquake,0.34,0.76,0.17,2,automatic,nc,nc
-2022-07-15T07:36:11.153Z,43.4697,-78.184,6.99,1.3,ml,9,110,0.336,0.37,us,us6000i2yt,2022-07-16T05:51:09.040Z,"22 km NE of Lyndonville, New York",earthquake,1.1,5,0.105,12,reviewed,us,us

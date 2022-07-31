@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-31T11:27:39.840Z,17.4231,120.7484,10,4.9,mb,60,76,5.376,0.6,us,us6000i6yg,2022-07-31T11:43:52.040Z,"1 km SSW of Bantay, Philippines",earthquake,3.5,1.9,0.059,91,reviewed,us,us
+2022-07-31T11:29:55.524Z,-27.2536,179.7815,467.93,4.5,mb,24,149,9.597,0.6,us,us6000i6yi,2022-07-31T11:48:52.040Z,"Kermadec Islands region",earthquake,8.5,11,0.119,21,reviewed,us,us
+2022-07-31T11:27:39.840Z,17.4231,120.7484,10,4.9,mb,60,76,5.376,0.6,us,us6000i6yg,2022-07-31T11:44:47.912Z,"1 km SSW of Bantay, Philippines",earthquake,3.5,1.9,0.059,91,reviewed,us,us
 2022-07-31T11:24:42.830Z,33.3863333,-116.9001667,13.85,0.9,ml,35,25,0.1102,0.17,ci,ci40072783,2022-07-31T11:28:14.561Z,"5km NW of Palomar Observatory, CA",earthquake,0.23,0.74,0.167,25,automatic,ci,ci
 2022-07-31T11:19:58.406Z,-21.0349,-68.9066,113.17,4.6,mb,66,54,0.542,0.31,us,us6000i6yf,2022-07-31T11:37:38.040Z,"157 km N of Calama, Chile",earthquake,5.9,5.5,0.064,72,reviewed,us,us
 2022-07-31T11:19:47.812Z,38.6294,-119.6088,5.4,1,ml,9,100.41,0.082,0.0725,nn,nn00843884,2022-07-31T11:22:42.359Z,"7 km W of Topaz, California",earthquake,,1.2,0.2,7,automatic,nn,nn

@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-01T11:40:28.602Z,59.6198,-152.5055,64.8,1.6,ml,,,,0.55,ak,ak0229sg9bos,2022-08-01T11:43:26.260Z,"41 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-01T11:18:32.482Z,38.1749,-117.8834,10.5,0.6,ml,10,164.97,0.07,0.0847,nn,nn00843931,2022-08-01T11:22:26.967Z,"31 km SE of Mina, Nevada",earthquake,,0.9,0.38,5,automatic,nn,nn
 2022-08-01T11:17:28.272Z,62.3804,-149.3931,46,1.6,ml,,,,0.72,ak,ak0229sg4e6y,2022-08-01T11:20:02.401Z,"34 km NE of Susitna North, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-01T11:00:31.935Z,62.2069,-148.6036,31.7,1.9,ml,,,,0.27,ak,ak0229sg0rax,2022-08-01T11:02:03.637Z,"46 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak

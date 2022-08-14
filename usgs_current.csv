@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-14T19:24:23.350Z,38.795166,-122.7294998,2.36,0.86,md,11,103,0.01318,0.02,nc,nc73768090,2022-08-14T19:33:10.743Z,"3km S of Cobb, CA",earthquake,0.36,1.04,0.01,2,automatic,nc,nc
+2022-08-14T19:22:08.380Z,17.8633333333333,-66.901,14.58,2.09,md,6,295,,0.06,pr,pr71365933,2022-08-14T19:28:51.990Z,"12 km S of Guánica, Puerto Rico",earthquake,0.61,0.91,0.0857662805579844,5,reviewed,pr,pr
 2022-08-14T19:04:06.050Z,17.9976666666667,-66.8728333333333,24.64,2.12,md,4,303,,0.31,pr,pr71365923,2022-08-14T19:18:29.960Z,"1 km S of Palomas, Puerto Rico",earthquake,5.18,2.63,0.0298859786773593,3,reviewed,pr,pr
 2022-08-14T18:38:25.060Z,17.9185,-66.9958333333333,12.97,1.89,md,4,246,,0.04,pr,pr71365913,2022-08-14T19:05:42.480Z,"8 km SE of La Parguera, Puerto Rico",earthquake,1.03,0.65,0.0813390168213379,4,reviewed,pr,pr
 2022-08-14T18:27:10.053Z,62.0632,-149.2426,0,1.2,ml,,,,0.91,ak,ak022ae2c1lp,2022-08-14T18:29:09.626Z,"33 km ESE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -199,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-13T20:17:44.830Z,67.9492,-154.8844,0,2.2,ml,,,,1.17,ak,ak022acfxhtv,2022-08-13T20:21:15.483Z,"133 km W of Anaktuvuk Pass, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-13T20:01:09.915Z,25.6605,99.946,10,4.2,mb,26,72,4.367,0.64,us,us6000ial9,2022-08-13T21:20:37.040Z,"28 km WNW of Dali, China",earthquake,4.84,1.933,0.167,10,reviewed,us,us
 2022-08-13T19:38:48.520Z,46.84316666666667,-121.759,1.13,0.18,ml,9,112,0.01939,0.05,uw,uw61863082,2022-08-14T04:31:52.420Z,"22 km ENE of Ashford, Washington",earthquake,0.33,0.71,0.1567600871417438,3,reviewed,uw,uw
-2022-08-13T19:26:01.363Z,46.8652,144.6345,384.844,5.3,mww,55,115,1.288,0.74,us,us6000iakz,2022-08-13T21:35:51.040Z,"144 km E of Korsakov, Russia",earthquake,10.49,7.213,0.098,10,reviewed,us,us
-2022-08-13T19:25:31.728Z,62.1829,-148.9373,33.5,1.2,ml,,,,0.58,ak,ak022acfdqxl,2022-08-13T19:27:46.359Z,"46 km NNW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak

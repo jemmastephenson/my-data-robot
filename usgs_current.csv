@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-16T09:50:00.470Z,38.8089981,-122.8125,3.75,0.35,md,11,121,0.01303,0.02,nc,nc73768675,2022-08-16T09:56:10.646Z,"6km NW of The Geysers, CA",earthquake,0.51,1.47,,1,automatic,nc,nc
+2022-08-16T10:11:42.400Z,33.5273333,-116.735,3.05,0.23,ml,17,62,0.03802,0.17,ci,ci40326312,2022-08-16T10:15:08.115Z,"6km WSW of Anza, CA",earthquake,0.29,0.72,0.192,5,automatic,ci,ci
+2022-08-16T09:57:21.301Z,63.2933,-149.452,82.4,1.6,ml,,,,0.42,ak,ak022ah88ahu,2022-08-16T09:59:20.291Z,"27 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-08-16T09:50:00.470Z,38.8089981,-122.8125,3.75,0.35,md,11,121,0.01303,0.02,nc,nc73768675,2022-08-16T10:06:16.695Z,"6km NW of The Geysers, CA",earthquake,0.51,1.47,,1,automatic,nc,nc
 2022-08-16T09:49:51.639Z,60.7256,-150.7529,26.7,1.4,ml,,,,0.51,ak,ak022ah86n3l,2022-08-16T09:58:08.301Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-16T09:45:44.910Z,33.1966667,-115.5166667,3.69,1.6,ml,23,110,0.08518,0.19,ci,ci40326304,2022-08-16T09:49:23.959Z,"5km S of Niland, CA",earthquake,0.31,0.47,0.176,27,automatic,ci,ci
 2022-08-16T09:30:57.994Z,61.4939,-151.4858,70.4,1.9,ml,,,,0.41,ak,ak022ah82kzr,2022-08-16T09:32:52.909Z,"44 km NNW of Beluga, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -226,6 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-15T10:57:24.704Z,61.4885,-151.8096,85.4,1.5,ml,,,,0.6,ak,ak022afladva,2022-08-15T10:59:18.078Z,"54 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-15T10:31:53.550Z,39.4293333,-110.3063333,-1.49,1.64,ml,15,181,0.01545,0.16,uu,uu60509902,2022-08-15T14:52:15.070Z,"15 km SSE of Sunnyside, Utah",earthquake,0.73,0.35,0.109,4,reviewed,uu,uu
 2022-08-15T10:29:41.040Z,33.6541667,-116.7045,13.16,0.92,ml,33,52,0.02952,0.18,ci,ci40325736,2022-08-15T20:22:09.998Z,"10km S of Idyllwild, CA",earthquake,0.31,0.67,0.107,39,reviewed,ci,ci
-2022-08-15T10:17:12.516Z,59.9802,-148.0107,0,1.8,ml,,,,0.91,ak,ak022afl1sab,2022-08-15T10:19:14.477Z,"9 km S of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-08-15T10:14:18.274Z,63.2774,-150.6349,122.3,1.5,ml,,,,0.46,ak,ak022afl15kz,2022-08-15T10:16:48.772Z,"61 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-08-15T10:10:47.190Z,38.7856667,-122.9391667,3.75,0.88,md,28,138,0.03933,0.04,nc,nc73768335,2022-08-16T06:09:19.327Z,"7km ESE of Cloverdale, CA",earthquake,0.21,0.72,0.136,8,reviewed,nc,nc

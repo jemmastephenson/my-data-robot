@@ -222,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-19T07:54:37.773Z,36.6765,-116.1298,4.2,-0.2,ml,9,193.76,0.022,0.0822,nn,nn00845433,2022-08-19T17:47:21.541Z,"42 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.1,4,reviewed,nn,nn
 2022-08-19T07:50:00.565Z,38.2537,-118.3594,8.8,0.5,ml,10,145.87,0.114,0.1068,nn,nn00845502,2022-08-20T02:39:25.524Z,"26 km SW of Mina, Nevada",earthquake,,2.8,0.2,3,reviewed,nn,nn
 2022-08-19T07:48:13.530Z,35.7721667,-117.5826667,7.03,1.33,ml,29,63,0.04512,0.13,ci,ci40328256,2022-08-19T17:28:12.374Z,"16km W of Searles Valley, CA",earthquake,0.18,0.4,0.114,19,reviewed,ci,ci
-2022-08-19T07:42:55.170Z,38.7896652,-122.762001,1.59,0.55,md,12,64,0.01109,0.02,nc,nc73769620,2022-08-19T07:59:17.158Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.54,0.24,3,automatic,nc,nc
-2022-08-19T07:39:24.380Z,19.1938323974609,-155.490997314453,30.8899993896484,2,md,43,75,,0.129999995,hv,hv73114342,2022-08-19T07:42:38.000Z,"1 km SW of Pāhala, Hawaii",earthquake,0.58,0.860000014,0.769999981,19,automatic,hv,hv

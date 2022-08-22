@@ -94,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T21:15:02.360Z,34.1516667,-117.3176667,10.79,0.93,ml,18,79,0.06785,0.24,ci,ci40329392,2022-08-21T21:18:39.185Z,"2km E of Muscoy, CA",earthquake,0.42,0.89,0.22,22,automatic,ci,ci
 2022-08-21T21:12:32.280Z,33.8298333,-116.1838333,6.36,0.85,ml,18,111,0.04551,0.13,ci,ci40329384,2022-08-21T21:16:06.474Z,"12km NNE of Indio, CA",earthquake,0.29,0.72,0.149,22,automatic,ci,ci
 2022-08-21T21:00:36.093Z,51.2065,179.1385,35.8,1.8,ml,,,,0.29,ak,ak022apoq0h0,2022-08-22T05:45:32.617Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,1.9,,,reviewed,ak,ak
-2022-08-21T20:52:42.050Z,17.9971666666667,-66.8823333333333,15.72,2.34,md,8,91,,0.11,pr,pr71367303,2022-08-22T00:09:01.560Z,"Puerto Rico region",earthquake,0.59,0.52,0.0834201349129442,5,reviewed,pr,pr
+2022-08-21T20:52:42.050Z,17.9971666666667,-66.8823333333333,15.72,2.34,md,8,91,,0.11,pr,pr71367303,2022-08-22T00:09:01.560Z,"2 km SSW of Palomas, Puerto Rico",earthquake,0.59,0.52,0.0834201349129442,5,reviewed,pr,pr
 2022-08-21T20:27:39.120Z,19.1573333740234,-155.491668701172,30.5400009155273,1.83000004,md,24,245,,0.239999995,hv,hv73116917,2022-08-21T20:31:01.900Z,"5 km SSW of Pāhala, Hawaii",earthquake,1.33,1.69000006,0.460000008,5,automatic,hv,hv
 2022-08-21T20:21:17.205Z,62.5133,-149.835,64.7,1.2,ml,,,,0.66,ak,ak022apo92i5,2022-08-21T20:23:37.638Z,"15 km ENE of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-08-21T20:14:08.750Z,62.1853,-145.5038,24.5,1,ml,,,,0.27,ak,ak022apo7fi8,2022-08-22T05:42:33.800Z,"8 km NNE of Glennallen, Alaska",earthquake,,0.8,,,reviewed,ak,ak
@@ -151,7 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T14:39:27.880Z,35.6845,-117.5366667,9.92,1.16,ml,15,94,0.14,0.1,ci,ci40329280,2022-08-21T14:42:55.687Z,"14km ENE of Ridgecrest, CA",earthquake,0.29,0.77,0.144,13,automatic,ci,ci
 2022-08-21T14:35:58.010Z,36.1743333,-91.1971667,13.1,2,md,27,86,0.1098,0.28,nm,nm60405507,2022-08-21T17:12:38.144Z,"Missouri-Arkansas border region",earthquake,0.44,0.95,0.089,16,reviewed,nm,nm
 2022-08-21T14:27:46.210Z,36.0205002,-120.5808334,3.74,1.51,md,19,80,0.03752,0.06,nc,nc73770420,2022-08-21T15:43:13.881Z,"19km NW of Parkfield, CA",earthquake,0.29,0.5,0.04,11,automatic,nc,nc
-2022-08-21T14:12:44.960Z,36.1686667,-91.1988333,15.97,3.14,md,46,60,0.1049,0.19,nm,nm60405492,2022-08-22T10:05:54.961Z,"4 km SSW of Imboden, Arkansas",earthquake,0.32,0.45,0.207,43,reviewed,nm,nm
+2022-08-21T14:12:44.960Z,36.1686667,-91.1988333,15.97,3.14,md,46,60,0.1049,0.19,nm,nm60405492,2022-08-22T11:16:54.439Z,"4 km SSW of Imboden, Arkansas",earthquake,0.32,0.45,0.207,43,reviewed,nm,nm
 2022-08-21T13:56:54.137Z,61.6352,-149.6701,33.9,1.1,ml,,,,0.32,ak,ak022apkam79,2022-08-21T13:58:40.509Z,"3 km WNW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-21T13:56:13.350Z,38.7886658,-122.7611694,0.8,1.01,md,19,77,0.012,0.04,nc,nc73770415,2022-08-21T15:18:10.733Z,"1km NNW of The Geysers, CA",earthquake,0.22,0.43,0.17,5,automatic,nc,nc
 2022-08-21T13:46:36.260Z,34.036,-117.5546667,5.36,1.38,ml,44,33,0.03185,0.17,ci,ci40329248,2022-08-21T13:57:56.450Z,"6km NW of Mira Loma, CA",earthquake,0.2,0.4,0.206,28,automatic,ci,ci
@@ -178,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T11:46:31.950Z,37.6575,-119.0221667,-1.02,-0.07,md,6,102,0.007965,0.03,nc,nc73770375,2022-08-21T18:17:27.860Z,"4km WNW of Mammoth Lakes, CA",earthquake,0.47,0.66,0.163,6,reviewed,nc,nc
 2022-08-21T11:46:08.754Z,-7.2582,154.8117,10,4.7,mb,55,55,4.028,0.47,us,us6000icir,2022-08-21T12:26:06.040Z,"128 km SW of Panguna, Papua New Guinea",earthquake,6.14,1.873,0.07,61,reviewed,us,us
 2022-08-21T11:37:28.010Z,19.1656665802002,-155.503997802734,31.4400005340576,2.3900001,md,44,116,,0.180000007,hv,hv73116537,2022-08-21T12:14:57.040Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.62,0.889999986,0.800000012,32,automatic,hv,hv
-2022-08-21T11:09:44.146Z,-38.3196,176.3476,181.027,4.4,mb,36,108,0.89,0.78,us,us6000icik,2022-08-21T11:28:32.040Z,"21 km SSE of Rotorua, New Zealand",earthquake,6.27,7.408,0.114,22,reviewed,us,us

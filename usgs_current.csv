@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-25T11:47:13.810Z,33.7051667,-116.7341667,18.03,0.92,ml,39,38,0.01771,0.19,ci,ci40331504,2022-08-25T11:50:49.419Z,"4km SSW of Idyllwild, CA",earthquake,0.26,0.44,0.171,27,automatic,ci,ci
+2022-08-25T11:43:38.321Z,39.9032,-119.7102,3.8,1.3,ml,13,274.35,0.315,0.3713,nn,nn00845819,2022-08-25T11:46:48.325Z,"10 km WSW of Sutcliffe, Nevada",earthquake,,1.6,0.35,11,automatic,nn,nn
 2022-08-25T11:37:47.198Z,38.6053,-119.4296,0,1.4,ml,17,70.82,0.073,0.208,nn,nn00845814,2022-08-25T11:40:39.264Z,"7 km E of Topaz, California",earthquake,,3.7,0.23,10,automatic,nn,nn
 2022-08-25T11:27:06.666Z,62.2139,-149.9917,26.7,1.2,ml,,,,0.31,ak,ak022aw52tje,2022-08-25T11:28:56.911Z,"9 km NW of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-25T11:05:09.077Z,59.1057,-153.1524,39.5,1.7,ml,,,,1.27,ak,ak022aw4y3yz,2022-08-25T11:07:50.822Z,"75 km WSW of Nanwalek, Alaska",earthquake,,15.4,,,automatic,ak,ak

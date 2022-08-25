@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-25T13:44:45.510Z,33.3180008,-116.3501663,10.68,1.68,ml,65,29,0.05578,0.21,ci,ci40331576,2022-08-25T13:55:17.430Z,"7km NNE of Borrego Springs, CA",earthquake,0.23,0.51,0.238,25,automatic,ci,ci
+2022-08-25T13:44:10.930Z,33.3209991,-116.3379974,11.96,1.02,ml,29,122,0.04762,0.16,ci,ci40331568,2022-08-25T13:46:22.507Z,"8km NNE of Borrego Springs, CA",earthquake,0.34,0.65,0.263,5,automatic,ci,ci
 2022-08-25T13:31:35.066Z,61.8217,-149.5671,45.2,1.4,ml,,,,0.42,ak,ak022aw6alu8,2022-08-25T13:34:49.066Z,"19 km WNW of Fishhook, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-08-25T13:13:52.730Z,32.029335,-116.7191696,15.53,2.01,ml,25,177,0.1676,0.15,ci,ci40331552,2022-08-25T13:16:18.555Z,"15km NNW of El Sauzal, B.C., MX",earthquake,0.48,1.33,0.158,14,automatic,ci,ci
 2022-08-25T13:04:55.210Z,60.0153,-152.9912,121.5,1.5,ml,,,,0.29,ak,ak022aw64v0x,2022-08-25T13:06:55.658Z,"67 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -51,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-25T08:39:36.950Z,33.3271667,-116.341,9.22,0.64,ml,17,108,0.04386,0.2,ci,ci40331400,2022-08-25T08:43:07.441Z,"8km NNE of Borrego Springs, CA",earthquake,0.4,0.67,0.159,12,automatic,ci,ci
 2022-08-25T08:37:09.400Z,33.4815,-116.4293333,13.83,0.49,ml,23,64,0.0419,0.18,ci,ci40331392,2022-08-25T08:40:45.234Z,"23km SSW of La Quinta, CA",earthquake,0.37,0.63,0.149,10,automatic,ci,ci
 2022-08-25T08:36:01.870Z,38.1553,-118.0068,3.9,0.2,ml,8,151.55,0.041,0.0944,nn,nn00845802,2022-08-25T08:39:44.553Z,"27 km SSE of Mina, Nevada",earthquake,,0.6,0.4,5,automatic,nn,nn
-2022-08-25T08:33:51.655Z,61.2282,-146.271,23.7,3.6,ml,,,,0.48,ak,ak022aw3bwgu,2022-08-25T13:36:41.248Z,"11 km NNE of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-08-25T08:33:51.655Z,61.2282,-146.271,23.7,3.6,ml,,,,0.48,ak,ak022aw3bwgu,2022-08-25T13:59:37.287Z,"11 km NNE of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-25T08:32:24.088Z,38.1518,-118.0088,4,0.7,ml,9,171.26,0.041,0.0839,nn,nn00845801,2022-08-25T08:36:04.269Z,"27 km SSE of Mina, Nevada",earthquake,,1.2,0.46,4,automatic,nn,nn
 2022-08-25T08:30:36.124Z,38.1517,-118.0197,0.3,2.1,ml,25,122.74,0.049,0.2817,nn,nn00845798,2022-08-25T08:34:12.800Z,"27 km SSE of Mina, Nevada",earthquake,,0.3,0.3,14,automatic,nn,nn
 2022-08-25T08:23:36.190Z,33.3268333,-116.3386667,9.93,0.65,ml,24,69,0.04299,0.21,ci,ci40331384,2022-08-25T13:26:29.387Z,"9km NNE of Borrego Springs, CA",earthquake,0.38,0.63,0.154,12,reviewed,ci,ci
@@ -233,7 +235,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-24T16:30:37.700Z,51.951,179.601833333333,7.83,0.64,ml,6,81,,0.23,av,av91667931,2022-08-25T10:29:02.670Z,"259 km W of Adak, Alaska",earthquake,0.78,1.21,0.365859267942149,6,reviewed,av,av
 2022-08-24T16:27:34.480Z,36.0266667,-117.6981667,-1.25,0.96,ml,6,148,0.09999,0.17,ci,ci40330912,2022-08-24T19:47:51.398Z,"21km ENE of Little Lake, CA",earthquake,0.48,31.61,0.239,2,reviewed,ci,ci
 2022-08-24T16:08:50.170Z,51.9616666666667,179.599833333333,4.77,1.73,ml,7,104,,0.29,av,av91069168,2022-08-25T10:37:02.600Z,"259 km W of Adak, Alaska",earthquake,0.62,1.01,0.17586442262953,7,reviewed,av,av
-2022-08-24T16:01:32.175Z,39.4156,-119.9129,6.2,0.6,ml,5,139.27,0.132,0.0556,nn,nn00845787,2022-08-24T23:00:43.615Z,"9 km ENE of Floriston, California",earthquake,,5.4,0.34,3,reviewed,nn,nn
+2022-08-24T16:01:32.175Z,39.4156,-119.9129,6.2,0.6,ml,5,139.27,0.132,0.0556,nn,nn00845787,2022-08-24T23:00:43.615Z,"Nevada",earthquake,,5.4,0.34,3,reviewed,nn,nn
 2022-08-24T15:55:02.910Z,34.3363333,-116.8866667,-1.35,1.27,ml,8,104,0.05036,0.13,ci,ci40330904,2022-08-24T19:45:17.384Z,"9km NNW of Big Bear City, CA",quarry blast,0.45,31.61,0.094,6,reviewed,ci,ci
 2022-08-24T15:33:34.732Z,-19.8898,168.7481,27.802,5,mww,37,85,2.969,1.2,us,us7000i238,2022-08-25T13:22:19.040Z,"Vanuatu",earthquake,7.25,3.615,0.089,12,reviewed,us,us
 2022-08-24T15:24:03.790Z,34.31,-118.6206667,8.18,1.04,ml,4,154,0.03392,0.12,ci,ci40330896,2022-08-24T18:48:51.533Z,"6km NNW of Chatsworth, CA",earthquake,0.57,1.23,0.113,2,reviewed,ci,ci

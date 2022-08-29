@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-29T09:50:00.092Z,61.7127,-146.6805,19.9,1.4,ml,,,,0.67,ak,ak022b2q699l,2022-08-29T09:52:31.357Z,"31 km S of Nelchina, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-08-29T09:43:28.952Z,38.163,-118.1593,0.6,0.2,ml,8,162.98,0.267,0.225,nn,nn00846054,2022-08-29T09:47:44.276Z,"25 km S of Mina, Nevada",earthquake,,0,0.27,6,automatic,nn,nn
 2022-08-29T09:43:16.826Z,61.6125,-146.5668,40.5,2.6,ml,,,,0.87,ak,ak022b2q4sjm,2022-08-29T09:45:41.965Z,"43 km SSE of Nelchina, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2022-08-29T09:41:23.311Z,61.6762,-146.7022,27.4,3.8,ml,,,,0.48,ak,ak022b2q4dl2,2022-08-29T09:44:32.114Z,"35 km S of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-08-29T09:41:23.311Z,61.6762,-146.7022,27.4,3.8,ml,,,,0.48,ak,ak022b2q4dl2,2022-08-29T09:49:46.695Z,"35 km S of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-29T09:40:17.980Z,35.6505,-118.3201667,8.08,0.58,ml,11,109,0.05146,0.11,ci,ci40333704,2022-08-29T09:43:46.413Z,"14km ESE of Wofford Heights, CA",earthquake,0.39,0.51,0.266,5,automatic,ci,ci
 2022-08-29T09:08:04.639Z,38.5253,-119.4793,7.1,0.8,ml,14,153.84,0.038,0.151,nn,nn00846050,2022-08-29T09:10:46.209Z,"California-Nevada border region",earthquake,,0.7,0.43,6,automatic,nn,nn
 2022-08-29T09:04:03.505Z,38.1703,-117.9934,0,1,ml,14,115.84,0.029,0.4301,nn,nn00846047,2022-08-29T09:07:26.441Z,"26 km SSE of Mina, Nevada",earthquake,,0.4,0.22,9,automatic,nn,nn
@@ -261,4 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-28T10:10:32.110Z,48.371833333333335,-122.806,14.1,0.89,ml,12,135,0.08434,0.17,uw,uw61866762,2022-08-28T16:45:55.090Z,"10 km WNW of Ault Field, Washington",earthquake,0.59,0.99,0.16417652414262235,4,reviewed,uw,uw
 2022-08-28T10:08:50.170Z,19.1858329772949,-155.50700378418,34.4500007629395,2.17000008,md,42,92,,0.119999997,hv,hv73123932,2022-08-28T10:12:04.070Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.61,0.939999998,1.70000005,18,automatic,hv,hv
 2022-08-28T10:00:30.600Z,8.7126,126.9405,51.814,4.7,mb,45,111,2.117,0.48,us,us7000i333,2022-08-28T10:21:50.040Z,"71 km E of Marihatag, Philippines",earthquake,9.86,8.234,0.061,81,reviewed,us,us
-2022-08-28T09:48:24.560Z,34.3178333,-116.8901667,7.92,1.04,ml,28,81,0.06,0.18,ci,ci40333064,2022-08-28T09:51:58.662Z,"8km NNW of Big Bear City, CA",earthquake,0.38,0.6,0.168,31,automatic,ci,ci

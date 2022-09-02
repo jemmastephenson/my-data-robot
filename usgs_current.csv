@@ -191,8 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-01T11:57:43.677Z,47.1997,9.6018,2.719,3.9,mb,17,77,0.736,0.55,us,us7000i4af,2022-09-01T21:14:12.917Z,"2 km SW of Frastanz, Austria",earthquake,2.51,6.478,0.362,2,reviewed,us,us
 2022-09-01T11:57:32.894Z,65.7923,-149.5756,0.1,1.5,ml,,,,0.7,ak,ak022b7q0qi1,2022-09-01T11:59:36.507Z,"32 km SW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-01T11:47:10.710Z,39.4303333,-110.3095,-1.31,1.82,md,9,167,0.01359,0.1,uu,uu60513117,2022-09-01T14:47:31.740Z,"Utah",earthquake,1.22,0.49,0.141,7,reviewed,uu,uu
-2022-09-01T11:32:54.040Z,60.5323333333333,-152.736333333333,5.04,0.98,ml,6,133,,0.06,av,av91672801,2022-09-02T00:15:38.140Z,"78 km W of Salamatof, Alaska",earthquake,0.45,0.82,0.3700121992445,6,reviewed,av,av
-2022-09-01T11:32:08.777Z,62.1897,-151.1016,71.5,1.9,ml,,,,0.48,ak,ak022b7pvbql,2022-09-01T11:34:35.065Z,"27 km NE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-09-01T11:31:55.550Z,33.3526667,-116.3301667,12.66,0.64,ml,16,150,0.01975,0.14,ci,ci40094191,2022-09-01T13:22:59.130Z,"12km NNE of Borrego Springs, CA",earthquake,0.3,0.57,0.071,13,reviewed,ci,ci
-2022-09-01T11:25:24.639Z,58.2862,-154.97,4,1.8,ml,,,,0.24,ak,ak022b7ptuy7,2022-09-02T05:18:26.160Z,"85 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-09-01T11:23:10.860Z,39.4275,-123.3068333,-0.56,1.68,md,19,92,0.04636,0.15,nc,nc73774280,2022-09-02T02:30:11.774Z,"5km ENE of Willits, CA",earthquake,0.31,1.1,0.16,14,reviewed,nc,nc

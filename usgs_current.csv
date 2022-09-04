@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T08:16:19.222Z,64.8405,-147.5431,3.1,1.6,ml,,,,1.05,ak,ak022bcmlnqf,2022-09-04T08:18:15.513Z,"4 km N of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-04T08:05:56.730Z,17.9653333333333,-66.8321666666667,17.69,2.15,md,12,174,,0.12,pr,pr71369758,2022-09-04T08:33:33.090Z,"Puerto Rico",earthquake,0.45,0.52,0.16572548635385,9,reviewed,pr,pr
 2022-09-04T07:49:23.620Z,33.7341667,-116.8643333,10.67,1.94,ml,71,23,0.0683,0.21,ci,ci40095831,2022-09-04T07:59:43.260Z,"3km ESE of Valle Vista, CA",earthquake,0.19,0.34,0.256,26,automatic,ci,ci
-2022-09-04T07:39:15.410Z,17.955,-66.8543333333333,9.39,2.32,md,6,228,,0.05,pr,pr71369753,2022-09-04T08:11:15.570Z,"4 km SE of Maria Antonia, Puerto Rico",earthquake,0.49,0.48,0.115903105379194,5,reviewed,pr,pr
+2022-09-04T07:39:15.410Z,17.955,-66.8543333333333,9.39,2.32,md,6,228,,0.05,pr,pr71369753,2022-09-04T08:11:15.570Z,"Puerto Rico",earthquake,0.49,0.48,0.115903105379194,5,reviewed,pr,pr
 2022-09-04T07:32:26.909Z,61.9702,-150.8467,5.8,1.5,ml,,,,0.63,ak,ak022bcm3o76,2022-09-04T07:34:29.658Z,"28 km E of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-04T07:16:15.410Z,37.4168333,-118.5883333,13.78,1.48,md,24,79,0.2078,0.07,nc,nc73775280,2022-09-04T08:15:14.022Z,"1km ENE of Round Valley, CA",earthquake,0.32,1.65,0.106,19,reviewed,nc,nc
 2022-09-04T07:15:54.150Z,44.2198,-130.2718,10,3.2,ml,64,266,1.645,0.55,us,us7000i52k,2022-09-04T07:39:07.040Z,"off the coast of Oregon",earthquake,4.57,2.023,0.065,31,reviewed,us,us
@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T06:41:35.100Z,38.8248329,-122.7981644,3.05,0.46,md,10,88,0.009413,0.01,nc,nc73775270,2022-09-04T07:07:13.607Z,"6km NW of The Geysers, CA",earthquake,0.49,0.89,0.39,2,automatic,nc,nc
 2022-09-04T06:41:23.940Z,37.4633333,-121.7948333,1.75,0.89,md,19,72,0.03433,0.1,nc,nc73775275,2022-09-04T08:26:13.081Z,"11km ENE of Milpitas, CA",earthquake,0.21,0.79,0.201,18,reviewed,nc,nc
 2022-09-04T06:10:08.847Z,44.2005,149.086,35,4.5,mb,82,170,4.673,0.6,us,us7000i52g,2022-09-04T06:56:06.040Z,"Kuril Islands",earthquake,10.09,1.946,0.062,76,reviewed,us,us
-2022-09-04T05:51:01.210Z,37.7183333,-122.5256667,7.18,1.82,md,61,153,0.05111,0.09,nc,nc73775265,2022-09-04T08:04:13.085Z,"2km SW of San Francisco Zoo, CA",earthquake,0.21,0.28,0.245,54,reviewed,nc,nc
+2022-09-04T05:51:01.210Z,37.7183333,-122.5256667,7.18,1.82,md,61,153,0.05111,0.09,nc,nc73775265,2022-09-04T09:20:13.386Z,"2km SW of San Francisco Zoo, CA",earthquake,0.21,0.28,0.245,54,reviewed,nc,nc
 2022-09-04T05:44:49.462Z,57.652,-154.8154,45.3,1.6,ml,,,,0.42,ak,ak022bckzfbm,2022-09-04T05:47:01.796Z,"Kodiak Island region, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-04T05:39:55.054Z,38.4776,-118.2197,13,2.2,ml,22,110.47,0.064,0.3051,nn,nn00846365,2022-09-04T05:43:28.184Z,"13 km NW of Mina, Nevada",earthquake,,0.3,0.18,13,automatic,nn,nn
 2022-09-04T05:16:32.140Z,36.0943333,-117.8353333,0.6,0.91,ml,11,180,0.1137,0.11,ci,ci40095823,2022-09-04T05:19:57.936Z,"12km ENE of Coso Junction, CA",earthquake,0.33,0.34,0.104,7,automatic,ci,ci
@@ -51,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T02:42:31.330Z,18.1238333333333,-66.6221666666667,19.17,2.13,md,9,99,,0.08,pr,pr71369723,2022-09-04T03:41:50.380Z,"Puerto Rico region",earthquake,0.34,0.29,0.149623492007038,8,reviewed,pr,pr
 2022-09-04T02:35:39.370Z,47.69416666666667,-121.9095,7.56,2.05,ml,38,65,0.03199,0.3,uw,uw61868737,2022-09-04T04:52:39.920Z,"0 km ENE of Lake Marcel-Stillwater, Washington",earthquake,0.28,0.67,0.14268894256507925,33,reviewed,uw,uw
 2022-09-04T02:18:03.815Z,59.664,-153.2282,116.7,1.5,ml,,,,0.38,ak,ak022bcj1gd8,2022-09-04T02:49:37.040Z,"51 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-09-04T02:15:13.260Z,17.8558,-66.8585,7,2.3,md,6,253,0.1211,0.09,pr,pr2022247000,2022-09-04T08:17:40.968Z,"13 km SSE of Guánica, Puerto Rico",earthquake,1.01,0.38,0.21,4,reviewed,pr,pr
+2022-09-04T02:15:13.260Z,17.8558,-66.8585,7,2.3,md,6,253,0.1211,0.09,pr,pr2022247000,2022-09-04T08:17:40.968Z,"Puerto Rico region",earthquake,1.01,0.38,0.21,4,reviewed,pr,pr
 2022-09-04T02:08:12.432Z,38.1545,-117.986,8.2,0.5,ml,9,148.8,0.026,0.0715,nn,nn00846363,2022-09-04T02:38:34.670Z,"28 km SSE of Mina, Nevada",earthquake,,0.8,0.32,4,automatic,nn,nn
 2022-09-04T01:46:29.360Z,35.5173333,-118.3936667,4.32,1.52,ml,26,37,0.1592,0.18,ci,ci40095743,2022-09-04T01:57:21.760Z,"12km SE of Bodfish, CA",earthquake,0.23,1.24,0.209,23,automatic,ci,ci
 2022-09-04T01:43:53.673Z,58.5375,-153.144,81.9,3.1,ml,,,,0.58,ak,ak022bcilhgh,2022-09-04T01:51:47.040Z,"54 km NNW of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -215,8 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-03T09:53:42.557Z,32.2209,-103.4008,5,2.7,mb_lg,27,70,0.185,0.2,us,us7000i4wr,2022-09-03T10:36:47.040Z,"New Mexico",earthquake,1.01,1.909,0.069,75,reviewed,us,us
 2022-09-03T09:42:11.900Z,19.2006664276123,-155.478500366211,34.0699996948242,2.23000002,md,43,145,,0.119999997,hv,hv73129997,2022-09-03T09:47:43.840Z,"0 km S of Pāhala, Hawaii",earthquake,0.51,0.870000005,1.47000003,20,automatic,hv,hv
 2022-09-03T09:40:25.666Z,63.5254,-147.3095,68.8,1.6,ml,,,,0.51,ak,ak022bazswjq,2022-09-03T09:42:50.021Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-09-03T09:30:14.455Z,62.5612,-149.6799,6.4,1.3,ml,,,,0.72,ak,ak022bazqqit,2022-09-03T09:32:10.638Z,"25 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-09-03T09:19:07.673Z,-0.004,126.6381,57.763,4.6,mb,52,73,1.06,0.63,us,us7000i4wl,2022-09-03T09:46:44.040Z,"Molucca Sea",earthquake,6.88,1.704,0.09,37,reviewed,us,us
-2022-09-03T09:17:40.420Z,36.5586667,-121.0918333,1.85,1.4,md,24,117,0.04649,0.1,nc,nc73774920,2022-09-03T13:55:09.467Z,"6km ENE of Pinnacles, CA",earthquake,0.25,0.42,0.216,24,reviewed,nc,nc
-2022-09-03T09:16:38.630Z,35.914,-117.7603333,5.06,1.54,ml,14,106,0.05843,0.18,ci,ci40095423,2022-09-03T09:20:26.296Z,"13km E of Little Lake, CA",earthquake,0.36,1.13,0.129,12,automatic,ci,ci
-2022-09-03T09:16:23.390Z,35.919,-117.7465,7.53,1.58,ml,19,111,0.06525,0.15,ci,ci40095415,2022-09-03T09:20:06.293Z,"15km E of Little Lake, CA",earthquake,0.35,0.75,0.152,16,automatic,ci,ci

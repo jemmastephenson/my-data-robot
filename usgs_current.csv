@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-06T14:50:34.510Z,38.8011665,-122.7806702,2.58,0.99,md,14,75,0.009782,0.02,nc,nc73776070,2022-09-06T15:03:10.966Z,"3km NW of The Geysers, CA",earthquake,0.35,0.74,0.24,2,automatic,nc,nc
 2022-09-06T14:48:06.540Z,33.926,-116.8446667,13.15,1.14,ml,12,135,0.2385,0.29,ci,ci40097023,2022-09-06T14:51:32.521Z,"3km E of Banning, CA",earthquake,1.51,4.6,0.351,18,automatic,ci,ci
 2022-09-06T14:44:23.129Z,62.8826,-151.2867,104.3,1.6,ml,,,,0.47,ak,ak022bg1eyp9,2022-09-06T14:47:07.537Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-09-06T14:38:43.460Z,33.6475,-116.7206667,15.95,1.7,ml,57,23,0.06373,0.18,ci,ci40097007,2022-09-06T14:49:13.050Z,"10km S of Idyllwild, CA",earthquake,0.19,0.34,0.204,27,automatic,ci,ci
@@ -73,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-06T08:24:48.739Z,62.3637,-149.1844,0,1,ml,,,,0.76,ak,ak022bfxq4r2,2022-09-06T08:27:32.974Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-06T08:23:28.143Z,62.3615,-149.1771,0,1.6,ml,,,,0.67,ak,ak022bfxpvfy,2022-09-06T08:25:12.804Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-06T08:20:10.090Z,17.9638333333333,-66.985,11.27,2.05,md,5,193,,0.07,pr,pr71370103,2022-09-06T09:28:53.380Z,"Puerto Rico region",earthquake,0.6,0.86,0.0800258698422256,5,reviewed,pr,pr
-2022-09-06T08:17:33.243Z,61.97,-149.1438,41.3,1.6,ml,,,,0.22,ak,ak022bfxoljg,2022-09-06T08:18:55.109Z,"25 km N of Fishhook, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-09-06T08:17:33.243Z,61.97,-149.1438,41.3,1.6,ml,,,,0.22,ak,ak022bfxoljg,2022-09-06T08:18:55.109Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-06T08:16:32.250Z,17.9383333333333,-66.9155,12.2,1.9,md,6,242,,0.16,pr,pr71370098,2022-09-06T09:22:55.920Z,"Puerto Rico region",earthquake,1,1.23,0.142289688430424,6,reviewed,pr,pr
 2022-09-06T07:35:34.407Z,12.947,-87.3655,10,5.2,mww,77,125,0.418,1.05,us,us7000i5kj,2022-09-06T13:36:04.654Z,"23 km WNW of Puerto Morazán, Nicaragua",earthquake,4.1,1.868,0.083,14,reviewed,us,us
 2022-09-06T07:35:33.600Z,35.01466667,-97.82866667,7.91,1.07,ml,86,48,0.07648499104,0.4,ok,ok2022rlru,2022-09-06T12:29:48.887Z,"10 km ESE of Chickasha, Oklahoma",earthquake,,0.8,0.23,30,reviewed,ok,ok
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-05T15:33:20.210Z,37.316,-121.6841667,5.04,0.77,md,14,116,0.04189,0.07,nc,nc73775790,2022-09-05T19:58:09.943Z,"14km ESE of Alum Rock, CA",earthquake,0.3,0.38,0.273,14,reviewed,nc,nc
 2022-09-05T15:11:52.287Z,62.2472,-148.3863,23.5,3.5,ml,,,,0.75,ak,ak022beea1dl,2022-09-05T19:02:00.143Z,"50 km N of Chickaloon, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-09-05T15:11:32.810Z,35.7321667,-117.566,6.43,0.66,ml,7,143,0.08724,0.19,ci,ci40096655,2022-09-05T15:15:05.807Z,"15km WSW of Searles Valley, CA",earthquake,0.69,1.9,0.176,7,automatic,ci,ci
-2022-09-05T15:00:01.381Z,65.5677,-144.696,31,1.4,ml,,,,1.12,ak,ak022bee7kne,2022-09-05T15:02:26.284Z,"5 km E of Central, Alaska",earthquake,,2,,,automatic,ak,ak

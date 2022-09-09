@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-09T17:50:44.360Z,38.8361664,-122.7901688,1.93,0.46,md,11,80,0.002244,0.01,nc,nc73779811,2022-09-09T17:52:17.596Z,"6km WNW of Cobb, CA",earthquake,0.31,0.51,0.39,2,automatic,nc,nc
 2022-09-09T17:39:15.530Z,33.9575,-117.0853333,15.18,1.36,ml,35,37,0.149,0.23,ci,ci40098343,2022-09-09T17:42:50.202Z,"4km SW of Calimesa, CA",earthquake,0.32,0.97,0.174,29,automatic,ci,ci
-2022-09-09T17:30:43.480Z,38.7901649,-122.8068314,2.92,0.89,md,22,82,0.003466,0.03,nc,nc73779806,2022-09-09T17:40:11.137Z,"5km WNW of The Geysers, CA",earthquake,0.23,0.52,0.04,4,automatic,nc,nc
+2022-09-09T17:30:43.480Z,38.7901649,-122.8068314,2.92,0.89,md,22,82,0.003466,0.03,nc,nc73779806,2022-09-09T17:47:17.186Z,"5km WNW of The Geysers, CA",earthquake,0.23,0.52,0.04,4,automatic,nc,nc
 2022-09-09T17:20:19.694Z,2.0603,126.6149,53.718,5.1,mww,65,96,1.484,1.15,us,us6000iih9,2022-09-09T17:39:56.040Z,"159 km WNW of Tobelo, Indonesia",earthquake,7.88,7.104,0.093,11,reviewed,us,us
 2022-09-09T17:12:35.620Z,-2.675,-12.153,10,4.8,mb,45,61,23.197,0.83,us,us6000iih7,2022-09-09T17:34:31.040Z,"north of Ascension Island",earthquake,13.01,1.877,0.087,41,reviewed,us,us
 2022-09-09T17:01:47.830Z,38.8363342,-122.8006668,1.89,0.85,md,10,68,0.008324,0.01,nc,nc73779801,2022-09-09T17:34:11.092Z,"7km WNW of Cobb, CA",earthquake,0.44,1.46,,1,automatic,nc,nc
@@ -88,8 +89,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-09T06:19:53.950Z,39.4251667,-110.2955,-2.23,1.88,md,7,200,0.02295,0.15,uu,uu60514332,2022-09-09T16:05:09.230Z,"16 km SSE of Sunnyside, Utah",earthquake,1.96,2.27,0.132,6,reviewed,uu,uu
 2022-09-09T06:11:09.346Z,39.1002,-118.0868,0,1.5,ml,15,137.48,0.053,0.4831,nn,nn00846664,2022-09-09T06:14:24.630Z,"29 km NNW of Gabbs, Nevada",earthquake,,0.3,0.22,6,automatic,nn,nn
 2022-09-09T06:04:17.540Z,38.8206673,-122.7639999,1.6,0.45,md,12,118,0.01499,0.02,nc,nc73779596,2022-09-09T06:14:10.939Z,"4km W of Cobb, CA",earthquake,0.29,0.63,0.4,2,automatic,nc,nc
-2022-09-09T05:55:47.570Z,33.06,-115.881,1.78,1.09,ml,13,69,0.07463,0.19,ci,ci40098199,2022-09-09T05:59:23.201Z,"24km W of Westmorland, CA",earthquake,0.37,0.63,0.144,14,automatic,ci,ci
-2022-09-09T05:52:14.230Z,32.6168333,-115.7241667,6.84,1.48,ml,13,207,0.03246,0.2,ci,ci40098191,2022-09-09T05:55:57.493Z,"14km WNW of Progreso, B.C., MX",earthquake,1.24,0.83,0.157,12,automatic,ci,ci
+2022-09-09T05:55:47.460Z,33.0636667,-115.8685,7.43,1.13,ml,26,59,0.06523,0.16,ci,ci40098199,2022-09-09T17:52:47.807Z,"23km W of Westmorland, CA",earthquake,0.21,0.56,0.134,11,reviewed,ci,ci
+2022-09-09T05:52:14.230Z,32.627,-115.7273333,8.5,1.46,ml,20,204,0.02228,0.19,ci,ci40098191,2022-09-09T17:48:36.701Z,"14km WNW of Progreso, B.C., MX",earthquake,0.77,0.47,0.128,13,reviewed,ci,ci
 2022-09-09T05:43:36.320Z,36.0721664,-120.5091629,5.47,0.74,md,8,170,0.06645,0.06,nc,nc73779591,2022-09-09T06:09:14.773Z,"16km WSW of Coalinga, CA",earthquake,0.79,1.95,0.16,3,automatic,nc,nc
 2022-09-09T05:43:33.364Z,37.8255,-115.234,15.5,1.5,ml,17,186.74,0.94,0.3567,nn,nn00846661,2022-09-09T05:46:45.472Z,"25 km N of Hiko, Nevada",earthquake,,2.1,0.88,10,automatic,nn,nn
 2022-09-09T05:32:05.382Z,61.8296,-148.5013,8.8,1.4,ml,,,,0.69,ak,ak022bkulhsq,2022-09-09T05:34:00.937Z,"4 km NNW of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -206,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-08T18:08:26.375Z,62.1429,-148.3774,32,2.1,ml,,,,0.4,ak,ak022bjenoll,2022-09-08T18:11:09.107Z,"38 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-08T18:04:36.690Z,19.2551670074463,-155.407501220703,29.3899993896484,1.77999997,md,24,125,,0.180000007,hv,hv73134677,2022-09-08T18:07:44.270Z,"Hawaii region, Hawaii",earthquake,0.85,1.10000002,0.589999974,3,automatic,hv,hv
 2022-09-08T18:03:02.080Z,48.79233333333333,-121.80466666666666,0.12,1.47,ml,4,248,0.06454,0.11,uw,uw61869727,2022-09-08T19:51:25.400Z,"15 km SE of Glacier, Washington",earthquake,2.59,1.7,0.1423461277366328,4,reviewed,uw,uw
-2022-09-08T17:52:49.092Z,-4.3331,102.2132,56.888,4.9,mb,57,82,0.741,0.72,us,us6000ii8h,2022-09-08T18:10:54.040Z,"southern Sumatra, Indonesia",earthquake,5.95,6.384,0.076,54,reviewed,us,us

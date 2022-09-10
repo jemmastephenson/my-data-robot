@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-10T14:46:14.030Z,17.9036666666667,-66.8538333333333,16.52,2.16,md,9,231,,0.07,pr,pr71371018,2022-09-10T15:06:18.950Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.55,0.6,0.150308801508439,7,reviewed,pr,pr
+2022-09-10T14:46:14.030Z,17.9036666666667,-66.8538333333333,16.52,2.16,md,9,231,,0.07,pr,pr71371018,2022-09-10T15:19:00.368Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.55,0.6,0.150308801508439,7,reviewed,pr,pr
+2022-09-10T14:42:46.960Z,17.8881666666667,-66.8388333333333,17.09,2.5,md,12,203,,0.23,pr,pr71371013,2022-09-10T15:35:13.040Z,"Puerto Rico region",earthquake,0.8,1.36,0.0843014529631572,5,reviewed,pr,pr
 2022-09-10T14:31:38.060Z,33.0456667,-116.3573333,9.45,1.24,ml,42,52,0.1704,0.18,ci,ci40098575,2022-09-10T14:42:00.160Z,"23km E of Julian, CA",earthquake,0.25,0.8,0.136,28,automatic,ci,ci
 2022-09-10T14:17:55.174Z,61.3084,-152.2262,0,0.5,ml,,,,0.13,ak,ak022bmnemu5,2022-09-10T14:20:15.999Z,"64 km WNW of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-09-10T14:17:48.220Z,19.1606674194336,-155.507507324219,37.9700012207031,1.71000004,md,31,156,,0.109999999,hv,hv73136397,2022-09-10T14:20:57.100Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.58,1.08000004,0.970000029,3,automatic,hv,hv
@@ -72,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T04:44:07.223Z,31.67042029,-104.3932504,7.905419922,2.1,ml,19,59,0.06584264068,0.3,tx,tx2022rsud,2022-09-10T07:42:39.622Z,"western Texas",earthquake,1.356603123,1.277316777,0.1,14,reviewed,tx,tx
 2022-09-10T04:41:42.222Z,63.5022,-155.3406,57.7,1.2,ml,,,,1.15,ak,ak022bmhleze,2022-09-10T04:44:19.024Z,"Central Alaska",earthquake,,4,,,automatic,ak,ak
 2022-09-10T04:22:37.342Z,37.819,-117.8733,4.1,1,ml,10,148.37,0.19,0.1536,nn,nn00846720,2022-09-10T04:26:28.622Z,"California-Nevada border region",earthquake,,2.7,0.41,6,automatic,nn,nn
-2022-09-10T04:14:24.470Z,18.8346,-64.5361,49,3.59,md,19,318,0.6397,0.23,pr,pr2022253000,2022-09-10T04:53:07.271Z,"61 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.9,4.28,0.13,8,reviewed,pr,pr
+2022-09-10T04:14:24.470Z,18.8346,-64.5361,49,3.59,md,19,318,0.6397,0.23,pr,pr2022253000,2022-09-10T04:53:07.271Z,"Virgin Islands region",earthquake,2.9,4.28,0.13,8,reviewed,pr,pr
 2022-09-10T04:05:26.800Z,37.4945,-118.8475,5.32,0.5,md,16,239,0.09647,0.02,nc,nc73779961,2022-09-10T06:43:10.713Z,"17km WSW of Toms Place, CA",earthquake,1.36,1.77,0.127,12,reviewed,nc,nc
 2022-09-10T04:02:07.351Z,62.4577,-148.3977,36.1,1.7,ml,,,,0.53,ak,ak022bmhczcv,2022-09-10T04:03:54.109Z,"73 km N of Chickaloon, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-09-10T04:00:51.760Z,31.65725878,-104.2897929,8.008251953,2.1,ml,17,67,0.02562805614,0.2,tx,tx2022rsss,2022-09-10T08:07:06.181Z,"58 km S of Whites City, New Mexico",earthquake,1.186608592,1.754149414,0.2,16,reviewed,tx,tx
@@ -191,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-09T16:18:59.077Z,60.8747,-147.9488,33.5,1.3,ml,,,,0.28,ak,ak022bl12dkj,2022-09-09T16:20:11.308Z,"41 km ENE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-09T15:59:21.870Z,38.8370018,-122.7931671,1.65,0.85,md,10,75,0.002614,0.01,nc,nc73779796,2022-09-09T16:31:10.684Z,"6km WNW of Cobb, CA",earthquake,0.39,1.18,,1,automatic,nc,nc
 2022-09-09T15:44:20.120Z,36.50033333,-98.42366667,7.91,2.54,ml,95,65,0,0.21,ok,ok2022rruk,2022-09-09T16:17:07.040Z,"2 km ESE of Aline, Oklahoma",earthquake,,0.4,0.25,42,reviewed,ok,ok
-2022-09-09T15:27:23.400Z,19.2221660614014,-155.401000976562,31.0799999237061,2.08999991,md,33,146,,0.209999993,hv,hv73135532,2022-09-09T15:30:33.820Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.74,1.01999998,2.08999991,4,automatic,hv,hv
-2022-09-09T15:25:12.042Z,60.4564,-150.8254,12.7,1.9,ml,,,,0.75,ak,ak022bl0icck,2022-09-09T15:28:19.372Z,"6 km SW of Funny River, Alaska",earthquake,,0.4,,,automatic,ak,ak

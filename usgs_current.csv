@@ -159,6 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-20T23:53:47.160Z,38.788166,-122.7811661,1.99,0.95,md,19,84,0.02088,0.02,nc,nc73784086,2022-09-20T23:55:22.434Z,"2km WNW of The Geysers, CA",earthquake,0.25,0.53,0.08,4,automatic,nc,nc
 2022-09-20T23:48:18.699Z,59.4908,-153.9396,240.5,1.5,ml,,,,1.16,ak,ak022c3cbklp,2022-09-20T23:51:40.169Z,"32 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2022-09-20T23:46:47.690Z,34.1521667,-117.3541667,11.11,1.86,ml,55,52,0.05141,0.2,ci,ci40103519,2022-09-20T23:50:45.206Z,"1km WSW of Muscoy, CA",earthquake,0.25,0.43,0.155,27,automatic,ci,ci
+2022-09-20T23:41:32.042Z,31.99800475,-103.8222334,10.29626465,2.3,ml,19,72,0.08351343589,0.3,tx,tx2022smms,2022-09-21T09:03:26.702Z,"34 km SE of Malaga, New Mexico",earthquake,1.047296884,1.514941213,0.2,25,reviewed,tx,tx
 2022-09-20T23:31:31.293Z,61.2888,-151.684,71,0.4,ml,,,,0.17,ak,ak022c3c7yeh,2022-09-20T23:33:15.644Z,"Southern Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-09-20T23:31:25.590Z,33.5091667,-116.4578333,5.3,1.4,ml,48,33,0.03037,0.18,ci,ci40103511,2022-09-21T00:36:33.110Z,"21km ESE of Anza, CA",earthquake,0.17,0.53,0.232,26,reviewed,ci,ci
 2022-09-20T23:23:27.812Z,63.1907,-149.3796,79.5,1.7,ml,,,,0.98,ak,ak022c3c68el,2022-09-20T23:34:30.671Z,"31 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -341,13 +342,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-20T09:26:38.919Z,-18.3468,-178.0336,464.649,4.3,mb,61,41,3.839,0.52,us,us7000i9hx,2022-09-20T09:50:18.040Z,"281 km E of Levuka, Fiji",earthquake,12.33,8.319,0.043,152,reviewed,us,us
 2022-09-20T09:22:44.140Z,44.4663333,-110.6073333,4.55,0.98,ml,12,66,0.03243,0.09,uu,uu60516862,2022-09-20T15:32:34.730Z,"45 km ESE of West Yellowstone, Montana",earthquake,0.31,0.47,0.179,2,reviewed,uu,uu
 2022-09-20T09:22:31.570Z,38.8144989,-122.8141632,2.83,0.84,md,11,83,0.00944,0.01,nc,nc73783806,2022-09-20T09:24:08.407Z,"6km NW of The Geysers, CA",earthquake,0.4,1.18,,1,automatic,nc,nc
-2022-09-20T09:21:56.730Z,35.704,-117.479,4.52,2.82,ml,39,66,0.1063,0.13,ci,ci40103127,2022-09-20T20:14:17.850Z,"10km SW of Searles Valley, CA",earthquake,0.14,0.57,0.186,25,reviewed,ci,ci
+2022-09-20T09:21:56.730Z,35.704,-117.479,4.52,2.82,ml,39,66,0.1063,0.13,ci,ci40103127,2022-09-21T08:48:38.040Z,"10km SW of Searles Valley, CA",earthquake,0.14,0.57,0.186,25,reviewed,ci,ci
 2022-09-20T09:13:59.290Z,38.6603333,-123.042,4.38,1.15,md,37,80,0.1108,0.07,nc,nc73783801,2022-09-20T16:36:10.313Z,"16km WNW of Healdsburg, CA",earthquake,0.14,0.74,0.168,17,reviewed,nc,nc
 2022-09-20T09:12:02.046Z,52.2648,-165.9866,12.6,1.6,ml,,,,0.4,ak,ak022c33rsam,2022-09-20T20:25:39.197Z,"182 km SSE of Unalaska, Alaska",earthquake,,10.8,,,reviewed,ak,ak
 2022-09-20T09:10:00.720Z,38.8380013,-122.8365021,2.23,1.13,md,21,110,0.0009863,0.01,nc,nc73783791,2022-09-20T10:03:13.990Z,"10km NW of The Geysers, CA",earthquake,0.22,0.46,0.09,4,automatic,nc,nc
 2022-09-20T09:09:00.140Z,44.7813333,-110.8016667,4.42,0.93,ml,15,104,0.03547,0.12,uu,uu60516857,2022-09-20T15:36:15.880Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.37,0.53,0.404,2,reviewed,uu,uu
-2022-09-20T09:01:22.990Z,37.9165,-118.557,7.74,1.21,md,17,98,0.1974,0.07,nc,nc73783786,2022-09-21T00:00:37.887Z,"41km NNE of Toms Place, CA",earthquake,0.5,3.48,0.131,13,reviewed,nc,nc
-2022-09-20T08:58:19.240Z,44.7816667,-110.7936667,4.21,0.48,md,9,208,0.04102,0.07,uu,uu60516852,2022-09-20T15:42:05.000Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.52,0.84,0.243,7,reviewed,uu,uu
-2022-09-20T08:50:32.590Z,44.78,-110.8011667,4.75,2.11,ml,22,97,0.03611,0.16,uu,uu60516847,2022-09-20T13:56:14.990Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.37,0.51,0.224,7,reviewed,uu,uu
-2022-09-20T08:49:42.190Z,33.5265,-115.8635,5.37,1.3,ml,39,77,0.04127,0.19,ci,ci40103119,2022-09-20T20:06:34.247Z,"7km E of North Shore, CA",earthquake,0.23,0.4,0.183,27,reviewed,ci,ci
-2022-09-20T08:47:49.770Z,44.778,-110.8063333,4.8,1.05,ml,16,94,0.03311,0.1,uu,uu60516842,2022-09-20T15:47:18.210Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.32,0.44,0.407,2,reviewed,uu,uu

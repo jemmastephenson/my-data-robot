@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-21T10:48:37.982Z,61.5004,-153.591,18.1,1,ml,,,,0.38,ak,ak022c4s4bo6,2022-09-21T10:50:59.423Z,"99 km E of Lime Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-09-21T10:26:49.290Z,33.9323333,-116.837,7.31,0.61,ml,17,89,0.1039,0.2,ci,ci40103807,2022-09-21T10:30:21.482Z,"4km ENE of Banning, CA",earthquake,0.41,1.73,0.096,17,automatic,ci,ci
 2022-09-21T10:23:59.795Z,62.3343,-148.2123,40.7,1.3,ml,,,,0.65,ak,ak022c4rz0h2,2022-09-21T10:26:19.270Z,"61 km NNE of Chickaloon, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-09-21T10:13:25.220Z,34.1523333,-116.7111667,-0.22,1.32,ml,24,96,0.1251,0.19,ci,ci40103799,2022-09-21T10:17:00.477Z,"17km NW of Morongo Valley, CA",earthquake,0.29,0.49,0.185,29,automatic,ci,ci
@@ -9,10 +10,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-21T09:40:43.099Z,62.1083,-151.4971,85.4,1.9,ml,,,,0.36,ak,ak022c4rh6s5,2022-09-21T10:31:38.040Z,"14 km NNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-21T09:31:32.580Z,33.1956667,-115.6051667,1.36,2.09,ml,22,88,0.01922,0.18,ci,ci40103751,2022-09-21T09:35:07.944Z,"9km WSW of Niland, CA",earthquake,0.29,0.43,0.21,29,automatic,ci,ci
 2022-09-21T09:31:14.430Z,33.1911667,-115.612,1.16,1.46,ml,16,95,0.01195,0.2,ci,ci40103743,2022-09-21T09:34:49.123Z,"10km WSW of Niland, CA",earthquake,0.42,31.61,0.191,24,automatic,ci,ci
-2022-09-21T09:30:48.880Z,-5.4702,147.0256,210.03,5.7,mww,120,28,5.275,0.81,us,us7000i9uu,2022-09-21T10:13:45.041Z,"eastern New Guinea region, Papua New Guinea",earthquake,9.06,5.132,0.05,39,reviewed,us,us
+2022-09-21T09:30:48.880Z,-5.4702,147.0256,210.03,5.7,mww,120,28,5.275,0.81,us,us7000i9uu,2022-09-21T10:43:17.951Z,"eastern New Guinea region, Papua New Guinea",earthquake,9.06,5.132,0.05,39,reviewed,us,us
 2022-09-21T09:29:43.830Z,33.1965,-115.6071667,1.98,1.69,ml,17,96,0.01856,0.17,ci,ci40103735,2022-09-21T09:33:39.879Z,"10km WSW of Niland, CA",earthquake,0.29,0.35,0.223,28,automatic,ci,ci
 2022-09-21T09:26:31.300Z,33.1906667,-115.6093333,2.11,2.01,ml,22,107,0.01341,0.24,ci,ci40103727,2022-09-21T09:30:11.087Z,"10km WSW of Niland, CA",earthquake,0.6,0.42,0.145,27,automatic,ci,ci
 2022-09-21T09:23:20.710Z,33.1975,-115.6098333,1.14,1.31,ml,8,118,0.01787,0.18,ci,ci40103719,2022-09-21T09:26:53.063Z,"10km WSW of Niland, CA",earthquake,0.55,31.61,0.323,16,automatic,ci,ci
+2022-09-21T09:22:20.740Z,54.796,159.9202,124.793,4.3,mb,46,105,1.929,0.59,us,us7000i9us,2022-09-21T10:35:17.040Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake,12.84,13.004,0.084,40,reviewed,us,us
 2022-09-21T09:17:26.790Z,33.1928333,-115.601,1.16,2.08,ml,25,90,0.01963,0.23,ci,ci40103711,2022-09-21T09:21:05.030Z,"9km SW of Niland, CA",earthquake,0.34,31.61,0.205,26,automatic,ci,ci
 2022-09-21T09:16:57.050Z,33.2561667,-115.6613333,1.11,1.43,ml,7,183,0.07976,0.13,ci,ci40103703,2022-09-21T09:20:28.084Z,"12km SSE of Bombay Beach, CA",earthquake,1.02,31.61,0.244,27,automatic,ci,ci
 2022-09-21T09:14:46.523Z,61.3981,-150.3381,34.2,1.9,ml,,,,0.42,ak,ak022c4rbmfg,2022-09-21T09:16:13.674Z,"18 km SSE of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -289,7 +291,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-20T14:12:13.840Z,39.8078333,-123.1853333,8.54,2.59,md,34,63,0.08476,0.15,nc,nc73783921,2022-09-21T00:48:09.840Z,"6km ENE of Covelo, CA",earthquake,0.25,0.5,0.101,40,reviewed,nc,nc
 2022-09-20T14:08:44.360Z,32.4044,81.4269,10,4.3,mb,29,133,5.674,0.52,us,us7000i9jk,2022-09-20T14:32:08.040Z,"235 km N of Burang, China",earthquake,4.93,1.87,0.154,14,reviewed,us,us
 2022-09-20T14:08:30.110Z,33.5075,-116.4991667,13.38,0.42,ml,11,130,0.05651,0.09,ci,ci40103255,2022-09-20T23:23:54.294Z,"17km ESE of Anza, CA",earthquake,0.33,0.51,0.096,6,reviewed,ci,ci
-2022-09-20T14:08:26.790Z,39.7968333,-123.1841667,5.87,2.13,md,38,51,0.09579,0.14,nc,nc73783916,2022-09-21T10:18:13.379Z,"6km E of Covelo, CA",earthquake,0.28,0.55,0.156,45,reviewed,nc,nc
+2022-09-20T14:08:26.790Z,39.7968333,-123.1841667,5.87,2.13,md,38,51,0.09579,0.14,nc,nc73783916,2022-09-21T10:33:13.455Z,"6km E of Covelo, CA",earthquake,0.28,0.55,0.156,45,reviewed,nc,nc
 2022-09-20T14:08:05.650Z,33.5071667,-116.4948333,13.73,0.72,ml,15,99,0.05859,0.12,ci,ci37447988,2022-09-20T23:22:07.433Z,"17km ESE of Anza, CA",earthquake,0.36,0.54,0.07,7,reviewed,ci,ci
 2022-09-20T14:07:51.220Z,33.5085,-116.5006667,14.05,1.33,ml,40,56,0.05505,0.14,ci,ci40103247,2022-09-20T23:18:51.080Z,"17km ESE of Anza, CA",earthquake,0.17,0.29,0.2,26,reviewed,ci,ci
 2022-09-20T14:07:18.650Z,33.5076667,-116.5026667,13.62,1.46,ml,42,39,0.05505,0.14,ci,ci40103239,2022-09-20T23:12:45.740Z,"17km ESE of Anza, CA",earthquake,0.16,0.29,0.206,25,reviewed,ci,ci
@@ -343,8 +345,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-20T11:14:18.689Z,36.7381,-116.2696,3.5,-0.3,ml,10,113.55,0.045,0.1191,nn,nn00847593,2022-09-21T00:13:05.232Z,"Nevada",earthquake,,2.3,0.02,2,reviewed,nn,nn
 2022-09-20T11:04:15.155Z,37.0092,-116.2899,4.1,-0.2,ml,5,127.28,0.093,0.0454,nn,nn00847592,2022-09-21T00:03:44.996Z,"43 km ENE of Beatty, Nevada",earthquake,,5.8,1.87,4,reviewed,nn,nn
 2022-09-20T11:03:40.110Z,44.7758333,-110.8043333,4.71,1.26,ml,17,91,0.03517,0.14,uu,uu60516937,2022-09-20T14:28:14.200Z,"Wyoming",earthquake,0.32,0.47,0.221,4,reviewed,uu,uu
-2022-09-20T10:50:13.150Z,44.7778333,-110.7983333,3.65,1.02,md,9,200,0.0386,0.1,uu,uu60516932,2022-09-20T19:26:09.850Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.67,1.42,0.149,5,reviewed,uu,uu
-2022-09-20T10:46:39.250Z,44.776,-110.8055,4.31,0.53,ml,11,101,0.03434,0.15,uu,uu60516922,2022-09-20T14:30:50.890Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.5,0.74,0.453,2,reviewed,uu,uu
-2022-09-20T10:43:17.573Z,18.2651,-102.8573,19.027,4.7,mwr,145,161,2.066,0.78,us,us7000i9i7,2022-09-20T19:20:10.629Z,"52 km S of Aguililla, Mexico",earthquake,9.33,5.094,0.089,12,reviewed,us,us
-2022-09-20T10:37:43.580Z,44.7743333,-110.795,4.52,0.54,ml,11,105,0.04193,0.09,uu,uu60516917,2022-09-20T14:32:56.750Z,"Wyoming",earthquake,0.4,0.73,0.3,2,reviewed,uu,uu
-2022-09-20T10:35:19.940Z,33.8065,-117.127,6.38,0.7,ml,42,72,0.07437,0.18,ci,ci40103151,2022-09-20T14:05:23.220Z,"2km ENE of Nuevo, CA",earthquake,0.2,0.62,0.085,14,reviewed,ci,ci

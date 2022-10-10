@@ -189,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-09T19:37:30.516Z,45.6022,151.3938,36.616,4.5,mb,36,176,6.136,0.58,us,us6000isbz,2022-10-09T19:54:44.040Z,"Kuril Islands",earthquake,10.49,7.693,0.115,22,reviewed,us,us
 2022-10-09T19:29:45.860Z,38.8166656,-122.8166656,1.7,0.5,md,13,67,0.008466,0.08,nc,nc73791511,2022-10-09T19:31:22.603Z,"7km NW of The Geysers, CA",earthquake,0.31,0.86,0.35,2,automatic,nc,nc
 2022-10-09T19:23:10.422Z,62.0147,-151.7487,116.6,2.4,ml,,,,0.59,ak,ak022cyp01z5,2022-10-09T19:31:07.040Z,"18 km W of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-10-09T19:21:00.034Z,57.9823,-156.7437,2.4,1.9,ml,,,,0.42,ak,ak022cyozlsj,2022-10-09T19:23:40.509Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak

@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-14T11:15:28.947Z,38.5224,-119.5207,0.2,1.2,ml,15,174.03,0.063,0.3397,nn,nn00849244,2022-10-14T11:18:24.237Z,"3 km WNW of Walker, California",earthquake,,0.2,0.14,8,automatic,nn,nn
 2022-10-14T11:05:04.635Z,36.593,-116.2262,7.5,0.5,ml,20,142.8,0.103,0.1483,nn,nn00849241,2022-10-14T11:07:24.240Z,"47 km NNW of Pahrump, Nevada",earthquake,,1,0.78,10,automatic,nn,nn
 2022-10-14T10:49:35.759Z,38.5234,-119.5124,3.8,1.4,ml,19,170.27,0.061,0.2096,nn,nn00849237,2022-10-14T10:52:35.273Z,"3 km WNW of Walker, California",earthquake,,0.5,0.15,14,automatic,nn,nn
+2022-10-14T10:39:09.461Z,-20.1123,169.0174,35,4.7,mb,49,83,2.887,0.37,us,us6000itl7,2022-10-14T11:43:42.040Z,"68 km SSW of Isangel, Vanuatu",earthquake,7.54,1.901,0.079,50,reviewed,us,us
 2022-10-14T10:37:57.260Z,38.8318329,-122.8176651,1.58,0.85,md,11,81,0.0103,0.02,nc,nc73793346,2022-10-14T10:39:31.565Z,"8km NW of The Geysers, CA",earthquake,0.35,0.8,,1,automatic,nc,nc
 2022-10-14T10:20:42.210Z,36.1865,-118.0178333,4.28,1.22,ml,15,87,0.2578,0.33,ci,ci40360808,2022-10-14T10:24:19.769Z,"11km S of Olancha, CA",earthquake,1.12,8.39,0.183,13,automatic,ci,ci
 2022-10-14T10:20:08.590Z,38.8330002,-122.8209991,1.75,0.36,md,10,73,0.01262,0.05,nc,nc73793336,2022-10-14T10:21:42.889Z,"8km NW of The Geysers, CA",earthquake,0.35,0.8,,1,automatic,nc,nc
@@ -239,7 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-13T12:27:42.700Z,19.1956672668457,-155.492340087891,33.9300003051758,2.00999999,md,43,76,,0.129999995,hv,hv73177082,2022-10-13T12:31:02.750Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.59,0.889999986,0.670000017,13,automatic,hv,hv
 2022-10-13T12:21:17.768Z,64.0381,-146.6611,15.5,1.5,ml,,,,0.26,ak,ak022d56yzvw,2022-10-13T12:24:38.587Z,"37 km S of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-13T12:11:58.160Z,60.4305,-152.7635,10.53,-0.45,ml,6,295,,0.09,av,av91074568,2022-10-14T02:10:59.400Z,"73 km NW of Ninilchik, Alaska",earthquake,0.66,0.43,0.146261477280426,6,reviewed,av,av
-2022-10-13T11:47:15.870Z,19.2526664733887,-155.382827758789,32.0200004577637,2.73000002,md,39,139,,0.129999995,hv,hv73177032,2022-10-13T11:50:31.410Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.58,0.930000007,1.36000001,3,automatic,hv,hv
-2022-10-13T11:46:21.938Z,18.8644,-102.5946,97.442,4.7,mb,47,216,1.508,0.99,us,us6000it9k,2022-10-13T13:32:55.722Z,"18 km SE of Bonifacio Moreno (El Aguaje), Mexico",earthquake,10.24,6.846,0.047,139,reviewed,us,us
-2022-10-13T11:43:57.290Z,19.4186668395996,-155.412002563477,8.44999980926514,1.77999997,md,28,58,,0.150000006,hv,hv73177027,2022-10-13T11:46:57.350Z,"18 km W of Volcano, Hawaii",earthquake,0.43,0.980000019,0.790000021,12,automatic,hv,hv
-2022-10-13T11:43:16.872Z,59.7121,-153.5115,103.9,1.4,ml,,,,0.08,ak,ak022d56i9zb,2022-10-13T11:44:16.892Z,"34 km ESE of Pedro Bay, Alaska",earthquake,,3.9,,,automatic,ak,ak

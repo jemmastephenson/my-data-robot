@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-21T10:40:32.280Z,38.8320007,-122.8174973,1.82,0.36,md,7,135,0.01037,0.01,nc,nc73797256,2022-10-21T10:42:09.465Z,"8km NW of The Geysers, CA",earthquake,0.49,0.74,,1,automatic,nc,nc
+2022-10-21T10:55:40.650Z,19.4211673736572,-155.239501953125,1.94000005722046,2.06999993,md,20,125,,0.239999995,hv,hv73189192,2022-10-21T10:58:43.170Z,"Hawaii region, Hawaii",earthquake,0.37,0.330000013,1.16999996,13,automatic,hv,hv
+2022-10-21T10:51:58.920Z,34.1116667,-117.4441667,0.29,0.97,ml,10,124,0.1073,0.27,ci,ci40364160,2022-10-21T10:55:32.038Z,"2km NE of Fontana, CA",earthquake,0.97,31.61,0.378,13,automatic,ci,ci
+2022-10-21T10:51:54.158Z,62.4033,-148.1425,36.5,1.7,ml,,,,0.6,ak,ak022die9exj,2022-10-21T10:53:29.726Z,"69 km NNE of Chickaloon, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-10-21T10:51:16.640Z,19.1494998931885,-155.475997924805,30.7199993133545,2.06999993,md,44,161,,0.140000001,hv,hv73189187,2022-10-21T10:54:30.400Z,"5 km S of Pāhala, Hawaii",earthquake,0.6,0.879999995,0.949999988,15,automatic,hv,hv
+2022-10-21T10:40:32.280Z,38.8320007,-122.8174973,1.82,0.36,md,7,135,0.01037,0.01,nc,nc73797256,2022-10-21T10:58:14.659Z,"8km NW of The Geysers, CA",earthquake,0.49,0.74,,1,automatic,nc,nc
 2022-10-21T10:19:12.913Z,72.2917,2.2484,10,4.4,mb,50,96,6.901,0.51,us,us6000ivgt,2022-10-21T10:39:01.040Z,"Norwegian Sea",earthquake,8.6,1.907,0.089,36,reviewed,us,us
 2022-10-21T10:07:15.955Z,61.4451,-149.893,30.5,1.6,ml,,,,0.41,ak,ak022didzwh7,2022-10-21T10:08:58.066Z,"8 km W of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-21T10:00:58.380Z,19.46266746521,-155.591003417969,-1.3400000333786,1.86,ml,13,66,,0.200000003,hv,hv73189142,2022-10-21T10:06:32.290Z,"Island of Hawaii, Hawaii",earthquake,0.43,0.219999999,0.39,3,automatic,hv,hv
@@ -265,7 +269,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-20T12:02:17.070Z,37.1335,-121.5191667,7.99,0.89,md,21,57,0.06721,0.12,nc,nc73796866,2022-10-20T17:15:09.364Z,"10km NE of San Martin, CA",earthquake,0.27,0.71,0.257,15,reviewed,nc,nc
 2022-10-20T12:00:56.957Z,61.4367,-148.1089,15,0.7,ml,,,,0.38,ak,ak022dgrlz5j,2022-10-20T17:44:27.169Z,"42 km E of Knik River, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2022-10-20T11:57:37.210Z,19.4766674041748,-155.631332397461,1.57000005245209,1.82,ml,16,66,,0.289999992,hv,hv73187497,2022-10-20T12:03:08.550Z,"24 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.61,1.51999998,3.44,3,automatic,hv,hv
-2022-10-20T11:57:11.488Z,7.6712,-82.3396,10,6.7,mww,115,63,1.168,1.18,us,us6000iv6c,2022-10-21T10:43:48.966Z,"62 km SSW of Boca Chica, Panama",earthquake,6.14,1.846,0.033,90,reviewed,us,us
+2022-10-20T11:57:11.488Z,7.6712,-82.3396,10,6.7,mww,115,63,1.168,1.18,us,us6000iv6c,2022-10-21T10:48:52.073Z,"62 km SSW of Boca Chica, Panama",earthquake,6.14,1.846,0.033,90,reviewed,us,us
 2022-10-20T11:53:39.710Z,33.9235,-117.7811667,10.05,1.19,ml,54,96,0.01886,0.15,ci,ci40363760,2022-10-20T16:11:51.830Z,"5km NE of Yorba Linda, CA",earthquake,0.17,0.29,0.116,29,reviewed,ci,ci
 2022-10-20T11:50:10.971Z,62.8364,-150.7075,3.2,2,ml,,,,0.77,ak,ak022dgrb6zt,2022-10-20T11:52:25.017Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-20T11:48:59.610Z,44.7966667,-110.806,5.46,1.35,ml,18,147,0.03276,0.16,uu,uu60521267,2022-10-20T13:58:23.800Z,"Wyoming",earthquake,0.52,0.75,0.322,3,reviewed,uu,uu
@@ -287,6 +291,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-20T11:09:21.529Z,61.6373,-149.8958,31.2,2.8,ml,,,,0.56,ak,ak022dgr2ffn,2022-10-20T12:26:44.040Z,"4 km W of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-20T11:08:19.320Z,36.8175,-120.6963333,11.22,2.23,md,46,112,0.03997,0.23,nc,nc73796841,2022-10-20T21:38:15.848Z,"17km SSW of South Dos Palos, CA",earthquake,0.35,0.43,0.226,83,reviewed,nc,nc
 2022-10-20T11:02:19.030Z,38.8243332,-122.8119965,1.26,0.85,md,6,138,0.00177,0.02,nc,nc73796836,2022-10-20T11:26:14.881Z,"7km NW of The Geysers, CA",earthquake,0.52,1.03,,1,automatic,nc,nc
-2022-10-20T10:58:39.510Z,37.4316673,-121.7659988,9.33,1.22,md,10,124,0.05872,0.03,nc,nc73796831,2022-10-20T11:15:16.813Z,"9km NE of Alum Rock, CA",earthquake,0.35,0.7,0.12,5,automatic,nc,nc
-2022-10-20T10:52:23.498Z,31.71227247,-104.1351239,8.728076172,2.1,ml,11,87,0.04649425726,0.2,tx,tx2022uoil,2022-10-20T22:26:00.268Z,"50 km W of Mentone, Texas",earthquake,1.399811473,1.381510352,0.1,7,reviewed,tx,tx
-2022-10-20T10:48:51.220Z,61.321,-152.516,3.6,0,ml,5,290,,0.05,av,av91699136,2022-10-20T22:10:58.910Z,"79 km WNW of Tyonek, Alaska",earthquake,0.76,0.28,0.165682163162779,5,reviewed,av,av

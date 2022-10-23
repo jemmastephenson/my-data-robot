@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-23T21:34:43.100Z,36.7623329,-121.2779999,10.25,1.38,md,8,210,0.059,0.07,nc,nc73798371,2022-10-23T21:36:19.652Z,"5km SE of Tres Pinos, CA",earthquake,0.76,1.01,0.18,8,automatic,nc,nc
-2022-10-23T21:32:49.540Z,38.8250008,-122.8116684,1.15,1.27,md,26,37,0.00203,0.03,nc,nc73798366,2022-10-23T21:34:24.594Z,"7km NW of The Geysers, CA",earthquake,0.16,0.34,0.09,5,automatic,nc,nc
+2022-10-23T21:42:15.037Z,60.3612,-151.8068,68.1,1.8,ml,,,,0.43,ak,ak022dlvtv3z,2022-10-23T21:44:03.387Z,"27 km WNW of Clam Gulch, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-10-23T21:34:43.100Z,36.7623329,-121.2779999,10.25,1.38,md,8,210,0.059,0.07,nc,nc73798371,2022-10-23T21:51:11.202Z,"5km SE of Tres Pinos, CA",earthquake,0.76,1.01,0.18,8,automatic,nc,nc
+2022-10-23T21:32:49.540Z,38.8250008,-122.8116684,1.15,1.27,md,26,37,0.00203,0.03,nc,nc73798366,2022-10-23T21:50:14.195Z,"7km NW of The Geysers, CA",earthquake,0.16,0.34,0.09,5,automatic,nc,nc
 2022-10-23T21:09:02.940Z,38.7786674,-122.7581635,1.5,0.83,md,17,78,0.009904,0.03,nc,nc73798361,2022-10-23T21:26:13.193Z,"0km NW of The Geysers, CA",earthquake,0.25,0.45,0.35,3,automatic,nc,nc
 2022-10-23T20:43:34.400Z,38.8318329,-122.8010025,0.33,0.87,md,13,51,0.0106,0.06,nc,nc73798356,2022-10-23T21:05:17.912Z,"7km W of Cobb, CA",earthquake,0.23,0.67,0.3,2,automatic,nc,nc
 2022-10-23T20:33:46.686Z,58.068,-152.222,35.1,2.7,ml,,,,0.55,ak,ak022dlv6keq,2022-10-23T20:36:09.256Z,"23 km NE of Ouzinkie, Alaska",earthquake,,6.3,,,automatic,ak,ak
@@ -170,4 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-22T22:31:39.030Z,38.8143349,-122.8213348,3.14,0.75,md,13,58,0.008207,0.01,nc,nc73798056,2022-10-23T00:29:16.424Z,"7km NW of The Geysers, CA",earthquake,0.32,0.86,0.11,2,automatic,nc,nc
 2022-10-22T22:02:47.950Z,37.1885,-121.6988333,5.04,0.69,md,9,93,0.04454,0.1,nc,nc73798041,2022-10-23T18:21:11.979Z,"8km NNW of Morgan Hill, CA",earthquake,0.41,0.93,0.222,8,reviewed,nc,nc
 2022-10-22T22:00:48.170Z,34.0438333,-117.2498333,16.44,1.64,ml,72,25,0.06725,0.18,ci,ci40364688,2022-10-23T15:53:13.489Z,"1km ESE of Loma Linda, CA",earthquake,0.18,0.37,0.147,59,reviewed,ci,ci
-2022-10-22T21:41:13.173Z,-17.1623,-172.5981,10,5,mb,51,88,1.992,0.93,us,us6000ivtv,2022-10-22T21:59:47.040Z,"184 km SE of Hihifo, Tonga",earthquake,9.01,1.872,0.083,47,reviewed,us,us

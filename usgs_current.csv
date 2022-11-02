@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-02T09:13:25.218Z,41.7004,92.6487,10,4.9,mb,81,54,9.008,0.66,us,us7000ilxs,2022-11-02T09:32:14.040Z,"144 km SSW of Hami, China",earthquake,8.94,1.877,0.064,78,reviewed,us,us
 2022-11-02T09:04:32.060Z,17.9606666666667,-66.9655,11.08,2.05,md,5,197,0.07544,0.05,pr,pr71380558,2022-11-02T09:17:36.780Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.56,0.85,0.0652618687525959,5,reviewed,pr,pr
 2022-11-02T08:54:38.920Z,61.5906,-148.2625,21.2,1.2,ml,,,,0.35,ak,ak022e27jbmc,2022-11-02T09:06:36.908Z,"25 km SSE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-11-02T08:48:05.100Z,38.8193321,-122.8626633,1.93,1.17,md,23,88,0.009366,0.03,nc,nc73802366,2022-11-02T09:53:10.395Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.38,0.02,4,automatic,nc,nc
+2022-11-02T08:48:05.100Z,38.8193321,-122.8626633,1.93,1.17,md,23,88,0.009366,0.03,nc,nc73802366,2022-11-02T10:56:14.762Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.38,0.02,4,automatic,nc,nc
 2022-11-02T08:29:33.630Z,33.8771667,-116.859,14.84,0.88,ml,22,89,0.1971,0.19,ci,ci40128263,2022-11-02T08:33:11.243Z,"6km SSE of Banning, CA",earthquake,0.35,0.91,0.156,26,automatic,ci,ci
 2022-11-02T08:28:05.060Z,34.2113333,-117.4683333,10.96,0.88,ml,21,52,0.06987,0.23,ci,ci40128255,2022-11-02T08:31:36.937Z,"6km SSE of Lytle Creek, CA",earthquake,0.42,0.67,0.159,14,automatic,ci,ci
 2022-11-02T08:12:34.634Z,36.7131,-116.3266,9.6,1.1,ml,20,69.96,0.014,0.2221,nn,nn00850450,2022-11-02T08:15:12.630Z,"44 km ESE of Beatty, Nevada",earthquake,,0.5,0.99,12,automatic,nn,nn

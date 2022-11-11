@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-11T14:47:16.850Z,35.9921667,-117.295,-0.07,1.63,ml,12,227,0.3022,0.21,ci,ci40131103,2022-11-11T14:51:03.714Z,"26km NNE of Trona, CA",earthquake,0.93,31.61,0.136,16,automatic,ci,ci
 2022-11-11T14:34:27.950Z,35.8613333,-117.6785,9.11,0.91,ml,9,165,0.08,0.07,ci,ci40131095,2022-11-11T14:38:06.553Z,"22km ESE of Little Lake, CA",earthquake,0.28,0.65,0.14,9,automatic,ci,ci
 2022-11-11T14:32:54.000Z,19.1846675872803,-155.398162841797,33.2400016784668,1.71000004,md,31,164,,0.109999999,hv,hv73216862,2022-11-11T14:36:10.640Z,"8 km ESE of Pāhala, Hawaii",earthquake,0.65,0.930000007,1.17999995,10,automatic,hv,hv
+2022-11-11T14:31:52.460Z,-15.566,-13.3203,10,5.3,mb,37,51,23.63,0.6,us,us7000ip1t,2022-11-11T14:48:59.040Z,"southern Mid-Atlantic Ridge",earthquake,9.63,1.858,0.071,66,reviewed,us,us
 2022-11-11T14:27:28.830Z,38.8045006,-122.8089981,1.83,0.74,md,17,57,0.01125,0.02,nc,nc73803820,2022-11-11T14:29:06.673Z,"6km WNW of The Geysers, CA",earthquake,0.23,0.56,0.11,2,automatic,nc,nc
 2022-11-11T14:23:09.050Z,38.8100014,-122.7361679,-0.95,0.7,md,7,127,0.02673,0.05,nc,nc73803800,2022-11-11T14:40:13.065Z,"2km SW of Cobb, CA",earthquake,0.35,3.42,0.17,2,automatic,nc,nc
 2022-11-11T14:21:34.445Z,62.3854,-151.4435,78.7,1.5,ml,,,,0.8,ak,ak022eh6qypw,2022-11-11T14:23:17.452Z,"37 km WSW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -217,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-10T15:05:43.343Z,55.7526,162.3183,30.024,4.4,mb,78,86,3.475,0.59,us,us7000intk,2022-11-10T17:13:05.040Z,"53 km S of Ust’-Kamchatsk Staryy, Russia",earthquake,5.66,5.527,0.066,71,reviewed,us,us
 2022-11-10T14:58:34.849Z,36.7954,-115.9673,6,0.5,ml,13,96.79,0.02,0.1371,nn,nn00851009,2022-11-10T18:18:02.986Z,"Nevada",earthquake,,1.5,0.41,4,reviewed,nn,nn
 2022-11-10T14:56:10.682Z,63.4414,-146.2528,10.7,1.7,ml,,,,0.23,ak,ak022efjf2gc,2022-11-10T14:57:55.504Z,"50 km NW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-10T14:53:39.440Z,17.9186666666667,-66.8475,14.64,1.86,md,7,228,0.06371,0.08,pr,pr71381693,2022-11-10T20:54:26.790Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.48,0.6,0.137485672541204,7,reviewed,pr,pr

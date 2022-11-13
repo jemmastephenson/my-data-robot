@@ -161,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-12T22:34:05.320Z,38.841835,-122.7884979,1,0.81,md,16,110,0.00948,0.02,nc,nc73804470,2022-11-13T00:37:14.129Z,"6km WNW of Cobb, CA",earthquake,0.24,0.44,0.21,3,automatic,nc,nc
 2022-11-12T22:22:13.667Z,38.8948,-119.6325,0.1,1.1,ml,8,106.34,0.196,0.3037,nn,nn00851194,2022-11-12T22:25:22.707Z,"3 km NNE of Carter Springs, Nevada",earthquake,,9.1,0.28,5,automatic,nn,nn
 2022-11-12T22:21:40.635Z,-36.9586,178.9975,22.733,4.7,mb,20,134,0.817,0.91,us,us7000ipd2,2022-11-12T23:13:50.040Z,"off the east coast of the North Island of New Zealand",earthquake,4.79,7.372,0.153,13,reviewed,us,us
-2022-11-12T22:11:24.800Z,35.3368333,-118.5318333,8.59,1.21,ml,13,101,0.1015,0.23,ci,ci40131639,2022-11-12T22:14:58.122Z,"24km NNW of Tehachapi, CA",earthquake,0.62,1.41,0.129,13,automatic,ci,ci
+2022-11-12T22:11:24.970Z,35.3416667,-118.5083333,8.94,1.17,ml,19,76,0.08747,0.14,ci,ci40131639,2022-11-13T19:57:02.802Z,"24km NNW of Tehachapi, CA",earthquake,0.24,0.52,0.127,10,reviewed,ci,ci
 2022-11-12T22:07:09.978Z,36.0303,-115.0637,5.1,1.7,ml,21,238.8,0.48,0.3175,nn,nn00851193,2022-11-12T22:11:48.455Z,"7 km W of Henderson, Nevada",earthquake,,1.1,1.01,14,automatic,nn,nn
 2022-11-12T21:49:39.980Z,38.8326683,-122.8148346,1.8,1.03,md,15,55,0.009978,0.02,nc,nc73804445,2022-11-12T22:56:13.591Z,"8km NW of The Geysers, CA",earthquake,0.27,0.71,,1,automatic,nc,nc
 2022-11-12T21:49:31.530Z,38.8328323,-122.8150024,1.78,0.9,md,21,45,0.01018,0.02,nc,nc73804440,2022-11-13T00:12:13.975Z,"8km NW of The Geysers, CA",earthquake,0.2,0.46,0.2,4,automatic,nc,nc

@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-13T11:45:40.300Z,38.8336678,-122.8125,1.77,0.36,md,8,117,0.01043,0.01,nc,nc73804630,2022-11-13T11:47:16.133Z,"8km W of Cobb, CA",earthquake,0.45,1.33,,1,automatic,nc,nc
 2022-11-13T11:26:00.903Z,35.27738953,-98.00017548,5,2.44,ml,64,26.73834229,0.08561512083,0.6992528456,ok,ok2022wgfp,2022-11-13T11:29:42.269Z,"6 km SW of Minco, Oklahoma",earthquake,1.448068622,,,49,automatic,ok,ok
 2022-11-13T11:22:41.670Z,38.8359985,-122.7931671,0.9,0.85,md,7,125,0.003264,0.01,nc,nc73804625,2022-11-13T11:38:10.093Z,"6km WNW of Cobb, CA",earthquake,0.41,1.11,,1,automatic,nc,nc
 2022-11-13T11:21:31.280Z,38.8366661,-122.7945023,0.71,0.91,md,14,67,0.003684,0.02,nc,nc73804620,2022-11-13T11:39:14.099Z,"6km WNW of Cobb, CA",earthquake,0.21,0.42,0.3,2,automatic,nc,nc

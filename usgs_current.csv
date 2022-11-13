@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-13T23:42:33.610Z,61.5001,-148.014,33,1.2,ml,,,,0.56,ak,ak022eknb24h,2022-11-13T23:44:21.178Z,"39 km SSW of Glacier View, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-11-13T23:25:07.680Z,19.4284992218018,-155.2568359375,0.109999999403954,2.30999994,md,11,137,,0.100000001,hv,hv73220452,2022-11-13T23:28:03.770Z,"2 km WSW of Volcano, Hawaii",earthquake,0.25,0.140000001,1.20000005,6,automatic,hv,hv
+2022-11-13T23:21:53.829Z,63.3104,-144.9722,4.5,1.1,ml,,,,0.98,ak,ak022ekn6kw9,2022-11-13T23:42:37.873Z,"Central Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-11-13T23:20:38.550Z,35.4815,-118.3028333,3.56,1.99,ml,32,43,0.1435,0.15,ci,ci40132111,2022-11-13T23:31:04.790Z,"21km SE of Bodfish, CA",earthquake,0.21,0.86,0.215,27,automatic,ci,ci
-2022-11-13T23:13:46.980Z,19.1378326416016,-155.425994873047,32.5,2.35,ml,43,174,,0.129999995,hv,hv73220442,2022-11-13T23:19:18.040Z,"9 km SE of Pāhala, Hawaii",earthquake,0.55,0.910000026,3.73,6,automatic,hv,hv
+2022-11-13T23:13:46.980Z,19.1378326416016,-155.425994873047,32.5,2.35,ml,43,174,,0.129999995,hv,hv73220442,2022-11-13T23:39:35.040Z,"9 km SE of Pāhala, Hawaii",earthquake,0.55,0.910000026,3.73,6,automatic,hv,hv
 2022-11-13T22:56:04.611Z,12.1234,46.5789,10,4.4,mb,30,149,3.701,0.9,us,us7000ipiv,2022-11-13T23:10:17.040Z,"171 km SE of Zinjibār, Yemen",earthquake,12.06,1.967,0.106,26,reviewed,us,us
 2022-11-13T22:44:07.770Z,38.8286667,-122.8096695,5.07,0.85,md,8,116,0.005273,0.02,nc,nc73804790,2022-11-13T23:36:10.392Z,"7km NW of The Geysers, CA",earthquake,0.85,2.71,,1,automatic,nc,nc
 2022-11-13T22:28:43.010Z,19.2061672210693,-155.263168334961,44.1699981689453,1.88,md,21,199,,0.129999995,hv,hv73220407,2022-11-13T22:31:57.290Z,"22 km E of Pāhala, Hawaii",earthquake,0.77,1.22000003,1.90999997,4,automatic,hv,hv
@@ -174,4 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-13T00:56:01.670Z,33.6626667,-116.771,12.66,0.39,ml,14,77,0.06772,0.14,ci,ci40131711,2022-11-13T00:59:28.764Z,"10km SSW of Idyllwild, CA",earthquake,0.41,0.67,0.161,9,automatic,ci,ci
 2022-11-13T00:53:30.460Z,38.8231659,-122.8428345,1.82,0.37,md,6,157,0.006097,0.01,nc,nc73804505,2022-11-13T02:45:13.934Z,"9km NW of The Geysers, CA",earthquake,0.5,1.74,,1,automatic,nc,nc
 2022-11-13T00:09:21.060Z,19.1924991607666,-155.380172729492,31.5,2.05999994,md,30,175,,0.100000001,hv,hv73219102,2022-11-13T00:12:25.970Z,"10 km E of Pāhala, Hawaii",earthquake,0.63,0.850000024,1.37,6,automatic,hv,hv
-2022-11-12T23:40:11.197Z,60.6007,-151.3066,1.7,2.1,ml,,,,0.66,ak,ak022eizr8gv,2022-11-13T00:15:10.467Z,"1 km SSE of Salamatof, Alaska",earthquake,,0.4,,,automatic,ak,ak

@@ -3,6 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-15T11:17:55.382Z,61.0433,-148.3205,4.8,1.2,ml,,,,0.98,ak,ak022enr38mq,2022-11-15T11:19:44.123Z,"35 km NNE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-15T10:49:14.025Z,35.27734375,-98.00941467,5,3.28,ml,91,20.27471924,0.08032247424,0.7990344069,ok,ok2022wjvk,2022-11-15T11:21:31.722Z,"7 km WSW of Minco, Oklahoma",earthquake,1.323611823,,,68,automatic,ok,ok
 2022-11-15T10:46:54.360Z,36.006,-117.8653333,1.22,0.97,ml,10,120,0.05146,0.19,ci,ci40132655,2022-11-15T10:50:27.024Z,"9km NNE of Little Lake, CA",earthquake,0.83,1.21,0.167,8,automatic,ci,ci
+2022-11-15T10:40:53.304Z,31.56097224,-104.1038136,7.057055663999999,2.7,ml,52,64,0.02548645478,0.2,tx,tx2022wjvc,2022-11-15T11:54:05.508Z,"40 km NW of Toyah, Texas",earthquake,0.7029365232,0.6117183872,0.1,29,reviewed,tx,tx
 2022-11-15T10:39:39.741Z,59.6706,-152.5525,88.4,0.8,ml,,,,0.72,ak,ak022enqmhkm,2022-11-15T10:41:56.055Z,"42 km WSW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-15T10:38:33.480Z,61.3828,-150.4391,25.9,1.6,ml,,,,0.65,ak,ak022enqm9dg,2022-11-15T10:40:56.230Z,"18 km SSE of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-15T09:58:54.480Z,37.3761673,-119.9523315,21.39,2.2,md,5,224,0.1717,0.01,nc,nc73807716,2022-11-15T11:00:11.003Z,"11km SSW of Bootjack, CA",earthquake,3.03,0.89,0.28,8,automatic,nc,nc
@@ -292,4 +293,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-14T12:19:07.770Z,19.1765003204346,-155.488662719727,31.3600006103516,1.90999997,md,41,91,,0.129999995,hv,hv73221142,2022-11-14T12:22:23.370Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.61,1.12,0.910000026,12,automatic,hv,hv
 2022-11-14T12:16:56.970Z,17.949,-66.9475,11.62,2.3,md,10,210,0.06993,0.15,pr,pr71382343,2022-11-14T13:18:44.210Z,"4 km WSW of Guánica, Puerto Rico",earthquake,1.17,0.77,0.173617231373627,7,reviewed,pr,pr
 2022-11-14T12:11:03.860Z,34.0165,-117.1763333,5.57,0.77,ml,26,91,0.05636,0.14,ci,ci40132247,2022-11-14T19:06:29.718Z,"4km S of Redlands, CA",earthquake,0.21,0.97,0.146,16,reviewed,ci,ci
-2022-11-14T11:50:23.310Z,33.4886667,-116.4933333,9.18,0.38,ml,20,95,0.07552,0.11,ci,ci40132239,2022-11-14T19:02:00.596Z,"18km ESE of Anza, CA",earthquake,0.27,0.58,0.121,12,reviewed,ci,ci

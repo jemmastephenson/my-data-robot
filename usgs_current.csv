@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-16T12:07:25.770Z,38.8380013,-122.8239975,1.72,0.96,md,23,64,0.008992,0.03,nc,nc73808101,2022-11-16T12:09:01.598Z,"9km WNW of Cobb, CA",earthquake,0.2,0.39,0.07,4,automatic,nc,nc
+2022-11-16T12:05:03.493Z,58.5495,-153.8147,70.2,2.2,ml,,,,0.35,ak,ak022epf5c4t,2022-11-16T12:07:12.215Z,"76 km NW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-11-16T12:00:12.497Z,34.79577637,-97.59449768,5.094186306,1.73,ml,14,84.75273132,0.1198693141,0.5690176035,ok,ok2022wltg,2022-11-16T12:03:18.386Z,"2 km SSE of Erin Springs, Oklahoma",earthquake,3.263838448,4.449388245,,12,automatic,ok,ok
+2022-11-16T11:58:05.107Z,59.7656,-153.0804,105.1,1.9,ml,,,,0.92,ak,ak022epev9l8,2022-11-16T12:01:13.346Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-16T11:44:13.340Z,33.2196667,-116.7466667,11.69,0.73,ml,15,59,0.01917,0.13,ci,ci40133119,2022-11-16T11:47:42.471Z,"3km SSE of Lake Henshaw, CA",earthquake,0.26,0.47,0.253,8,automatic,ci,ci
 2022-11-16T11:20:04.460Z,35.6003333,-117.3493333,1.55,1.62,ml,12,166,0.07623,0.19,ci,ci40133103,2022-11-16T11:23:41.450Z,"18km S of Trona, CA",earthquake,0.59,0.87,0.27,20,automatic,ci,ci
 2022-11-16T10:53:27.646Z,6.0962,-82.4965,10,4.4,mb,23,166,2.687,1.02,us,us7000iq3t,2022-11-16T11:11:33.040Z,"218 km S of Burica, Panama",earthquake,9.11,1.954,0.162,11,reviewed,us,us
@@ -206,6 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-15T12:38:54.191Z,61.357,-147.7799,2.6,1.5,ml,,,,1.5,ak,ak022enrt66j,2022-11-15T12:41:02.647Z,"50 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-15T12:24:20.634Z,-53.6768,140.9345,10,4.9,mb,44,51,10.62,0.52,us,us7000ipuy,2022-11-15T12:58:29.040Z,"west of Macquarie Island",earthquake,10.82,1.863,0.092,37,reviewed,us,us
 2022-11-15T12:24:12.503Z,61.145,-139.9489,10,2.5,ml,24,135,0.607,0.3,us,us7000ipux,2022-11-15T13:40:13.040Z,"Southern Yukon Territory, Canada",earthquake,3.85,1.999,0.046,62,reviewed,us,us
-2022-11-15T12:12:28.113Z,-30.2992,-67.3159,10,4,mwr,79,86,1.711,0.71,us,us7000ipuw,2022-11-16T09:43:57.040Z,"39 km NNE of San Agustín de Valle Fértil, Argentina",earthquake,5.9,1.809,0.055,32,reviewed,us,us
-2022-11-15T12:09:39.600Z,38.7729988,-122.7173309,1.19,1.8,md,19,98,0.01282,0.06,nc,nc73807741,2022-11-15T13:20:12.825Z,"2km W of Anderson Springs, CA",earthquake,0.33,0.51,0.12,8,automatic,nc,nc
-2022-11-15T11:53:19.899Z,22.3473,121.0835,10,4.9,mb,94,80,0.468,0.64,us,us7000ipuv,2022-11-15T12:38:48.040Z,"Taiwan region",earthquake,4.61,0.941,0.062,81,reviewed,us,us

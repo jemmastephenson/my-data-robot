@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-16T09:40:39.620Z,35.7035,-117.5785,10.27,1.03,ml,7,208,0.1131,0.16,ci,ci40133071,2022-11-16T09:47:40.824Z,"13km NE of Ridgecrest, CA",earthquake,0.89,1.07,0.096,8,automatic,ci,ci
 2022-11-16T09:34:29.835Z,60.0444,-152.6269,95.6,1.1,ml,,,,0.29,ak,ak022epdjb47,2022-11-16T09:36:51.378Z,"51 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-16T09:22:44.754Z,-5.3468,102.3553,32.34,5.1,mb,58,93,1.148,0.71,us,us7000iq39,2022-11-16T09:40:00.040Z,"southern Sumatra, Indonesia",earthquake,7.13,4.364,0.08,50,reviewed,us,us
-2022-11-16T09:19:31.990Z,38.8313332,-122.819664,1.75,1.6,md,22,52,0.01091,0.02,nc,nc73808071,2022-11-16T09:37:12.166Z,"8km NW of The Geysers, CA",earthquake,0.19,0.42,0.16,5,automatic,nc,nc
+2022-11-16T09:19:31.990Z,38.8313332,-122.819664,1.75,1.6,md,22,52,0.01091,0.02,nc,nc73808071,2022-11-16T11:32:10.794Z,"8km NW of The Geysers, CA",earthquake,0.19,0.42,0.16,5,automatic,nc,nc
 2022-11-16T09:18:20.536Z,42.1963,-111.0342,5,2.6,ml,30,68,0.571,0.66,us,us7000iq38,2022-11-16T10:20:17.040Z,"14 km NNW of Cokeville, Wyoming",earthquake,2.59,1.939,0.04,84,reviewed,us,us
 2022-11-16T09:13:18.844Z,36.7568,-116.224,8,-0.3,ml,10,97.5,0.03,0.0757,nn,nn00851377,2022-11-16T09:15:45.396Z,"50 km ESE of Beatty, Nevada",earthquake,,1.1,0.84,5,automatic,nn,nn
 2022-11-16T09:10:43.770Z,19.2608337402344,-155.380004882812,29.7999992370605,1.82000005,md,40,134,,0.170000002,hv,hv73223857,2022-11-16T09:14:06.870Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.62,0.75999999,0.639999986,12,automatic,hv,hv
@@ -211,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-15T11:45:16.133Z,57.7859,-154.088,34.6,1.6,ml,,,,0.76,ak,ak022enr95nh,2022-11-15T11:47:41.042Z,"Kodiak Island region, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-11-15T11:41:49.690Z,38.799,-122.7506667,1.81,0.64,md,25,128,0.007252,0.03,nc,nc73807736,2022-11-15T23:16:13.506Z,"2km NNE of The Geysers, CA",earthquake,0.21,0.3,0.212,4,reviewed,nc,nc
 2022-11-15T11:40:38.804Z,59.7383,-150.9143,38.3,1.1,ml,,,,0.51,ak,ak022enr83w7,2022-11-15T18:41:35.871Z,"13 km S of Fox River, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2022-11-15T11:24:17.030Z,37.3,-121.6691667,6.54,0.93,md,21,49,0.04106,0.08,nc,nc73807731,2022-11-15T22:13:13.127Z,"15km E of Seven Trees, CA",earthquake,0.24,0.38,0.186,19,reviewed,nc,nc

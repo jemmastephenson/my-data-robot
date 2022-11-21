@@ -240,6 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-20T05:51:10.412Z,60.3641,-152.5703,13.9,1.7,ml,,,,0.72,ak,ak022evxekch,2022-11-20T05:53:49.838Z,"61 km NW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-20T05:49:10.940Z,17.9461666666667,-66.9583333333333,10.19,2.16,md,8,216,0.08057,0.06,pr,pr71383238,2022-11-20T06:12:07.210Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.55,0.76,0.051740645246297,7,reviewed,pr,pr
 2022-11-20T05:48:22.854Z,41.9514,-119.5577,0,1.6,ml,5,210.79,0.557,0.1952,nn,nn00851662,2022-11-20T18:33:27.039Z,"Nevada",earthquake,,0,0.57,5,reviewed,nn,nn
-2022-11-20T05:42:21.440Z,17.9593333333333,-66.9666666666667,8.56,2.41,md,6,199,0.0745,0.1,pr,pr71383233,2022-11-20T06:10:24.900Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.57,1.11,0.0358626218668441,4,reviewed,pr,pr
-2022-11-20T05:40:05.138Z,59.9511,-152.8534,104.4,2.2,ml,,,,0.28,ak,ak022evxc729,2022-11-20T05:42:11.335Z,"60 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-11-20T05:35:48.090Z,36.01,-117.8121667,1.05,1.99,ml,19,103,0.02758,0.16,ci,ci40378328,2022-11-20T05:46:55.590Z,"12km NE of Little Lake, CA",earthquake,0.33,0.36,0.156,25,automatic,ci,ci

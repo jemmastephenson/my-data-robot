@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-24T11:36:23.840Z,33.7163333,-116.6783333,18.14,0.7,ml,18,114,0.02807,0.34,ci,ci40380320,2022-11-24T11:39:56.751Z,"5km SE of Idyllwild, CA",earthquake,0.83,0.76,0.165,18,automatic,ci,ci
+2022-11-24T11:17:30.122Z,53.9909,-162.7012,10,3.5,ml,31,193,0.963,1.1,us,us7000is1c,2022-11-24T11:40:53.040Z,"106 km SSE of False Pass, Alaska",earthquake,4.67,1.979,0.079,21,reviewed,us,us
 2022-11-24T11:12:29.829Z,37.9962,-118.236,0,1.6,ml,15,150.33,0.26,0.222,nn,nn00851995,2022-11-24T11:15:27.724Z,"28 km NE of Benton, California",earthquake,,20,0.19,9,automatic,nn,nn
 2022-11-24T11:11:53.760Z,19.2409992218018,-155.408660888672,31.3999996185303,1.82000005,md,39,131,,0.140000001,hv,hv73234032,2022-11-24T11:15:11.880Z,"Island of Hawaii, Hawaii",earthquake,0.46,0.910000026,0.340000004,9,automatic,hv,hv
 2022-11-24T11:03:46.729Z,61.7573,-148.2508,12.7,1.9,ml,,,,0.79,ak,ak022f2mucds,2022-11-24T11:05:46.342Z,"12 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak

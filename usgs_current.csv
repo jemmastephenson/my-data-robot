@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-11-27T15:29:25.796Z,34.50990677,-97.23053741,4.266564369,2.06,ml,11,174.7126732,0.1169862226,0.4479171127,ok,ok2022xgcr,2022-11-27T15:31:46.782Z,"10 km W of Davis, Oklahoma",earthquake,5.964079797,3.843026873,,9,automatic,ok,ok
 2022-11-27T15:10:33.234Z,60.447,-152.0309,88.9,1.5,ml,,,,0.15,ak,ak022f7nvl97,2022-11-27T15:11:55.657Z,"40 km WNW of Cohoe, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-11-27T14:47:54.310Z,38.8376656,-122.8083344,2.1,0.36,md,7,112,0.01407,0,nc,nc73812046,2022-11-27T15:14:12.556Z,"8km WNW of Cobb, CA",earthquake,0.57,1.2,,1,automatic,nc,nc
+2022-11-27T14:47:54.310Z,38.8376656,-122.8083344,2.1,0.36,md,7,112,0.01407,0,nc,nc73812046,2022-11-27T15:46:12.779Z,"8km WNW of Cobb, CA",earthquake,0.57,1.2,,1,automatic,nc,nc
 2022-11-27T14:45:10.070Z,38.8376656,-122.8081665,2.03,0.85,md,9,81,0.01394,0,nc,nc73812041,2022-11-27T15:19:15.584Z,"8km WNW of Cobb, CA",earthquake,0.32,0.75,,1,automatic,nc,nc
 2022-11-27T14:40:23.030Z,65.6973,-154.9286,0,1.9,ml,,,,1.26,ak,ak022f7ngkcp,2022-11-27T14:51:07.221Z,"49 km SW of Hughes, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-11-27T14:19:43.710Z,19.1685009002686,-155.474670410156,31.3600006103516,1.87,md,28,87,,0.119999997,hv,hv73238537,2022-11-27T14:22:46.060Z,"Hawaii region, Hawaii",earthquake,0.72,1.17999995,0.970000029,7,automatic,hv,hv

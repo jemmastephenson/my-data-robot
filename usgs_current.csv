@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-27T12:54:32.950Z,19.154333114624,-155.374160766602,28.8400001525879,2.17,ml,50,178,,0.129999995,hv,hv73238407,2022-11-27T13:07:14.040Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.61,0.860000014,3.98,8,automatic,hv,hv
 2022-11-27T12:44:58.870Z,18.6853333333333,-65.729,72.59,3.43,md,35,210,0.2903,0.23,pr,pr71384258,2022-11-27T13:18:08.600Z,"30 km NNE of Vieques, Puerto Rico",earthquake,1.1,0.97,0.1085501014734,21,reviewed,pr,pr
 2022-11-27T12:43:04.830Z,62.9868,-149.6164,119.8,1.5,ml,,,,0.67,ak,ak022f7maavn,2022-11-27T12:45:53.858Z,"56 km SW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-11-27T12:33:11.280Z,36.027668,-121.5511703,8.02,2.49,md,34,194,0.1161,0.11,nc,nc73812031,2022-11-27T12:57:14.830Z,"2km ENE of Lopez Point, CA",earthquake,0.58,0.97,0.16,23,automatic,nc,nc
+2022-11-27T12:33:11.280Z,36.027668,-121.5511703,8.02,2.49,md,34,194,0.1161,0.11,nc,nc73812031,2022-11-27T13:48:15.033Z,"2km ENE of Lopez Point, CA",earthquake,0.58,0.97,0.16,23,automatic,nc,nc
 2022-11-27T12:31:51.513Z,19.1304,120.8332,30.172,4.3,mb,33,107,3.676,0.38,us,us7000isr6,2022-11-27T12:55:02.040Z,"63 km N of Pagudpud, Philippines",earthquake,11.33,3.401,0.126,18,reviewed,us,us
 2022-11-27T12:31:02.190Z,33.2161667,-116.7413333,11.42,0.58,ml,24,54,0.02457,0.15,ci,ci40381520,2022-11-27T12:34:29.248Z,"4km SE of Lake Henshaw, CA",earthquake,0.26,0.54,0.141,9,automatic,ci,ci
 2022-11-27T12:30:22.850Z,38.795166,-122.7543335,2.73,0.86,md,9,89,0.006883,0.02,nc,nc73812026,2022-11-27T13:33:13.940Z,"2km N of The Geysers, CA",earthquake,0.4,1.03,,1,automatic,nc,nc

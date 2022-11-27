@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-27T10:27:18.708Z,64.8744,-149.0745,18.8,1.5,ml,,,,0.34,ak,ak022f7l01a6,2022-11-27T10:28:43.444Z,"30 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-27T10:15:11.680Z,33.7518333,-118.9006667,16.12,1.8,ml,8,293,0.4154,0.28,ci,ci40381480,2022-11-27T10:18:51.495Z,"29km SSW of Malibu, CA",earthquake,4.45,31.61,0.367,24,automatic,ci,ci
 2022-11-27T10:09:58.830Z,19.1253337860107,-155.42317199707,32.25,2.1400001,md,37,179,,0.129999995,hv,hv73238112,2022-11-27T10:13:16.180Z,"10 km SE of Pāhala, Hawaii",earthquake,0.6,1.09000003,0.280000001,13,automatic,hv,hv
 2022-11-27T10:08:57.837Z,46.9765,-112.7651,9.331,2.2,ml,14,56,0.241,0.32,us,us7000isqe,2022-11-27T10:20:13.040Z,"Western Montana",earthquake,1.92,7.434,0.074,24,reviewed,us,us
@@ -184,8 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T10:50:44.791Z,61.6502,-150.9937,51,1.3,ml,,,,0.51,ak,ak022f5xlo9g,2022-11-26T10:53:18.653Z,"28 km WNW of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-11-26T10:45:21.830Z,38.8088341,-122.7210007,4.01,0.86,md,17,130,0.02836,0.1,nc,nc73811711,2022-11-26T12:50:11.125Z,"2km S of Cobb, CA",earthquake,0.63,2.01,0.01,2,automatic,nc,nc
 2022-11-26T10:38:48.610Z,37.4263333,-118.5705,3.28,1.03,md,17,99,0.1907,0.06,nc,nc73811706,2022-11-27T09:06:12.384Z,"3km ENE of Round Valley, CA",earthquake,0.34,2.56,0.247,12,reviewed,nc,nc
-2022-11-26T10:36:31.103Z,-16.5699,-173.4425,46.601,4.6,mb,16,135,2.135,0.65,us,us7000isjf,2022-11-26T11:03:29.040Z,"77 km SSE of Hihifo, Tonga",earthquake,7.12,11.008,0.158,12,reviewed,us,us
-2022-11-26T10:31:02.390Z,33.1878333,-115.6016667,1.58,1.3,ml,8,120,0.01562,0.14,ci,ci40381192,2022-11-26T10:34:34.377Z,"10km SW of Niland, CA",earthquake,0.53,0.65,0.168,22,automatic,ci,ci
-2022-11-26T10:28:22.620Z,37.6135,-118.9,1.66,-0.26,md,8,152,0.01222,0.04,nc,nc73811701,2022-11-27T08:30:23.000Z,"7km ESE of Mammoth Lakes, CA",earthquake,0.82,1.18,0.357,7,reviewed,nc,nc
-2022-11-26T10:28:03.240Z,34.332,-117.7188333,3.42,1,ml,23,50,0.06016,0.24,ci,ci40381184,2022-11-26T10:31:32.696Z,"8km WSW of Wrightwood, CA",earthquake,0.33,0.84,0.212,29,automatic,ci,ci
-2022-11-26T10:26:29.010Z,19.1690006256104,-155.492172241211,36.7799987792969,2.04999995,md,39,107,,0.129999995,hv,hv73236542,2022-11-26T10:29:59.230Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.64,0.850000024,1.08000004,11,automatic,hv,hv

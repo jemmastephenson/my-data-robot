@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-30T16:47:14.340Z,34.9176667,-119.3646667,2.48,1.33,ml,16,93,0.04567,0.24,ci,ci40382704,2022-11-30T16:50:48.971Z,"16km SSE of Maricopa, CA",earthquake,0.52,1.25,0.3,19,automatic,ci,ci
 2022-11-30T16:39:39.830Z,34.3868333,-118.3848333,11.84,1.28,ml,30,48,0.08044,0.27,ci,ci40382696,2022-11-30T16:43:10.031Z,"10km NNE of Sylmar, CA",earthquake,0.41,1.58,0.244,28,automatic,ci,ci
 2022-11-30T16:32:59.550Z,60.9893,-151.2983,58.2,1.2,ml,,,,0.17,ak,ak022fcn7u4j,2022-11-30T16:34:13.744Z,"12 km SW of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-30T16:03:14.977Z,63.9629,-149.8599,10.9,1.4,ml,,,,0.86,ak,ak022fcn1iy7,2022-11-30T16:05:58.776Z,"36 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-30T16:01:07.400Z,38.7545013,-122.4258347,6.4,2.06,md,18,67,,0.09,nc,nc73813151,2022-11-30T16:08:13.006Z,"13km ESE of Hidden Valley Lake, CA",earthquake,0.26,1.04,0.07,13,automatic,nc,nc
+2022-11-30T16:01:07.400Z,38.7545013,-122.4258347,6.4,2.06,md,18,67,,0.09,nc,nc73813151,2022-11-30T16:56:10.308Z,"13km ESE of Hidden Valley Lake, CA",earthquake,0.26,1.04,0.07,13,automatic,nc,nc
 2022-11-30T15:45:52.220Z,33.6516667,-116.6946667,14.28,0.72,ml,27,102,0.06153,0.19,ci,ci40382688,2022-11-30T15:49:27.815Z,"10km SSE of Idyllwild, CA",earthquake,0.43,0.5,0.197,16,automatic,ci,ci
 2022-11-30T15:18:23.189Z,-15.9117,176.9719,10,4.8,mb,17,131,2.096,0.41,us,us6000j5sp,2022-11-30T15:55:42.040Z,"194 km NNW of Ba, Fiji",earthquake,10.61,1.934,0.155,14,reviewed,us,us
 2022-11-30T15:17:42.331Z,26.8894,55.2139,9.759,5.6,mww,108,25,2.132,0.73,us,us6000j5sn,2022-11-30T16:16:39.027Z,"49 km NE of Bandar-e Lengeh, Iran",earthquake,6.34,4.172,0.086,13,reviewed,us,us
@@ -256,5 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-29T17:14:00.490Z,33.3593333,-115.7886667,3.57,2.26,ml,53,56,0.1328,0.14,ci,ci40382400,2022-11-30T01:21:23.630Z,"5km WNW of Bombay Beach, CA",earthquake,0.17,1.01,0.136,23,reviewed,ci,ci
 2022-11-29T17:11:53.580Z,33.5721667,-116.375,13.69,0.84,ml,27,89,0.07552,0.09,ci,ci40382392,2022-11-30T01:05:59.920Z,"12km SSW of La Quinta, CA",earthquake,0.18,0.38,0.154,20,reviewed,ci,ci
 2022-11-29T17:07:21.000Z,19.3003330230713,-155.412994384766,31.5,2.36,ml,44,142,,0.119999997,hv,hv73245222,2022-11-29T18:07:18.515Z,"12 km NNE of Pāhala, Hawaii",earthquake,0.55,0.629999995,3.85,20,automatic,hv,hv
-2022-11-29T16:51:27.363Z,36.8669,-115.9543,8.9,-0.1,ml,6,217.39,0.047,0.0612,nn,nn00852248,2022-11-29T21:26:50.085Z,"41 km NW of Indian Springs, Nevada",earthquake,,2.2,0.17,3,reviewed,nn,nn
-2022-11-29T16:47:46.280Z,18.0935,-66.801,4.86,1.97,md,8,111,0.08554,0.17,pr,pr71384583,2022-11-29T17:27:45.210Z,"Puerto Rico region",earthquake,0.32,0.77,0.189127527328419,7,reviewed,pr,pr

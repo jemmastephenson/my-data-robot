@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-02T08:40:50.290Z,38.8344994,-122.8119965,1.97,0.76,md,15,54,0.01119,0.02,nc,nc73813756,2022-12-02T08:42:24.365Z,"8km W of Cobb, CA",earthquake,0.25,0.63,0.27,17,automatic,nc,nc
 2022-12-02T08:34:43.190Z,33.7356667,-116.1123333,3,1.04,ml,33,87,0.08967,0.18,ci,ci40383560,2022-12-02T08:38:14.301Z,"8km NE of Coachella, CA",earthquake,0.23,0.63,0.176,27,automatic,ci,ci
 2022-12-02T08:17:27.033Z,63.56,-150.8899,0,1.8,ml,,,,0.85,ak,ak022fftfs0p,2022-12-02T08:20:28.225Z,"41 km E of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-02T08:16:16.490Z,36.5838318,-121.2231674,-0.12,1.47,md,7,124,0.03272,0.09,nc,nc73813751,2022-12-02T08:33:18.260Z,"9km NW of Pinnacles, CA",earthquake,0.43,1.14,0.23,6,automatic,nc,nc
@@ -139,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T19:54:29.030Z,34.9973333,-118.1828333,-0.85,1.47,ml,14,70,0.1241,0.13,ci,ci40383312,2022-12-01T21:20:11.346Z,"6km S of Mojave, CA",quarry blast,0.36,31.61,0.166,26,reviewed,ci,ci
 2022-12-01T19:40:15.480Z,19.2198333740234,-155.379333496094,31.9599990844727,1.75,md,26,155,,0.170000002,hv,hv73250207,2022-12-01T19:43:23.990Z,"10 km E of Pāhala, Hawaii",earthquake,0.91,1.00999999,0.74000001,3,automatic,hv,hv
 2022-12-01T19:37:20.900Z,19.3936666666667,-155.454666666667,8.38,1.41,md,27,42,,0.12,hv,hv73250202,2022-12-01T20:15:57.010Z,"21 km N of Pāhala, Hawaii",earthquake,0.32,0.67,0.213709975932459,12,reviewed,hv,hv
-2022-12-01T19:37:07.340Z,19.4413333333333,-155.5925,-2.03,1.28,md,10,97,,0.19,hv,hv73250197,2022-12-01T20:25:39.990Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.29,0.37,0.248958798582732,5,reviewed,hv,hv
+2022-12-01T19:37:07.340Z,19.4413333333333,-155.5925,-2.03,1.28,md,10,97,,0.19,hv,hv73250197,2022-12-01T20:25:39.990Z,"Island of Hawaii, Hawaii",earthquake,0.29,0.37,0.248958798582732,5,reviewed,hv,hv
 2022-12-01T19:31:12.590Z,33.826,-117.4821667,-0.53,1.33,ml,19,110,0.0321,0.28,ci,ci40383304,2022-12-01T20:11:36.991Z,"7km SSE of Home Gardens, CA",quarry blast,0.76,31.61,0.197,33,reviewed,ci,ci
 2022-12-01T19:27:01.443Z,31.61377504,-103.9959893,8.856616211,2.3,ml,21,57,0.01952657167,0.1,tx,tx2022xnsn,2022-12-01T23:33:47.237Z,"western Texas",earthquake,0.5585696263,0.5491025478,0.1,16,reviewed,tx,tx
 2022-12-01T19:14:59.576Z,31.69946955,-104.1708528,6.131567383,2.7,ml,14,69,0.06037789876,0.3,tx,tx2022xnsd,2022-12-01T21:34:53.454Z,"54 km W of Mentone, Texas",earthquake,0.9750506642,1.2036179,0.3,11,reviewed,tx,tx

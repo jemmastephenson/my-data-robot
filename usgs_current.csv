@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-04T22:56:15.525Z,60.9032,-148.0994,14.2,1.6,ml,,,,1.27,ak,ak022fjd2vio,2022-12-04T22:57:53.480Z,"34 km ENE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-04T22:27:17.618Z,61.4353,-149.9039,32.9,1.7,ml,,,,0.5,ak,ak022fjcwnwx,2022-12-04T22:29:12.760Z,"9 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-04T22:24:58.870Z,19.449333190918,-155.597839355469,-2.19000005722046,2.0999999,md,16,87,,0.200000003,hv,hv73259132,2022-12-04T22:27:51.340Z,"Hawaii region, Hawaii",earthquake,0.34,0.479999989,0.899999976,7,automatic,hv,hv
 2022-12-04T22:13:47.485Z,61.3935,-149.6804,32,1.7,ml,,,,0.46,ak,ak022fjctq70,2022-12-04T22:15:53.159Z,"7 km SSE of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T21:39:35.769Z,64.9141,-147.9306,10.1,1.1,ml,,,,0.59,ak,ak022fjcduaw,2022-12-04T21:41:36.510Z,"8 km NNE of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-04T21:36:23.273Z,62.0412,-145.1679,8.8,1.8,ml,,,,0.83,ak,ak022fjcd66v,2022-12-04T21:38:10.432Z,"9 km ENE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-04T21:32:15.708Z,62.4315,-151.8933,110.8,2.3,ml,,,,0.4,ak,ak022fjccaqq,2022-12-04T21:34:45.789Z,"55 km NNW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-12-04T21:27:33.660Z,38.8171654,-122.8193359,2.9,1.03,md,11,89,0.009542,0.01,nc,nc73814551,2022-12-04T22:43:11.000Z,"7km NW of The Geysers, CA",earthquake,0.44,1.15,0.21,12,automatic,nc,nc
+2022-12-04T21:27:33.660Z,38.8171654,-122.8193359,2.9,1.03,md,11,89,0.009542,0.01,nc,nc73814551,2022-12-04T22:52:13.054Z,"7km NW of The Geysers, CA",earthquake,0.44,1.15,0.21,12,automatic,nc,nc
 2022-12-04T21:27:11.964Z,1.1488,97.2353,35,4.8,mb,33,179,0.373,0.78,us,us6000j6x2,2022-12-04T21:41:28.040Z,"140 km SSW of Singkil, Indonesia",earthquake,8.41,1.706,0.097,33,reviewed,us,us
 2022-12-04T21:19:47.218Z,38.188,-117.8568,7.5,1.7,ml,11,143.87,0.095,0.1856,nn,nn00852588,2022-12-04T22:20:59.001Z,"31 km SE of Mina, Nevada",earthquake,,1.7,0.23,5,reviewed,nn,nn
 2022-12-04T21:12:22.920Z,19.4396666666667,-155.594166666667,-2.04,1.88,md,8,100,,0.1,hv,hv73259042,2022-12-04T21:43:58.190Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.26,0.31,0.172400777172278,6,reviewed,hv,hv

@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-05T04:44:43.670Z,38.7943344,-122.75383,1.38,1.09,md,12,89,0.007783,0.02,nc,nc73814671,2022-12-05T04:46:20.344Z,"2km N of The Geysers, CA",earthquake,0.28,0.53,0.13,15,automatic,nc,nc
+2022-12-05T04:44:43.670Z,38.7943344,-122.75383,1.38,1.09,md,12,89,0.007783,0.02,nc,nc73814671,2022-12-05T04:55:10.272Z,"2km N of The Geysers, CA",earthquake,0.28,0.53,0.13,15,automatic,nc,nc
 2022-12-05T04:27:34.768Z,36.7552948,-98.05950165,2.896672249,2.09,ml,32,81.27689672,0.0952289924,0.3379247215,ok,ok2022xtww,2022-12-05T04:30:58.968Z,"8 km E of Nescatunga, Oklahoma",earthquake,2.348061293,2.146210976,,25,automatic,ok,ok
 2022-12-05T04:17:51.040Z,60.6582,-151.8338,103.2,1.9,ml,,,,0.34,ak,ak022fkpo5h4,2022-12-05T04:20:30.988Z,"28 km W of Salamatof, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-12-05T04:10:15.270Z,38.7999992,-122.7743301,1.27,0.63,md,9,80,0.01144,0.03,nc,nc73814661,2022-12-05T04:33:13.140Z,"3km NNW of The Geysers, CA",earthquake,0.43,0.64,0.18,9,automatic,nc,nc
@@ -26,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-05T02:43:13.445Z,-26.9828,-25.1197,10,5.1,mb,21,137,27.874,0.81,us,us6000j6yb,2022-12-05T02:59:06.040Z,"South Atlantic Ocean",earthquake,8.53,1.945,0.098,34,reviewed,us,us
 2022-12-05T02:40:01.080Z,19.4726666666667,-155.593833333333,-0.5,1.55,ml,7,122,,0.09,hv,hv73259452,2022-12-05T04:09:08.890Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.58,0.27,0.279454348049244,2,reviewed,hv,hv
 2022-12-05T02:37:03.868Z,63.0812,-150.9822,134.5,1.9,ml,,,,0.3,ak,ak022fkolgeq,2022-12-05T02:39:18.532Z,"63 km SE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-12-05T02:35:41.090Z,38.8201675,-122.7941666,2.16,0.77,md,12,67,0.01221,0.03,nc,nc73814626,2022-12-05T04:03:09.951Z,"6km NW of The Geysers, CA",earthquake,0.35,0.59,0.1,12,automatic,nc,nc
+2022-12-05T02:35:41.090Z,38.8201675,-122.7941666,2.16,0.77,md,12,67,0.01221,0.03,nc,nc73814626,2022-12-05T04:49:15.235Z,"6km NW of The Geysers, CA",earthquake,0.35,0.59,0.1,12,automatic,nc,nc
 2022-12-05T02:34:45.960Z,35.667,-117.4703333,6.46,1.1,ml,12,169,0.0806,0.17,ci,ci40142071,2022-12-05T02:38:24.588Z,"13km SSW of Searles Valley, CA",earthquake,0.47,1.15,0.195,9,automatic,ci,ci
 2022-12-05T02:31:17.987Z,19.2489,146.5195,35,5.2,mb,383,74,5.846,0.61,us,us6000j6y9,2022-12-05T04:41:30.734Z,"Mariana Islands region",earthquake,9.82,1.885,0.03,362,reviewed,us,us
 2022-12-05T02:26:50.290Z,35.9713326,-119.9779968,0.64,2.85,md,72,26,0.2601,0.31,nc,nc73814616,2022-12-05T04:21:13.066Z,"4km SSW of Kettleman City, CA",earthquake,0.38,2.76,0.09,66,automatic,nc,nc
@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T05:05:15.660Z,33.217,-116.7448333,11.22,0.88,ml,43,35,0.02224,0.15,ci,ci40141703,2022-12-04T22:01:55.619Z,"3km SSE of Lake Henshaw, CA",earthquake,0.17,0.43,0.152,23,reviewed,ci,ci
 2022-12-04T04:59:37.520Z,19.4801666666667,-155.582166666667,-1.33,2.32,md,15,110,,0.13,hv,hv73257177,2022-12-05T02:43:13.290Z,"Island of Hawaii, Hawaii",earthquake,0.52,0.23,0.0705500558688184,7,reviewed,hv,hv
 2022-12-04T04:59:14.670Z,19.4056666666667,-155.25,3.95,0.77,md,13,80,,0.13,hv,hv73257172,2022-12-05T01:00:55.720Z,"4 km SSW of Volcano, Hawaii",earthquake,0.4,0.59,0.203471441310588,5,reviewed,hv,hv
-2022-12-04T04:50:51.538Z,60.0645,-149.8774,24.9,1.4,ml,,,,0.29,ak,ak022fj2bv41,2022-12-04T04:52:19.905Z,"24 km W of Lowell Point, Alaska",earthquake,,0.3,,,automatic,ak,ak

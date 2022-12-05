@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-05T16:52:23.430Z,19.4541664123535,-155.601669311523,-1.77999997138977,1.80999994,md,12,92,,0.170000002,hv,hv73260407,2022-12-05T16:55:29.750Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.33,0.349999994,0.899999976,8,automatic,hv,hv
+2022-12-05T16:48:13.240Z,36.9339981,-121.3621674,7.1,1.44,md,14,96,0.09529,0.2,nc,nc73814836,2022-12-05T16:49:50.269Z,"10km NNE of Hollister, CA",earthquake,0.51,2.1,0.19,9,automatic,nc,nc
 2022-12-05T16:41:54.216Z,61.9334,-146.9266,37.4,1.6,ml,,,,0.53,ak,ak022fkwyhml,2022-12-05T16:43:35.255Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-05T16:36:49.098Z,62.167,-150.4141,13,1.8,ml,,,,0.39,ak,ak022fkwxenh,2022-12-05T16:38:36.787Z,"19 km SSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-05T16:19:23.525Z,-15.292,-173.0513,35,5.7,mb,55,63,2.621,1.05,us,us6000j71p,2022-12-05T16:44:50.655Z,"108 km NE of Hihifo, Tonga",earthquake,9.34,1.895,0.025,577,reviewed,us,us
+2022-12-05T16:19:23.435Z,-15.2887,-173.0425,35,5.6,mww,54,63,2.612,0.97,us,us6000j71p,2022-12-05T16:54:13.594Z,"109 km NE of Hihifo, Tonga",earthquake,9.16,1.888,0.098,10,reviewed,us,us
 2022-12-05T16:16:57.770Z,35.5091667,-118.3833333,10.69,0.94,ml,11,73,0.1702,0.07,ci,ci40142319,2022-12-05T16:20:31.489Z,"13km SE of Bodfish, CA",earthquake,0.21,0.59,0.136,8,automatic,ci,ci
 2022-12-05T15:50:09.980Z,34.0623333,-118.3035,9.93,1.45,ml,20,77,0.05575,0.31,ci,ci40142311,2022-12-05T15:53:52.096Z,"2km WNW of MacArthur Park, CA",earthquake,0.6,1.24,0.243,30,automatic,ci,ci
 2022-12-05T15:49:59.032Z,61.4745,-151.4089,61.8,1.6,ml,,,,0.21,ak,ak022fkwes4f,2022-12-05T15:51:17.372Z,"41 km NNW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -9,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-05T15:35:03.870Z,33.4926667,-116.7553333,7.61,0.67,ml,23,49,0.07409,0.14,ci,ci40142303,2022-12-05T15:38:30.997Z,"10km SW of Anza, CA",earthquake,0.2,0.73,0.157,21,automatic,ci,ci
 2022-12-05T15:33:45.910Z,51.629,-175.3639,50.693,4.8,mb,80,132,0.499,0.54,us,us6000j715,2022-12-05T15:55:34.040Z,"91 km ESE of Adak, Alaska",earthquake,5,6.191,0.031,323,reviewed,us,us
 2022-12-05T15:29:15.824Z,58.162,-155.4037,0,0.7,ml,,,,0.79,ak,ak022fkwaegu,2022-12-05T15:31:20.225Z,"86 km NW of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
+2022-12-05T15:20:56.856Z,41.1043,142.3032,58.173,4.8,mb,46,133,0.989,0.36,us,us6000j711,2022-12-05T16:57:30.040Z,"89 km ENE of Misawa, Japan",earthquake,7.08,6.452,0.107,30,reviewed,us,us
 2022-12-05T15:17:16.547Z,58.1909,-155.2558,1.3,2,ml,,,,0.48,ak,ak022fkw7txi,2022-12-05T15:19:27.136Z,"83 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-05T15:16:20.870Z,38.8353348,-122.7894974,1.97,1.04,md,12,65,0.00314,0.02,nc,nc73814811,2022-12-05T16:31:10.332Z,"6km WNW of Cobb, CA",earthquake,0.36,0.88,0.29,13,automatic,nc,nc
 2022-12-05T15:14:51.990Z,19.4281673431396,-155.27033996582,1.00999999046326,2.06999993,md,8,121,,0.180000007,hv,hv73260297,2022-12-05T16:06:16.603Z,"4 km WSW of Volcano, Hawaii",earthquake,0.5,0.340000004,1.13999999,6,automatic,hv,hv

@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-06T08:40:31.401Z,35.104702,-97.92230988,0.06784761697,2.21,ml,42,42.28955078,0.1155742854,0.9776564981,ok,ok2022xwao,2022-12-06T08:42:56.561Z,"5 km NNE of Chickasha, Oklahoma",earthquake,1.935195769,1.404468383,,30,automatic,ok,ok
+2022-12-06T08:48:27.920Z,36.2731667,-117.9895,4.11,2.2,ml,23,103,0.1818,0.18,ci,ci40142559,2022-12-06T08:53:38.311Z,"2km SE of Olancha, CA",earthquake,0.38,4.32,0.251,25,automatic,ci,ci
+2022-12-06T08:40:31.401Z,35.104702,-97.92230988,0.06784761697,2.22,ml,42,42.28955078,0.1155742854,0.9776564981,ok,ok2022xwao,2022-12-06T08:44:11.820Z,"5 km NNE of Chickasha, Oklahoma",earthquake,1.935195769,1.404468383,,32,automatic,ok,ok
 2022-12-06T08:19:00.538Z,61.6337,-148.1363,31.2,1,ml,,,,0.29,ak,ak022fmfljdx,2022-12-06T08:21:01.555Z,"25 km SE of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-06T08:13:36.000Z,33.7718333,-116.0765,1.6,0.96,ml,25,103,0.1209,0.19,ci,ci40142551,2022-12-06T08:18:45.424Z,"14km NE of Coachella, CA",earthquake,0.28,0.61,0.122,26,automatic,ci,ci
 2022-12-06T08:01:30.714Z,-0.0121,123.1747,166.334,5,mb,60,52,2.64,0.96,us,us6000j79p,2022-12-06T08:18:41.040Z,"Sulawesi, Indonesia",earthquake,7.95,7.07,0.063,81,reviewed,us,us
@@ -30,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-06T04:31:33.955Z,61.3387,-147.6685,23.3,2.2,ml,,,,0.56,ak,ak022fmdag4z,2022-12-06T04:33:23.855Z,"52 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-06T04:31:30.721Z,61.5613,-148.7826,33.7,2.5,ml,,,,1.34,ak,ak022fmdafw0,2022-12-06T08:44:59.458Z,"11 km SE of Lazy Mountain, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-06T04:18:40.254Z,63.8317,-148.622,97.7,1.5,ml,,,,0.28,ak,ak022fmd7obd,2022-12-06T04:21:08.582Z,"17 km E of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-12-06T04:16:51.285Z,62.7343,-148.9612,68.8,1.6,ml,,,,0.71,ak,ak022fmd79po,2022-12-06T04:19:11.471Z,"66 km ENE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-12-06T04:16:51.285Z,62.7343,-148.9612,68.8,1.6,ml,,,,0.71,ak,ak022fmd79po,2022-12-06T04:19:11.471Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-06T04:13:32.800Z,38.8001671,-122.800499,2.37,1.33,md,25,70,0.008784,0.03,nc,nc73815106,2022-12-06T07:13:13.656Z,"5km WNW of The Geysers, CA",earthquake,0.22,0.38,0.13,28,automatic,nc,nc
 2022-12-06T04:10:35.350Z,46.1995,-122.17916666666666,1.02,0.02,ml,10,150,0.004454,0.07,uw,uw61897471,2022-12-06T05:11:23.730Z,"38 km NNE of Amboy, Washington",earthquake,0.28,0.2,0.3283980998238089,7,reviewed,uw,uw
 2022-12-06T04:05:09.370Z,19.4736671447754,-155.502838134766,3.67000007629395,1.82000005,md,24,71,,0.300000012,hv,hv73261192,2022-12-06T04:08:24.720Z,"28 km W of Volcano, Hawaii",earthquake,0.65,1.22000003,0.519999981,9,automatic,hv,hv

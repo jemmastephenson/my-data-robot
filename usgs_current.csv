@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-09T04:40:32.200Z,38.7993317,-122.8030014,2.32,1.36,md,28,48,,0.03,nc,nc73816416,2022-12-09T04:43:45.108Z,"5km WNW of The Geysers, CA",earthquake,0.2,0.37,0.12,29,automatic,nc,nc
 2022-12-09T04:26:38.040Z,34.919,-119.5626667,8.19,1.22,ml,17,102,0.09444,0.21,ci,ci40143863,2022-12-09T04:30:08.138Z,"21km SW of Maricopa, CA",earthquake,0.48,1.34,0.179,17,automatic,ci,ci
 2022-12-09T04:15:32.200Z,17.9476666666667,-66.9545,11.92,2.39,md,4,216,0.07662,0.04,pr,pr71386193,2022-12-09T04:32:24.730Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.63,0.85,0.0326743812303261,4,reviewed,pr,pr
 2022-12-09T04:02:34.894Z,63.7965,-147.6883,0,1.5,ml,,,,0.54,ak,ak022frbq9xd,2022-12-09T04:04:43.895Z,"60 km E of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-09T03:34:26.170Z,38.831665,-122.8118362,1.84,0.71,md,10,89,0.008372,0.01,nc,nc73816406,2022-12-09T03:36:02.903Z,"8km NW of The Geysers, CA",earthquake,0.32,1,0.14,11,automatic,nc,nc
 2022-12-09T03:31:03.700Z,38.838665,-122.8098297,1.94,1.54,md,28,35,,0.02,nc,nc73816401,2022-12-09T03:56:11.178Z,"8km WNW of Cobb, CA",earthquake,0.18,0.36,0.15,29,automatic,nc,nc
 2022-12-09T03:24:33.317Z,-0.8268,-79.9196,55.289,4.5,mb,22,158,7.939,1.27,us,us6000j82i,2022-12-09T03:57:53.053Z,"Ecuador",earthquake,11.73,6.368,0.106,27,reviewed,us,us
-2022-12-09T02:53:52.230Z,37.4126663,-118.5964966,9.88,1.77,md,6,160,0.06503,0.01,nc,nc73816391,2022-12-09T03:10:13.892Z,"0km SSE of Round Valley, CA",earthquake,1.92,4.76,0.39,5,automatic,nc,nc
+2022-12-09T02:53:52.230Z,37.4126663,-118.5964966,9.88,1.77,md,6,160,0.06503,0.01,nc,nc73816391,2022-12-09T04:38:11.406Z,"0km SSE of Round Valley, CA",earthquake,1.92,4.76,0.39,5,automatic,nc,nc
 2022-12-09T02:33:25.471Z,62.2929,-150.4488,12.8,1.6,ml,,,,0.52,ak,ak022fraq16r,2022-12-09T02:38:54.622Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-09T02:20:05.650Z,34.5281667,-119.0771667,19.45,1.37,ml,13,116,0.1412,0.19,ci,ci40143855,2022-12-09T02:23:49.931Z,"18km ENE of Ojai, CA",earthquake,0.58,0.99,0.389,16,automatic,ci,ci
 2022-12-09T02:17:11.780Z,32.6098333,-116.6278333,7.99,1.92,ml,13,216,0.07938,0.28,ci,ci40143847,2022-12-09T02:20:46.989Z,"5km N of Tecate, B.C., MX",earthquake,2.26,1.7,0.379,23,automatic,ci,ci
@@ -278,5 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T04:58:58.132Z,-2.787,139.0814,47.082,5.4,mb,73,19,6.825,0.89,us,us6000j7tx,2022-12-09T01:01:56.335Z,"173 km W of Abepura, Indonesia",earthquake,9.03,4.849,0.06,95,reviewed,us,us
 2022-12-08T04:51:56.200Z,64.8044,-147.1307,22.3,1.1,ml,,,,1.02,ak,ak022fpohh5w,2022-12-08T04:54:26.779Z,"8 km SSW of Two Rivers, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-12-08T04:48:52.360Z,37.4966667,-118.845,4.68,0.43,md,5,301,0.09405,0,nc,nc73815996,2022-12-08T18:33:13.764Z,"16km WSW of Toms Place, CA",earthquake,1.21,2.47,0.153,6,reviewed,nc,nc
-2022-12-08T04:38:12.720Z,62.402,-147.9472,39.5,1.5,ml,,,,0.63,ak,ak022fpoeli0,2022-12-08T04:40:36.458Z,"65 km NW of Eureka Roadhouse, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-12-08T04:37:51.710Z,38.8448334,-122.8138351,1.28,0.71,md,10,53,0.01231,0.04,nc,nc73815986,2022-12-08T04:55:11.769Z,"8km WNW of Cobb, CA",earthquake,0.28,0.71,0.27,12,automatic,nc,nc

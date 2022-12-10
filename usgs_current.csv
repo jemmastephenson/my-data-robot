@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-10T12:04:11.153Z,60.1564,-151.9534,70.9,1.7,ml,,,,0.25,ak,ak022ft41guz,2022-12-10T12:06:13.638Z,"19 km NW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-12-10T12:01:45.550Z,33.8265,-116.1498333,2.57,1.36,ml,30,54,0.06664,0.22,ci,ci40144335,2022-12-10T12:05:18.962Z,"13km NNE of Indio, CA",earthquake,0.28,0.47,0.118,27,automatic,ci,ci
+2022-12-10T11:53:12.700Z,19.1656665802002,-155.473495483398,35.7700004577637,2.42,ml,48,92,,0.119999997,hv,hv73265317,2022-12-10T11:58:44.110Z,"4 km S of Pāhala, Hawaii",earthquake,0.48,0.800000012,4.54,4,automatic,hv,hv
+2022-12-10T11:36:51.100Z,19.379,-65.9236666666667,10.29,3.33,md,21,267,1.075,0.23,pr,pr71386448,2022-12-10T12:06:58.110Z,"Puerto Rico region",earthquake,2.25,3.05,0.0458009562220654,11,reviewed,pr,pr
 2022-12-10T11:32:40.861Z,63.297,-150.4687,126.7,1.8,ml,,,,0.25,ak,ak022ft3m3li,2022-12-10T11:34:48.801Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2022-12-10T11:26:27.070Z,37.4573326,-119.2754974,16.29,1.74,md,6,129,0.1114,0.03,nc,nc73816931,2022-12-10T11:47:17.477Z,"33km SW of Mammoth Lakes, CA",earthquake,1.1,2.42,0.03,5,automatic,nc,nc
+2022-12-10T11:26:27.070Z,37.4573326,-119.2754974,16.29,1.74,md,6,129,0.1114,0.03,nc,nc73816931,2022-12-10T11:59:10.539Z,"33km SW of Mammoth Lakes, CA",earthquake,1.1,2.42,0.03,5,automatic,nc,nc
 2022-12-10T11:14:18.558Z,59.3737,-152.4815,45.1,2.9,ml,,,,0.08,ak,ak022ft3i6zj,2022-12-10T11:24:30.040Z,"Southern Alaska",earthquake,,6.3,,,automatic,ak,ak
 2022-12-10T10:49:47.260Z,38.7885017,-122.7685013,2.4,0.91,md,12,80,0.01392,0.02,nc,nc73816921,2022-12-10T11:22:14.310Z,"2km NW of The Geysers, CA",earthquake,0.3,0.57,0.16,12,automatic,nc,nc
 2022-12-10T10:44:37.380Z,17.8315,-66.8781666666667,13.62,2.57,md,8,260,0.1428,0.1,pr,pr71386443,2022-12-10T11:04:23.700Z,"15 km SSE of Guánica, Puerto Rico",earthquake,0.66,0.38,0.0935884575621544,5,reviewed,pr,pr
@@ -201,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-09T12:31:45.190Z,37.2999992,-122.0933304,6.33,1.62,md,8,110,0.03373,0.03,nc,nc73816586,2022-12-09T14:25:12.964Z,"6km S of Loyola, CA",earthquake,0.39,0.55,0.31,7,automatic,nc,nc
 2022-12-09T12:18:10.913Z,64.3288,-150.8715,0,1.5,ml,,,,0.76,ak,ak022frgl4df,2022-12-09T12:20:22.671Z,"75 km S of Manley Hot Springs, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-09T12:08:48.160Z,35.5085,-118.3925,3.77,1.17,ml,19,101,0.1677,0.21,ci,ci40143983,2022-12-09T14:22:54.044Z,"13km SE of Bodfish, CA",earthquake,0.35,1.24,0.223,16,reviewed,ci,ci
-2022-12-09T11:53:21.810Z,19.2264995574951,-155.398330688477,30.8600006103516,2.11999989,md,34,160,,0.129999995,hv,hv73264567,2022-12-09T11:56:25.570Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.56,1.04999995,1.04999995,8,automatic,hv,hv
-2022-12-09T11:52:27.900Z,18.0208333333333,-66.7751666666667,14.77,2.52,md,14,98,0.009408,0.23,pr,pr71386243,2022-12-09T12:16:46.300Z,"0 km WNW of Magas Arriba, Puerto Rico",earthquake,0.55,0.74,0.242605245796206,8,reviewed,pr,pr

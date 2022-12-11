@@ -180,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T00:29:47.560Z,18.0036666666667,-66.8366666666667,14.76,2.29,md,9,157,0.04844,0.12,pr,pr71386553,2022-12-11T00:39:31.510Z,"Puerto Rico region",earthquake,0.44,0.44,0.0485690318596512,4,reviewed,pr,pr
 2022-12-11T00:16:20.874Z,59.7434,-153.1188,105.6,2.1,ml,,,,0.34,ak,ak022fuki7fr,2022-12-11T00:20:43.836Z,"55 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-10T23:57:53.930Z,38.8349991,-122.8033371,1.86,1.03,md,15,68,0.0107,0.02,nc,nc73817086,2022-12-11T00:30:13.031Z,"7km WNW of Cobb, CA",earthquake,0.29,0.58,0.25,17,automatic,nc,nc
-2022-12-10T23:53:36.187Z,32.942,141.6374,10,5.1,mb,93,93,1.542,0.92,us,us6000j8hx,2022-12-11T00:12:55.040Z,"273 km SSE of Katsuura, Japan",earthquake,7.82,1.86,0.048,141,reviewed,us,us

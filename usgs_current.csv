@@ -48,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T16:41:33.170Z,35.7766667,-117.6063333,9.89,0.97,ml,22,69,0.03964,0.12,ci,ci40145191,2022-12-13T17:33:43.708Z,"18km W of Searles Valley, CA",earthquake,0.19,0.36,0.14,10,reviewed,ci,ci
 2022-12-13T16:33:44.660Z,38.8356667,-122.7801666,1.58,1.34,md,22,100,0.007525,0.03,nc,nc73818236,2022-12-13T18:36:12.991Z,"5km WNW of Cobb, CA",earthquake,0.32,0.33,0.15,23,automatic,nc,nc
 2022-12-13T16:24:43.120Z,38.8008347,-122.7496643,2.43,0.72,md,9,175,0.007854,0.02,nc,nc73818231,2022-12-13T17:19:13.532Z,"3km NNE of The Geysers, CA",earthquake,0.55,0.94,0.06,9,automatic,nc,nc
-2022-12-13T16:22:48.123Z,63.6284,-147.5935,8.3,2.1,ml,,,,0.85,ak,ak022fy556i4,2022-12-13T16:24:46.384Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-12-13T16:22:48.123Z,63.6284,-147.5935,8.3,2.1,ml,,,,0.85,ak,ak022fy556i4,2022-12-13T16:24:46.384Z,"66 km E of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-13T16:01:56.031Z,61.8738,-150.1458,35.5,1.5,ml,,,,0.78,ak,ak022fy50p2r,2022-12-13T16:03:11.293Z,"15 km NNW of Willow, Alaska",earthquake,,8.5,,,automatic,ak,ak
 2022-12-13T15:56:55.590Z,36.6090012,-121.2143326,8.93,1.76,md,16,127,0.04391,0.08,nc,nc73818226,2022-12-13T18:09:14.835Z,"11km NW of Pinnacles, CA",earthquake,0.32,0.74,0.2,16,automatic,nc,nc
 2022-12-13T15:51:36.870Z,38.8276672,-122.8141632,1.84,1.2,md,25,42,0.005329,0.02,nc,nc73818216,2022-12-13T17:41:16.659Z,"8km NW of The Geysers, CA",earthquake,0.18,0.37,0.22,25,automatic,nc,nc
@@ -97,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T11:23:43.477Z,-8.1902,115.6474,10,4.6,mb,31,60,1.506,0.42,us,us6000j8z8,2022-12-13T12:34:25.764Z,"28 km N of Amlapura, Indonesia",earthquake,5.62,1.873,0.141,15,reviewed,us,us
 2022-12-13T11:18:07.170Z,19.1261672973633,-155.489334106445,33.2400016784668,1.73000002,md,25,174,,0.140000001,hv,hv73268417,2022-12-13T11:21:23.970Z,"Island of Hawaii, Hawaii",earthquake,0.69,1.10000002,0.860000014,3,automatic,hv,hv
 2022-12-13T10:58:55.780Z,61.5351,-146.6377,28.9,1.8,ml,,,,0.65,ak,ak022fy1sb8q,2022-12-13T11:00:38.753Z,"47 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-13T10:43:48.032Z,38.167,-117.8976,9.6,1.1,ml,12,158.41,0.056,0.1248,nn,nn00853243,2022-12-13T23:33:43.185Z,"30 km SE of Mina, Nevada",earthquake,,1.4,0.49,3,reviewed,nn,nn
+2022-12-13T10:43:48.027Z,38.1673,-117.8973,9.6,1.1,ml,12,158.59,0.057,0.1239,nn,nn00853243,2022-12-13T23:46:27.321Z,"30 km SE of Mina, Nevada",earthquake,,1.4,0.49,3,reviewed,nn,nn
 2022-12-13T10:40:09.610Z,47.687333333333335,-121.859,25.66,2.68,ml,18,77,0.05314,0.3,uw,uw61898306,2022-12-13T22:48:36.713Z,"4 km E of Lake Marcel-Stillwater, Washington",earthquake,0.67,1.2,0.16537529324107214,130,reviewed,uw,uw
 2022-12-13T10:38:21.885Z,-8.2614,115.6169,10,5.2,mww,65,49,1.464,0.61,us,us6000j8z3,2022-12-13T14:30:26.040Z,"20 km N of Amlapura city, Indonesia",earthquake,5.31,1.834,0.098,10,reviewed,us,us
 2022-12-13T10:29:54.531Z,42.2046,-119.9957,4.9,1.4,ml,5,140.47,0.269,0.1244,nn,nn00853286,2022-12-13T19:12:08.315Z,"24 km SSW of Plush, Oregon",earthquake,,5.1,0.74,4,reviewed,nn,nn
@@ -147,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T05:18:15.750Z,38.8590012,-122.8401642,0.92,0.73,md,5,139,0.01383,0.01,nc,nc73818021,2022-12-13T06:07:15.362Z,"11km WNW of Cobb, CA",earthquake,0.4,1.54,0.11,8,automatic,nc,nc
 2022-12-13T05:17:31.280Z,38.8569984,-122.8393326,1.3,1.1,md,14,132,0.01863,0.02,nc,nc73818016,2022-12-13T06:50:12.617Z,"11km WNW of Cobb, CA",earthquake,0.28,0.57,0.13,17,automatic,nc,nc
 2022-12-13T05:17:00.140Z,38.8574982,-122.8401642,1.12,0.73,md,6,134,0.01343,0.01,nc,nc73818011,2022-12-13T06:25:12.468Z,"11km WNW of Cobb, CA",earthquake,0.5,0.98,0.12,8,automatic,nc,nc
-2022-12-13T05:11:04.269Z,36.6356,-115.9473,7.9,0.2,ml,14,270.75,0.029,0.12,nn,nn00853230,2022-12-13T23:43:06.697Z,"25 km WNW of Indian Springs, Nevada",earthquake,,1.2,1.17,6,reviewed,nn,nn
+2022-12-13T05:11:04.347Z,36.6326,-115.9525,7.4,0.3,ml,15,269.9,0.03,0.0657,nn,nn00853230,2022-12-13T23:46:19.452Z,"26 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.38,7,reviewed,nn,nn
 2022-12-13T05:03:11.610Z,38.7983333,-122.749,1.38,0.75,md,24,124,0.008677,0.03,nc,nc73818001,2022-12-13T07:43:00.638Z,"2km NNE of The Geysers, CA",earthquake,0.2,0.38,0.089,4,reviewed,nc,nc
 2022-12-13T04:46:10.907Z,60.0985,-153.0625,121.8,2.2,ml,,,,0.28,ak,ak022fxy51k2,2022-12-13T06:04:50.040Z,"67 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-13T04:27:12.721Z,64.7676,-150.2283,10.9,1.7,ml,,,,0.55,ak,ak022fxy0z2l,2022-12-13T04:29:34.009Z,"32 km SE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -203,10 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-12T23:57:08.900Z,38.8588333,-122.836998,1.38,1.45,md,20,135,0.01144,0.01,nc,nc73817861,2022-12-13T02:07:14.947Z,"11km WNW of Cobb, CA",earthquake,0.24,0.49,0.19,20,automatic,nc,nc
 2022-12-12T23:56:32.660Z,38.8615,-122.8348333,1.13,2.69,md,71,41,0.01127,0.05,nc,nc73817871,2022-12-13T22:44:15.475Z,"11km WNW of Cobb, CA",earthquake,0.12,0.16,0.208,57,reviewed,nc,nc
 2022-12-12T23:56:10.810Z,38.8593333,-122.835,0.94,1.3,md,46,117,0.01022,0.04,nc,nc73817856,2022-12-13T21:35:18.091Z,"10km WNW of Cobb, CA",earthquake,0.13,0.24,0.248,10,reviewed,nc,nc
-2022-12-12T23:55:44.440Z,38.8588333,-122.8376667,1.2,1.21,md,40,119,0.01193,0.05,nc,nc73817851,2022-12-13T21:08:12.928Z,"11km WNW of Cobb, CA",earthquake,0.13,0.22,0.165,9,reviewed,nc,nc
-2022-12-12T23:54:34.530Z,19.4091666666667,-155.2975,1.89,1.67,ml,13,80,,0.08,hv,hv73267862,2022-12-13T01:22:35.050Z,"7 km WSW of Volcano, Hawaii",earthquake,0.22,0.23,0.160169669406056,6,reviewed,hv,hv
-2022-12-12T23:53:24.220Z,38.8591652,-122.8363342,1.14,0.96,md,15,136,0.01109,0.01,nc,nc73817846,2022-12-12T23:55:00.521Z,"11km WNW of Cobb, CA",earthquake,0.27,0.5,0.29,17,automatic,nc,nc
-2022-12-12T23:51:57.519Z,38.1406,-118.0357,11,0.7,ml,12,149.5,0.06,0.0717,nn,nn00853217,2022-12-13T00:45:46.760Z,"Nevada",earthquake,,3,0.31,3,reviewed,nn,nn
-2022-12-12T23:51:48.460Z,54.5573333333333,-163.325,5.39,2.27,ml,5,274,,0.08,av,av91079448,2022-12-13T03:43:12.650Z,"33 km S of False Pass, Alaska",earthquake,0.51,0.75,0.108291302180157,3,reviewed,av,av
-2022-12-12T23:51:03.190Z,38.8588333,-122.8351669,0.92,0.66,md,10,133,0.01012,0.02,nc,nc73817841,2022-12-12T23:52:41.540Z,"10km WNW of Cobb, CA",earthquake,0.4,0.63,0.21,11,automatic,nc,nc
-2022-12-12T23:50:46.780Z,38.8603333,-122.836,1.34,1.52,md,44,119,0.01139,0.05,nc,nc73817836,2022-12-13T20:40:12.748Z,"11km WNW of Cobb, CA",earthquake,0.13,0.19,0.045,10,reviewed,nc,nc

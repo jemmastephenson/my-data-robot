@@ -195,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T15:04:35.190Z,36.5955,-121.166,9.09,1.12,md,21,129,0.02843,0.08,nc,nc73818186,2022-12-13T20:13:13.564Z,"7km NNW of Pinnacles, CA",earthquake,0.36,0.32,0.107,17,reviewed,nc,nc
 2022-12-13T14:59:16.650Z,38.8359985,-122.7833328,1.25,0.98,md,9,78,0.005981,0.01,nc,nc73818176,2022-12-13T15:26:12.807Z,"5km WNW of Cobb, CA",earthquake,0.79,1.81,0.09,9,automatic,nc,nc
 2022-12-13T14:57:45.805Z,36.7324,-116.2042,5.9,-0.3,ml,7,140.67,0.008,0.051,nn,nn00853289,2022-12-14T02:40:27.367Z,"51 km WNW of Indian Springs, Nevada",earthquake,,2.5,0.1,4,reviewed,nn,nn
-2022-12-13T14:55:29.410Z,38.7781677,-122.7555008,1.05,1.11,md,13,110,0.01093,0.03,nc,nc73818171,2022-12-13T16:23:18.183Z,"0km NE of The Geysers, CA",earthquake,0.29,0.51,0.16,15,automatic,nc,nc
-2022-12-13T14:54:39.560Z,65.1839,-149.042,8.3,1.4,ml,,,,0.43,ak,ak022fy455jo,2022-12-13T14:57:10.863Z,"14 km ENE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak

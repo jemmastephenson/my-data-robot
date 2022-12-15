@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-15T18:36:15.270Z,38.796833,-122.7556686,1.7,0.76,md,8,150,0.004932,0.03,nc,nc73819001,2022-12-15T18:37:49.959Z,"2km N of The Geysers, CA",earthquake,0.48,0.87,0.12,10,automatic,nc,nc
+2022-12-15T18:19:55.738Z,30.6442,138.7439,378.181,4.5,mb,92,89,2.626,0.6,us,us6000j9ir,2022-12-15T18:55:06.040Z,"Izu Islands, Japan region",earthquake,10.16,6.822,0.062,83,reviewed,us,us
 2022-12-15T18:16:57.871Z,61.8951,-144.1262,0,1.6,ml,,,,0.57,ak,ak022g1hdh5n,2022-12-15T18:18:34.212Z,"45 km NNE of Chitina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-15T18:03:43.706Z,58.1839,-155.3648,0,1.4,ml,,,,0.36,ak,ak022g1hanr6,2022-12-15T18:05:29.339Z,"87 km NW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-12-15T18:02:04.190Z,33.8231667,-117.4873333,2.27,1.6,ml,41,51,0.0357,0.22,ci,ci40145791,2022-12-15T18:43:11.428Z,"7km SSE of Home Gardens, CA",quarry blast,0.34,0.44,0.214,34,automatic,ci,ci
@@ -72,8 +73,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T09:02:27.530Z,44.774,-111.0276667,9.23,0.07,md,9,138,0.02121,0.11,uu,uu60528152,2022-12-15T14:39:32.490Z,"12 km E of Hebgen Lake Estates, Montana",earthquake,0.59,1.07,0.262,4,reviewed,uu,uu
 2022-12-15T09:02:07.147Z,63.0515,-148.7293,7,1.6,ml,,,,0.54,ak,ak022g1bxgru,2022-12-15T09:03:52.173Z,"39 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-15T08:58:50.220Z,33.9656667,-117.1306667,15.21,0.79,ml,40,57,0.03947,0.16,ci,ci40145687,2022-12-15T16:29:44.921Z,"8km WSW of Calimesa, CA",earthquake,0.2,0.36,0.122,21,reviewed,ci,ci
-2022-12-15T08:52:16.020Z,37.5761667,-118.8383333,4.32,0.37,md,9,256,0.01566,0.01,nc,nc73818916,2022-12-15T17:54:13.370Z,"14km W of Toms Place, CA",earthquake,1.32,1.41,0.179,9,reviewed,nc,nc
+2022-12-15T08:52:16.020Z,37.5761667,-118.8383333,4.32,0.37,md,9,256,0.01566,0.01,nc,nc73818916,2022-12-15T18:53:13.461Z,"14km W of Toms Place, CA",earthquake,1.32,1.41,0.179,9,reviewed,nc,nc
 2022-12-15T08:48:00.930Z,38.8101654,-122.7925034,3.26,0.33,md,7,180,0.003098,0.01,nc,nc73818911,2022-12-15T09:10:11.832Z,"5km NW of The Geysers, CA",earthquake,1.18,1.05,0.12,8,automatic,nc,nc
+2022-12-15T08:41:48.501Z,31.67158482,-104.3908384,7.725463867,2.1,ml,35,66,0.03113747102,0.2,tx,tx2022ymmh,2022-12-15T18:47:55.227Z,"western Texas",earthquake,0.9123169995,0.9369092271000001,0.1,20,reviewed,tx,tx
 2022-12-15T08:29:02.840Z,63.1774,-149.876,93.3,1.6,ml,,,,0.84,ak,ak022g1bht73,2022-12-15T08:31:47.471Z,"52 km WSW of Cantwell, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-12-15T08:27:53.610Z,38.8288345,-122.8154984,2.05,0.77,md,8,94,0.006889,0.01,nc,nc73818906,2022-12-15T08:58:12.759Z,"8km NW of The Geysers, CA",earthquake,0.53,1.1,0.15,11,automatic,nc,nc
 2022-12-15T08:25:21.666Z,62.1077,-150.4958,12.5,1.9,ml,,,,0.74,ak,ak022g1bgzra,2022-12-15T08:28:16.000Z,"27 km SSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak

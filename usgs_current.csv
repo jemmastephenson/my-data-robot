@@ -195,10 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T03:14:18.139Z,63.6082,-148.6186,30.2,1.5,ml,,,,0.47,ak,ak022g671hud,2022-12-18T03:25:34.989Z,"20 km SE of Denali Park, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2022-12-18T02:51:59.096Z,39.977,-119.6541,10.1,0.7,ml,5,159.32,0.135,0.1018,nn,nn00853653,2022-12-18T18:19:08.329Z,"Nevada",earthquake,,3.2,0.21,5,reviewed,nn,nn
 2022-12-18T02:48:11.837Z,62.7014,-151.3973,108.3,2.4,ml,,,,0.3,ak,ak022g66nc87,2022-12-18T02:58:24.040Z,"39 km NW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-12-18T02:47:49.890Z,18.8225,-65.3036666666667,14.7,3.29,md,15,241,0.5127,0.23,pr,pr71387823,2022-12-18T03:31:02.020Z,"57 km N of Culebra, Puerto Rico",earthquake,0.91,1.45,0.0601804921125972,12,reviewed,pr,pr
-2022-12-18T02:46:30.251Z,62.018,-149.9354,64.7,1.2,ml,,,,0.54,ak,ak022g66myb5,2022-12-18T02:48:44.912Z,"16 km SSW of Susitna North, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2022-12-18T02:42:15.270Z,19.2346668243408,-155.395660400391,28.3999996185303,1.71000004,md,27,141,,0.200000003,hv,hv73274442,2022-12-18T02:45:27.160Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.67,1.20000005,1.75999999,4,automatic,hv,hv
-2022-12-18T02:40:50.529Z,36.6394,-116.1381,0,-0.2,ml,5,297.32,0.05,0.0494,nn,nn00853652,2022-12-18T18:19:04.533Z,"California-Nevada border region",earthquake,,0,0.02,3,reviewed,nn,nn
-2022-12-18T02:35:38.670Z,58.2486,-155.0859,1.1,0.6,ml,,,,0.09,ak,ak022g66km2q,2022-12-18T02:38:07.465Z,"84 km NNW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
-2022-12-18T02:33:56.570Z,35.6521667,-117.551,4.09,1.08,ml,13,142,0.09761,0.14,ci,ci40391616,2022-12-18T02:37:20.730Z,"12km ENE of Ridgecrest, CA",earthquake,0.35,1.25,0.12,10,automatic,ci,ci
-2022-12-18T02:31:41.580Z,38.8313332,-122.8134995,1.61,1.33,md,26,42,0.008366,0.04,nc,nc73820081,2022-12-18T03:34:11.351Z,"8km NW of The Geysers, CA",earthquake,0.19,0.36,0.15,28,automatic,nc,nc

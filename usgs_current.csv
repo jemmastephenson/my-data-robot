@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-23T13:31:11.940Z,33.2721672,-115.9651642,5.82,1.47,ml,55,93,0.09897,0.21,ci,ci40149143,2022-12-23T13:33:27.949Z,"3km SSW of Salton City, CA",earthquake,0.26,1.02,0.252,16,automatic,ci,ci
+2022-12-23T13:31:11.840Z,33.2785,-115.9685,3.05,1.37,ml,40,43,0.105,0.25,ci,ci40149143,2022-12-23T13:41:55.470Z,"2km SSW of Salton City, CA",earthquake,0.33,0.96,0.204,27,automatic,ci,ci
 2022-12-23T13:27:38.620Z,38.8429985,-122.8278351,1.7,0.34,md,10,140,0.007423,0.02,nc,nc73823686,2022-12-23T13:29:13.595Z,"9km WNW of Cobb, CA",earthquake,0.34,0.87,0.25,12,automatic,nc,nc
 2022-12-23T13:24:35.940Z,38.829834,-122.8563309,2.37,0.58,md,11,95,0.01397,0.03,nc,nc73823676,2022-12-23T13:26:13.453Z,"10km NW of The Geysers, CA",earthquake,0.35,0.6,0.38,9,automatic,nc,nc
 2022-12-23T13:16:41.230Z,38.8406677,-122.8779984,2.61,0.42,md,8,113,0.01793,0.01,nc,nc73823671,2022-12-23T13:33:13.370Z,"13km NW of The Geysers, CA",earthquake,0.34,0.77,0.3,9,automatic,nc,nc
@@ -110,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T00:28:01.922Z,20.0621,-156.0384,10.653,3,ml,11,336,0.694,1.13,us,us6000jb7x,2022-12-23T00:41:19.040Z,"23 km WNW of Puako, Hawaii",earthquake,7.57,4.722,0.105,12,reviewed,us,us
 2022-12-23T00:26:20.440Z,38.8356667,-122.8170013,1.48,0.62,md,12,70,0.0134,0.02,nc,nc73823396,2022-12-23T00:46:14.779Z,"8km W of Cobb, CA",earthquake,0.27,0.56,0.46,13,automatic,nc,nc
 2022-12-23T00:18:32.572Z,65.0403,-147.4522,0,1.7,ml,,,,1.01,ak,ak022geeytp5,2022-12-23T00:20:12.315Z,"12 km NE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-23T00:18:28.660Z,19.2186660766602,-155.386505126953,32.0400009155273,1.87,md,32,155,,0.129999995,hv,hv73278727,2022-12-23T00:21:53.580Z,"9 km E of Pāhala, Hawaii",earthquake,0.63,0.899999976,1.01999998,16,automatic,hv,hv
+2022-12-23T00:18:28.660Z,19.2186660766602,-155.386505126953,32.0400009155273,1.87,md,32,155,,0.129999995,hv,hv73278727,2022-12-23T00:21:53.580Z,"Hawaii region, Hawaii",earthquake,0.63,0.899999976,1.01999998,16,automatic,hv,hv
 2022-12-23T00:18:00.920Z,38.8378334,-122.8105011,1.93,1.64,md,35,37,,0.03,nc,nc73823381,2022-12-23T00:35:16.715Z,"8km WNW of Cobb, CA",earthquake,0.16,0.29,0.2,33,automatic,nc,nc
 2022-12-23T00:12:33.660Z,19.3959999084473,-155.253005981445,7.21000003814697,2.67000008,md,9,218,,0.0900000036,hv,hv73278717,2022-12-23T00:15:36.240Z,"5 km SSW of Volcano, Hawaii",earthquake,1.12,0.75,1.33000004,3,automatic,hv,hv
 2022-12-23T00:09:48.160Z,51.7805,-178.438833333333,10.28,2.5,ml,8,156,,0.13,av,av91736636,2022-12-23T03:19:45.690Z,"124 km W of Adak, Alaska",earthquake,0.97,4.01,0.20446075459891,8,reviewed,av,av

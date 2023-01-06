@@ -51,6 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-06T02:43:30.040Z,19.3875,-155.278833333333,1.33,1.31,md,9,113,,0.06,hv,hv73297677,2023-01-06T07:03:53.850Z,"7 km SW of Volcano, Hawaii",earthquake,0.44,0.33,0.225482854236449,2,reviewed,hv,hv
 2023-01-06T02:18:06.447Z,59.6013,-152.5244,71.7,1.5,ml,,,,0.31,ak,ak0239yitk4,2023-01-06T02:19:59.283Z,"43 km WSW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-06T02:00:58.670Z,19.4063333333333,-155.282666666667,0.25,0.98,md,16,96,,0.09,hv,hv73297572,2023-01-06T03:13:04.910Z,"Hawaii region, Hawaii",earthquake,0.14,0.21,0.337029504473283,4,reviewed,hv,hv
+2023-01-06T01:58:41.230Z,19.4033333333333,-155.282166666667,0.42,0.96,md,12,84,,0.08,hv,hv73297562,2023-01-06T07:33:04.990Z,"Hawaii region, Hawaii",earthquake,0.14,0.24,0.00465729443101459,3,reviewed,hv,hv
 2023-01-06T01:54:05.220Z,19.4093333333333,-155.263,0.58,2.32,md,18,68,,0.1,hv,hv73297547,2023-01-06T02:27:57.420Z,"4 km SW of Volcano, Hawaii",earthquake,0.13,0.2,0.187935938436111,4,reviewed,hv,hv
 2023-01-06T01:53:20.373Z,60.8867,-151.6573,65.9,1.4,ml,,,,1,ak,ak0239y4x39,2023-01-06T01:56:21.866Z,"29 km NW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-06T01:51:38.817Z,-2.4884,-12.299,10,4.7,mb,31,73,5.785,0.44,us,us7000j2gb,2023-01-06T02:15:31.040Z,"north of Ascension Island",earthquake,9.23,1.553,0.089,38,reviewed,us,us

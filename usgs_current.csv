@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-09T14:40:18.670Z,35.6853333,-117.5696667,1.56,1.82,ml,19,85,0.1321,0.17,ci,ci40154959,2023-01-09T14:43:52.034Z,"12km NE of Ridgecrest, CA",earthquake,0.31,0.51,0.119,24,automatic,ci,ci
+2023-01-09T14:40:04.130Z,39.9323349,-120.7501678,-1.59,2.85,md,18,74,0.3075,0.26,nc,nc73830301,2023-01-09T14:41:40.734Z,"3km N of Greenhorn, CA",earthquake,0.54,3.54,0.18,14,automatic,nc,nc
 2023-01-09T14:34:51.300Z,38.8269997,-122.8529968,2.12,1.63,md,21,61,,0.02,nc,nc73830296,2023-01-09T14:36:25.769Z,"10km WNW of The Geysers, CA",earthquake,0.2,0.36,0.18,23,automatic,nc,nc
 2023-01-09T14:26:51.750Z,36.5953331,-121.2011642,7.6,2.51,md,25,105,0.09264,0.06,nc,nc73830291,2023-01-09T14:35:16.426Z,"9km NW of Pinnacles, CA",earthquake,0.22,0.77,0.09,23,automatic,nc,nc
 2023-01-09T13:59:47.727Z,59.9427,-152.4999,71.6,2,ml,,,,0.49,ak,ak023f3xi8k,2023-01-09T14:02:36.269Z,"41 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -104,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T22:59:29.760Z,38.7695007,-122.7289963,0.7,1.06,md,10,62,0.008532,0.05,nc,nc73830091,2023-01-08T23:16:12.757Z,"2km ESE of The Geysers, CA",earthquake,0.31,0.37,0.17,9,automatic,nc,nc
 2023-01-08T22:53:07.010Z,18.2148333333333,-66.9866666666667,11.82,1.94,md,3,134,0.238,0.06,pr,pr71391743,2023-01-08T23:39:27.750Z,"3 km N of Maricao, Puerto Rico",earthquake,0.55,31.61,0.182949783521315,3,reviewed,pr,pr
 2023-01-08T22:36:47.450Z,38.7693329,-122.7300034,0.66,2.2,md,33,55,,0.05,nc,nc73830081,2023-01-08T22:58:12.655Z,"2km ESE of The Geysers, CA",earthquake,0.21,0.27,0.22,36,automatic,nc,nc
-2023-01-08T22:24:29.350Z,35.8635,-117.998,9.58,1.23,ml,16,70,0.06361,0.11,ci,ci40154751,2023-01-09T14:37:01.581Z,"12km SW of Little Lake, CA",earthquake,0.23,0.51,0.259,20,reviewed,ci,ci
+2023-01-08T22:24:29.350Z,35.8635,-117.998,9.58,1.23,ml,16,70,0.06361,0.11,ci,ci40154751,2023-01-09T14:37:46.280Z,"12km SW of Little Lake, CA",earthquake,0.23,0.51,0.259,20,reviewed,ci,ci
 2023-01-08T22:20:11.475Z,28.93890381,-98.03733915,4.915405273,3.4,ml,18,55,0.05054384154,0.3,tx,tx2023aoms,2023-01-09T12:54:26.476Z,"5 km SSW of Falls City, Texas",earthquake,1.472975874,2.428049012,0.1,12,reviewed,tx,tx
 2023-01-08T22:19:27.380Z,19.2451667785645,-155.387832641602,30.6599998474121,1.80999994,md,33,139,,0.170000002,hv,hv73299452,2023-01-08T22:22:35.740Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.61,0.899999976,1.79999995,6,automatic,hv,hv
 2023-01-08T22:11:07.080Z,17.9616666666667,-66.9428333333333,17.11,2.3,md,12,198,0.06196,0.11,pr,pr71391738,2023-01-08T22:38:00.070Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.51,0.5,0.182425415851474,5,reviewed,pr,pr

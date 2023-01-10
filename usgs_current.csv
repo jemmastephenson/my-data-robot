@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-10T07:29:12.740Z,17.99,-66.8935,13.8,1.81,md,10,125,0.02012,0.13,pr,pr71392013,2023-01-10T08:39:13.170Z,"1 km NNW of Maria Antonia, Puerto Rico",earthquake,0.66,0.37,0.220311830364549,10,reviewed,pr,pr
 2023-01-10T07:28:39.780Z,17.9903333333333,-66.8851666666667,14.56,2.13,md,13,104,0.0162,0.17,pr,pr71391993,2023-01-10T07:44:56.230Z,"1 km NNE of Maria Antonia, Puerto Rico",earthquake,0.51,0.55,0.108737624609815,10,reviewed,pr,pr
 2023-01-10T07:27:49.500Z,39.7316667,-110.799,-3.33,1.69,md,10,100,0.04359,0.12,uu,uu60529432,2023-01-10T14:16:39.400Z,"4 km N of Kenilworth, Utah",earthquake,0.41,0.86,0.178,8,reviewed,uu,uu
-2023-01-10T06:59:49.800Z,37.7398338,-122.1301651,5.91,2.73,md,64,36,,0.1,nc,nc73830631,2023-01-10T17:35:24.763Z,"3km NE of San Leandro, CA",earthquake,0.14,0.3,0.15,72,automatic,nc,nc
+2023-01-10T06:59:49.800Z,37.7398338,-122.1301651,5.91,2.73,md,64,36,,0.1,nc,nc73830631,2023-01-10T17:53:17.108Z,"3km NE of San Leandro, CA",earthquake,0.14,0.3,0.15,72,automatic,nc,nc
 2023-01-10T06:59:34.170Z,33.8673333,-116.25,5.93,1.04,ml,24,104,0.07426,0.16,ci,ci40155127,2023-01-10T07:03:09.694Z,"14km ENE of Thousand Palms, CA",earthquake,0.28,0.91,0.171,24,automatic,ci,ci
 2023-01-10T06:57:31.910Z,37.3145,-113.4306667,6.44,1.34,ml,12,66,0.177,0.14,uu,uu60529427,2023-01-10T16:05:08.960Z,"10 km NW of Leeds, Utah",earthquake,0.34,2.56,0.177,3,reviewed,uu,uu
 2023-01-10T06:56:35.290Z,33.706,-116.7106667,17.56,1.18,ml,35,41,0.005922,0.19,ci,ci40155119,2023-01-10T07:00:25.358Z,"4km SSE of Idyllwild, CA",earthquake,0.31,0.47,0.204,26,automatic,ci,ci
@@ -188,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T18:00:12.000Z,33.4045,-116.393,2.03,1.41,ml,35,48,0.1374,0.25,ci,ci40154999,2023-01-09T18:10:50.340Z,"17km N of Borrego Springs, CA",earthquake,0.29,0.7,0.158,26,automatic,ci,ci
 2023-01-09T17:59:37.370Z,38.7893333,-122.7624969,2.12,0.72,md,8,111,0.01148,0.02,nc,nc73830376,2023-01-09T18:01:10.637Z,"1km NNW of The Geysers, CA",earthquake,0.42,1.23,0.19,8,automatic,nc,nc
 2023-01-09T17:59:13.610Z,33.502,-116.7625,7.86,0.62,ml,14,65,0.06664,0.17,ci,ci40154991,2023-01-09T18:02:49.538Z,"10km SW of Anza, CA",earthquake,0.32,0.92,0.14,15,automatic,ci,ci
-2023-01-09T17:50:15.650Z,38.7906685,-122.7594986,0.78,1.73,md,28,68,,0.04,nc,nc73830371,2023-01-09T19:07:13.709Z,"2km N of The Geysers, CA",earthquake,0.21,0.35,0.16,28,automatic,nc,nc
-2023-01-09T17:49:34.180Z,38.8078346,-122.7518311,0.32,1.37,md,13,111,0.009473,0.03,nc,nc73830361,2023-01-09T18:55:12.636Z,"3km WSW of Cobb, CA",earthquake,0.34,0.52,0.24,12,automatic,nc,nc

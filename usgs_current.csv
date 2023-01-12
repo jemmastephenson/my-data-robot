@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-12T07:36:37.666Z,63.0027,-150.5565,101.8,1.7,ml,,,,0.31,ak,ak023jytzue,2023-01-12T07:39:02.482Z,"57 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-12T07:28:07.797Z,65.5869,-144.9118,34.9,1.8,ml,,,,0.91,ak,ak023jys7kj,2023-01-12T07:30:41.708Z,"5 km WNW of Central, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-01-12T07:19:13.970Z,38.8293343,-122.8138351,2,1.11,md,16,63,0.006618,0.02,nc,nc73831236,2023-01-12T07:35:13.679Z,"8km NW of The Geysers, CA",earthquake,0.25,0.58,0.31,18,automatic,nc,nc
 2023-01-12T07:15:02.180Z,33.1906667,-116.2771667,9.49,1.02,ml,28,62,0.01954,0.2,ci,ci40401952,2023-01-12T07:18:36.771Z,"12km SE of Borrego Springs, CA",earthquake,0.32,0.63,0.192,24,automatic,ci,ci

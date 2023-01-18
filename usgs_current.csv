@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-18T11:32:24.998Z,38.1911,-117.8107,5.7,1.4,ml,10,154.82,0.137,0.2433,nn,nn00854953,2023-01-18T11:34:07.902Z,"34 km SE of Mina, Nevada",earthquake,,0.9,0.3,7,automatic,nn,nn
 2023-01-18T11:06:53.603Z,-13.3931,66.8185,10,5,mb,53,116,8.125,0.41,us,us7000j579,2023-01-18T11:30:06.040Z,"Mid-Indian Ridge",earthquake,11.86,1.907,0.082,47,reviewed,us,us
 2023-01-18T10:50:47.620Z,38.8243332,-122.8290024,3.63,0.67,md,7,193,0.01482,0.03,nc,nc73833536,2023-01-18T11:18:13.403Z,"8km NW of The Geysers, CA",earthquake,1.03,1.39,0.25,7,automatic,nc,nc
 2023-01-18T10:45:49.070Z,36.001667,-120.5618362,1.52,0.92,md,13,90,0.02187,0.06,nc,nc73833531,2023-01-18T11:07:13.343Z,"16km NW of Parkfield, CA",earthquake,0.29,0.51,0.29,4,automatic,nc,nc
@@ -193,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T11:53:26.414Z,-38.2009,-74.0126,21.649,4.4,mb,28,160,1.591,0.81,us,us7000j4vf,2023-01-17T13:12:08.040Z,"Off the coast of Araucania, Chile",earthquake,8.03,6.464,0.139,15,reviewed,us,us
 2023-01-17T11:50:52.860Z,33.4185,-116.3813333,13.41,2.16,ml,87,30,0.09229,0.18,ci,ci40403272,2023-01-17T21:57:57.620Z,"18km N of Borrego Springs, CA",earthquake,0.13,0.31,0.154,71,reviewed,ci,ci
 2023-01-17T11:50:04.980Z,38.8246651,-122.8105011,1.31,0.27,md,8,89,0.001311,0.02,nc,nc73833106,2023-01-17T12:07:12.143Z,"7km NW of The Geysers, CA",earthquake,0.38,0.88,0.19,8,automatic,nc,nc
-2023-01-17T11:38:32.374Z,32.20001221,-102.1385528,7.556518555000001,2,ml,23,55,0.07433582111,0.1,tx,tx2023bedc,2023-01-17T21:26:21.871Z,"23 km NNW of Midland, Texas",earthquake,0.5656754072,1.183612631,0.1,12,reviewed,tx,tx
-2023-01-17T11:35:38.530Z,17.9808333333333,-66.9115,13.76,2.59,md,16,103,0.009002,0.16,pr,pr71393043,2023-01-17T12:02:24.150Z,"0 km SSE of Fuig, Puerto Rico",earthquake,0.54,0.32,0.264150239867564,7,reviewed,pr,pr

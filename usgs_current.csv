@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-19T00:07:52.919Z,44.2853,-116.194,17.284,2.6,ml,18,61,0.814,0.18,us,us7000j5dk,2023-01-19T06:30:08.040Z,"8 km WSW of Smiths Ferry, Idaho",earthquake,1.41,7.277,0.06,36,reviewed,us,us
 2023-01-19T00:02:02.980Z,38.7608337,-122.7201691,1.48,1.1,md,7,218,0.003746,0.02,nc,nc73833721,2023-01-19T02:22:15.723Z,"3km WSW of Anderson Springs, CA",earthquake,0.79,0.88,0.13,7,automatic,nc,nc
 2023-01-18T23:54:15.184Z,61.5662,-150.9758,67.6,2,ml,,,,0.42,ak,ak023u5otn2,2023-01-18T23:56:30.919Z,"24 km W of Susitna, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-01-18T23:38:25.501Z,58.8877,-153.852,0,1.8,ml,,,,0.65,ak,ak023u5leza,2023-01-18T23:40:11.040Z,"81 km SE of Kokhanok, Alaska",earthquake,,0.8,,,automatic,ak,ak

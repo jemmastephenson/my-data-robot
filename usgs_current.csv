@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-21T17:27:37.146Z,59.6979,-152.9952,78.6,2.3,ml,,,,1.08,ak,ak023z0kiuq,2023-01-21T17:30:04.431Z,"63 km E of Pedro Bay, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-01-21T17:15:04.240Z,38.8361664,-122.807663,2.29,0.52,md,8,106,0.01289,0.01,nc,nc73835381,2023-01-21T17:16:38.095Z,"8km WNW of Cobb, CA",earthquake,0.49,1.19,0.31,10,automatic,nc,nc
+2023-01-21T17:15:04.240Z,38.8361664,-122.807663,2.29,0.52,md,8,106,0.01289,0.01,nc,nc73835381,2023-01-21T17:44:13.321Z,"8km WNW of Cobb, CA",earthquake,0.49,1.19,0.31,10,automatic,nc,nc
 2023-01-21T16:38:09.300Z,38.8263321,-122.8518295,1.92,0.81,md,9,89,0.01351,0.01,nc,nc73835366,2023-01-21T16:55:15.032Z,"10km WNW of The Geysers, CA",earthquake,0.46,0.71,0.19,10,automatic,nc,nc
 2023-01-21T16:37:52.920Z,17.5566666666667,-67.7223333333333,20.43,3.21,md,19,252,0.5544,0.33,pr,pr71393678,2023-01-21T17:22:40.040Z,"73 km SW of Pole Ojea, Puerto Rico",earthquake,1.34,27.64,0.086585217217203,12,reviewed,pr,pr
 2023-01-21T15:55:53.895Z,-2.1527,102.1545,202.953,4.4,mb,41,146,2.334,0.68,us,us7000j636,2023-01-21T17:12:59.040Z,"85 km E of Sungai Penuh, Indonesia",earthquake,6.83,5.881,0.096,31,reviewed,us,us
@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-20T18:05:42.096Z,37.7696,141.5306,69.558,4.5,mb,139,98,2.923,0.54,us,us7000j5vu,2023-01-21T11:18:14.496Z,"56 km NE of Namie, Japan",earthquake,7.4,6.689,0.052,120,reviewed,us,us
 2023-01-20T18:05:07.253Z,-5.2778,101.8249,25.488,4.5,mb,44,87,1.449,0.69,us,us7000j5vt,2023-01-20T19:47:20.040Z,"170 km SSW of Bengkulu, Indonesia",earthquake,7.41,5.839,0.097,31,reviewed,us,us
 2023-01-20T17:49:34.446Z,2.8019,127.0115,22.687,5,mb,126,55,2.048,1.13,us,us7000j5vr,2023-01-20T18:38:11.040Z,"Molucca Sea",earthquake,7.36,2.103,0.054,119,reviewed,us,us
-2023-01-20T17:42:09.020Z,19.2386665344238,-155.413833618164,31.0900001525879,2.24000001,md,40,129,,0.150000006,hv,hv73308622,2023-01-20T17:47:42.880Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.6,1.04999995,1.62,18,automatic,hv,hv

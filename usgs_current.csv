@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-24T11:36:01.290Z,19.0365009307861,-155.413497924805,32.5800018310547,1.80999994,md,39,207,,0.129999995,hv,hv73311572,2023-01-24T11:39:19.170Z,"17 km E of Naalehu, Hawaii",earthquake,0.71,1.39999998,0.899999976,3,automatic,hv,hv
 2023-01-24T11:19:47.980Z,36.2638321,-120.8495026,7.42,1.71,md,25,128,0.06171,0.13,nc,nc73836626,2023-01-24T11:32:10.429Z,"21km NE of San Lucas, CA",earthquake,0.32,0.54,0.18,15,automatic,nc,nc
 2023-01-24T11:03:19.710Z,38.8170013,-122.7616653,1.63,1.05,md,17,116,0.01491,0.03,nc,nc73836621,2023-01-24T11:18:10.360Z,"3km W of Cobb, CA",earthquake,0.42,0.41,0.18,17,automatic,nc,nc
 2023-01-24T10:58:55.370Z,17.9783333333333,-66.9156666666667,15.07,2.24,md,5,171,0.03481,0.14,pr,pr71394228,2023-01-24T11:32:04.750Z,"1 km S of Fuig, Puerto Rico",earthquake,1.11,0.8,0.063255952798412,4,reviewed,pr,pr

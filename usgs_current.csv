@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-24T15:30:01.067Z,60.2295,-151.613,60.1,2.6,ml,,,,0.39,ak,ak02313y09hm,2023-01-24T15:31:15.132Z,"12 km W of Clam Gulch, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-24T15:19:03.392Z,62.2549,-151.3508,84,1.5,ml,,,,0.51,ak,ak02313xxwsp,2023-01-24T15:21:57.429Z,"29 km N of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-01-24T15:09:05.885Z,60.4651,-150.7148,47.2,2.1,ml,,,,0.64,ak,ak02313xvrto,2023-01-24T15:11:35.600Z,"4 km SSE of Funny River, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-24T14:49:37.240Z,38.828167,-122.7968369,0.9,0.73,md,10,85,0.01138,0.01,nc,nc73836696,2023-01-24T15:06:13.659Z,"6km W of Cobb, CA",earthquake,0.27,0.84,0.16,11,automatic,nc,nc

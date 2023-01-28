@@ -237,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-27T14:52:18.466Z,63.1972,-149.5743,0,1.5,ml,,,,0.49,ak,ak02318w5mgm,2023-01-27T14:54:25.013Z,"38 km SW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-27T14:50:01.580Z,38.8346672,-122.815834,1.65,0.72,md,11,59,0.01212,0.01,nc,nc73838281,2023-01-27T17:04:14.897Z,"8km W of Cobb, CA",earthquake,0.3,0.79,0.16,12,automatic,nc,nc
 2023-01-27T14:50:01.320Z,39.425,-119.6551,3.6,0.5,ml,3,224.93,0.13,0.0528,nn,nn00855403,2023-01-27T22:29:03.395Z,"Nevada",earthquake,,16.7,0,1,reviewed,nn,nn
-2023-01-27T14:37:44.850Z,19.2668333333333,-66.6906666666667,83.01,3.25,md,10,239,0.9173,0.11,pr,pr71394633,2023-01-27T15:14:45.610Z,"87 km N of Carrizales, Puerto Rico",earthquake,1.56,2.86,0.0422957768183749,6,reviewed,pr,pr

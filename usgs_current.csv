@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-28T11:24:09.310Z,37.652668,-119.0195007,-1.23,1.69,md,12,96,0.007921,0.03,nc,nc73838821,2023-01-28T11:25:45.879Z,"4km WNW of Mammoth Lakes, CA",earthquake,0.29,0.3,0.18,13,automatic,nc,nc
+2023-01-28T11:21:09.220Z,38.8336678,-122.8174973,1.59,1.1,md,19,68,0.01178,0.02,nc,nc73838816,2023-01-28T11:22:45.915Z,"8km NW of The Geysers, CA",earthquake,0.21,0.52,0.11,20,automatic,nc,nc
 2023-01-28T11:03:45.836Z,38.5463,-119.5223,5.6,1.5,ml,17,163.5,0.04,0.1913,nn,nn00855428,2023-01-28T11:13:39.104Z,"2 km SSW of Coleville, California",earthquake,,0.6,0.12,8,automatic,nn,nn
 2023-01-28T10:29:15.884Z,58.089,-154.7411,42,1.4,ml,,,,0.77,ak,ak0231ah6av8,2023-01-28T10:31:00.939Z,"60 km NNW of Karluk, Alaska",earthquake,,3,,,automatic,ak,ak
 2023-01-28T10:26:06.550Z,33.5128333,-116.5596667,13.67,0.43,ml,18,69,0.03987,0.13,ci,ci40163135,2023-01-28T10:29:46.024Z,"12km ESE of Anza, CA",earthquake,0.32,0.45,0.164,7,automatic,ci,ci
@@ -14,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-28T09:33:06.680Z,35.7093333,-117.5618333,2.26,0.94,ml,13,112,0.1101,0.2,ci,ci40163103,2023-01-28T09:36:37.203Z,"14km NE of Ridgecrest, CA",earthquake,0.46,0.84,0.074,10,automatic,ci,ci
 2023-01-28T09:32:44.985Z,61.385,-144.5083,250,1.7,ml,,,,0.94,ak,ak0231aglknu,2023-01-28T09:39:38.791Z,"15 km SSW of Chitina, Alaska",earthquake,,6.1,,,automatic,ak,ak
 2023-01-28T09:32:40.937Z,63.7164,-144.5397,61.4,2.5,ml,,,,1.07,ak,ak0231agljzd,2023-01-28T09:38:12.123Z,"9 km NE of Dry Creek, Alaska",earthquake,,19.6,,,automatic,ak,ak
-2023-01-28T09:26:46.170Z,38.8461685,-122.8154984,1.38,1.34,md,18,95,0.01046,0.02,nc,nc73838786,2023-01-28T09:48:15.044Z,"8km WNW of Cobb, CA",earthquake,0.25,0.46,0.14,20,automatic,nc,nc
+2023-01-28T09:26:46.170Z,38.8461685,-122.8154984,1.38,1.34,md,18,95,0.01046,0.02,nc,nc73838786,2023-01-28T11:23:11.559Z,"8km WNW of Cobb, CA",earthquake,0.25,0.46,0.14,20,automatic,nc,nc
 2023-01-28T09:13:23.160Z,-34.8219,54.3574,10,5.3,mb,69,64,11.749,0.46,us,us6000jjyp,2023-01-28T09:33:25.040Z,"Southwest Indian Ridge",earthquake,7.59,1.825,0.059,96,reviewed,us,us
 2023-01-28T09:09:47.950Z,33.3688333,-116.886,5.83,1.53,ml,56,26,0.1237,0.24,ci,ci40163095,2023-01-28T09:20:20.080Z,"2km NW of Palomar Observatory, CA",earthquake,0.23,1.29,0.173,26,automatic,ci,ci
 2023-01-28T08:54:28.120Z,33.524,-116.5688333,13.07,0.45,ml,22,67,0.04009,0.21,ci,ci40163087,2023-01-28T08:57:59.299Z,"10km ESE of Anza, CA",earthquake,0.43,0.59,0.137,9,automatic,ci,ci

@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T07:43:39.993Z,59.6594,-152.8459,80.7,1.4,ml,,,,0.34,ak,ak0231m08he7,2023-02-04T07:45:23.450Z,"58 km WSW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-04T07:34:41.538Z,22.7269,95.9362,10,4.3,mb,24,127,2.2,0.76,us,us6000jlcr,2023-02-04T08:06:25.040Z,"30 km NE of Shwebo, Myanmar",earthquake,4.53,1.929,0.161,11,reviewed,us,us
 2023-02-04T07:20:49.819Z,-19.716,-69.3696,95.145,4,mb,21,88,0.172,0.49,us,us6000jlcq,2023-02-04T07:48:12.117Z,"Tarapaca, Chile",earthquake,6.49,4.921,0.231,5,reviewed,us,us
-2023-02-04T07:18:50.710Z,38.8318329,-122.7985001,2.07,0.21,md,10,81,0.009149,0.03,nc,nc73841731,2023-02-04T07:29:11.433Z,"7km W of Cobb, CA",earthquake,0.36,1.39,0.08,10,automatic,nc,nc
+2023-02-04T07:18:50.710Z,38.8318329,-122.7985001,2.07,0.21,md,10,81,0.009149,0.03,nc,nc73841731,2023-02-04T08:13:13.721Z,"7km W of Cobb, CA",earthquake,0.36,1.39,0.08,10,automatic,nc,nc
 2023-02-04T07:10:07.291Z,63.3405,-151.6919,5.7,1.8,ml,,,,0.41,ak,ak0231m01c8p,2023-02-04T07:12:03.748Z,"22 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-04T07:00:30.240Z,32.9841667,-115.585,4.33,1,ml,11,89,0.05401,0.19,ci,ci40410776,2023-02-04T07:14:13.557Z,"5km W of Brawley, CA",earthquake,0.44,1.26,0.115,12,automatic,ci,ci
 2023-02-04T06:57:43.140Z,38.8428345,-122.8414993,2.04,0.25,md,5,147,0.006326,0.01,nc,nc73841721,2023-02-04T07:51:13.578Z,"10km NW of The Geysers, CA",earthquake,0.48,1.44,0.14,6,automatic,nc,nc
@@ -267,4 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T08:38:41.790Z,37.6373333,-119.408,6.56,1.11,md,13,137,0.261,0.18,nc,nc73841341,2023-02-03T22:31:13.602Z,"19km SE of Yosemite Valley, CA",earthquake,0.5,6.17,0.298,10,reviewed,nc,nc
 2023-02-03T08:35:35.079Z,52.3267,-169.4345,35,4,mb,26,188,0.737,0.43,us,us6000jl51,2023-02-03T08:55:44.040Z,"78 km SSW of Nikolski, Alaska",earthquake,5.84,1.982,0.115,20,reviewed,us,us
 2023-02-03T08:33:59.380Z,44.7905,-110.8216667,4.77,0.8,md,16,103,0.02065,0.18,uu,uu60529991,2023-02-03T16:50:03.200Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.37,0.48,0.395,8,reviewed,uu,uu
-2023-02-03T08:11:08.170Z,58.2561666666667,-155.128166666667,3.25,-0.63,ml,7,96,,0.07,av,av91086998,2023-02-03T22:41:17.790Z,"86 km NNW of Karluk, Alaska",earthquake,0.23,0.73,0.180530936542661,7,reviewed,av,av

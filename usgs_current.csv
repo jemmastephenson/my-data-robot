@@ -246,10 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-07T11:16:33.540Z,37.6486667,-119.0236667,-1.14,0.18,md,6,128,0.007188,0.01,nc,nc73842946,2023-02-07T19:50:12.458Z,"4km WNW of Mammoth Lakes, CA",earthquake,0.62,0.43,0.368,6,reviewed,nc,nc
 2023-02-07T10:56:30.804Z,37.8437,36.8362,10,4.4,mb,41,69,0.733,0.38,us,us6000jm7k,2023-02-07T14:12:07.040Z,"29 km NNW of Kahramanmaraş, Turkey",earthquake,5.79,1.926,0.112,23,reviewed,us,us
 2023-02-07T10:53:22.293Z,40.1694,23.6373,10,4.9,mb,70,79,1.742,0.42,us,us6000jm7j,2023-02-07T18:39:27.336Z,"6 km SSW of Níkiti, Greece",earthquake,2.62,1.874,0.069,66,reviewed,us,us
-2023-02-07T10:36:08.740Z,38.8354988,-122.8136673,0.65,0.75,md,7,115,0.01241,0.02,nc,nc73842941,2023-02-07T10:56:15.226Z,"8km W of Cobb, CA",earthquake,0.48,1.56,0.35,8,automatic,nc,nc
-2023-02-07T10:35:16.772Z,39.2369,-120.0884,6.9,-0.4,ml,4,107.45,0.041,0.0342,nn,nn00855797,2023-02-07T19:08:35.384Z,"1 km NNW of Carnelian Bay, California",earthquake,,2.5,0.41,2,reviewed,nn,nn
-2023-02-07T10:33:03.025Z,37.3084,-117.1286,19.4,0.6,ml,5,191.54,0.364,0.1358,nn,nn00855796,2023-02-07T19:05:28.122Z,"45 km SSE of Goldfield, Nevada",earthquake,,2.2,0.66,4,reviewed,nn,nn
-2023-02-07T10:31:11.810Z,46.87283333333333,-121.95683333333334,9.57,1.36,ml,30,119,0.006465,0.17,uw,uw61896592,2023-02-07T17:40:49.460Z,"13 km NNE of Ashford, Washington",earthquake,0.33,0.48,0.23410832933462689,20,reviewed,uw,uw
-2023-02-07T10:28:33.282Z,-2.9879,126.6289,101.157,4.5,mb,17,78,3.607,0.46,us,us6000jm7i,2023-02-07T15:50:29.040Z,"189 km WNW of Ambon, Indonesia",earthquake,10.36,17.255,0.163,11,reviewed,us,us
-2023-02-07T10:27:31.295Z,38.1343,38.1199,10,4.6,mb,63,67,1.202,0.51,us,us6000jm7h,2023-02-07T11:21:10.040Z,"15 km NW of Çelikhan, Turkey",earthquake,2.54,1.883,0.08,46,reviewed,us,us
-2023-02-07T10:26:09.734Z,64.1802,-147.9675,11.1,1.1,ml,,,,0.27,ak,ak0231r0j46l,2023-02-07T10:28:08.242Z,"58 km ENE of Ferry, Alaska",earthquake,,0.7,,,automatic,ak,ak

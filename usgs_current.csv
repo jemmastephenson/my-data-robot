@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-09T13:37:47.150Z,35.4378333,-118.4521667,3.82,1.75,ml,29,51,0.1484,0.14,ci,ci40412688,2023-02-09T13:48:36.670Z,"17km SSE of Bodfish, CA",earthquake,0.21,1.13,0.202,28,automatic,ci,ci
-2023-02-09T13:34:50.290Z,38.8431664,-122.840332,2.23,1.04,md,6,160,0.01754,0.01,nc,nc73843971,2023-02-09T13:45:11.813Z,"10km NW of The Geysers, CA",earthquake,0.54,0.8,0.07,10,automatic,nc,nc
+2023-02-09T13:34:50.290Z,38.8431664,-122.840332,2.23,1.04,md,6,160,0.01754,0.01,nc,nc73843971,2023-02-09T13:56:11.892Z,"10km NW of The Geysers, CA",earthquake,0.54,0.8,0.07,10,automatic,nc,nc
 2023-02-09T13:27:16.855Z,60.532,-149.7241,30.4,1.6,ml,,,,0.44,ak,ak0231udec91,2023-02-09T13:33:10.486Z,"7 km NE of Cooper Landing, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-09T13:26:30.700Z,32.918,-116.2483333,11.91,0.87,ml,20,85,0.05895,0.23,ci,ci40412680,2023-02-09T13:30:06.769Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.4,0.82,0.181,10,automatic,ci,ci
 2023-02-09T13:21:34.600Z,34.1298333,-117.4571667,5.98,1.15,ml,31,140,0.08531,0.2,ci,ci40412672,2023-02-09T13:25:15.353Z,"4km N of Fontana, CA",earthquake,0.4,1.16,0.191,29,automatic,ci,ci
@@ -219,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-08T14:10:37.580Z,33.9206667,-116.8748333,8.97,1.14,ml,47,58,0.07577,0.14,ci,ci40412224,2023-02-08T18:00:17.254Z,"1km SSE of Banning, CA",earthquake,0.16,0.49,0.154,28,reviewed,ci,ci
 2023-02-08T13:59:05.270Z,44.7993333,-110.9606667,9.18,0.6,md,10,169,0.05148,0.09,uu,uu60530581,2023-02-08T18:36:53.050Z,"18 km E of Hebgen Lake Estates, Montana",earthquake,0.56,0.9,0.242,6,reviewed,uu,uu
 2023-02-08T13:59:05.104Z,62.6992,-150.314,70.3,1.4,ml,,,,0.52,ak,ak0231sq1tri,2023-02-08T14:00:57.889Z,"29 km NNW of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-02-08T13:50:19.830Z,19.261999130249,-155.40966796875,29.7299995422363,2.5,ml,37,122,,0.159999996,hv,hv73321422,2023-02-08T13:55:50.390Z,"9 km NE of Pāhala, Hawaii",earthquake,0.75,0.800000012,3.69,10,automatic,hv,hv
-2023-02-08T13:49:56.420Z,44.7895,-110.973,10.06,1.26,ml,10,157,0.03831,0.13,uu,uu60530576,2023-02-08T17:57:30.850Z,"Yellowstone National Park, Wyoming",earthquake,1.13,0.74,0.032,2,reviewed,uu,uu

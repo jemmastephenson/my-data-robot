@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-12T05:56:28.410Z,36.4626655578613,-89.5616683959961,8.8100004196167,2.31999993,md,11,89,0.05495,0.0500000007,nm,nm60510256,2023-02-12T05:59:49.540Z,"7 km SE of Marston, Missouri",earthquake,0.44,1.66999996,1.10000002,6,reviewed,nm,nm
+2023-02-12T05:52:15.950Z,19.2310009002686,-155.3818359375,31.6499996185303,2.17000008,md,36,149,,0.109999999,hv,hv73323162,2023-02-12T05:55:28.570Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.57,0.670000017,0.879999995,11,automatic,hv,hv
 2023-02-12T05:41:12.391Z,60.6911,-151.984,85.6,1.8,ml,,,,0.53,ak,ak0231z7bwkn,2023-02-12T05:43:24.152Z,"37 km WNW of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-12T05:35:44.440Z,19.1599998474121,-155.484832763672,34.810001373291,2.4,ml,39,122,,0.129999995,hv,hv73323147,2023-02-12T05:46:59.040Z,"4 km S of Pāhala, Hawaii",earthquake,0.66,0.819999993,4.49,4,automatic,hv,hv
 2023-02-12T05:33:45.801Z,36.7295,-114.7313,6.9,1.8,ml,14,305.64,0.409,0.4777,nn,nn00855991,2023-02-12T05:35:15.288Z,"13 km WNW of Moapa Town, Nevada",earthquake,,3.9,0.13,10,automatic,nn,nn
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-12T04:52:59.662Z,37.9259,37.5096,10,4.2,mb,24,101,0.789,0.85,us,us6000jndz,2023-02-12T05:14:37.040Z,"Central Turkey",earthquake,4.27,1.947,0.176,9,reviewed,us,us
 2023-02-12T04:49:50.755Z,14.4059,-93.0796,45.761,4.1,mb,23,223,2.075,0.74,us,us6000jne5,2023-02-12T05:43:18.040Z,"79 km WSW of Puerto Madero, Mexico",earthquake,12.46,17.292,0.109,23,reviewed,us,us
 2023-02-12T04:41:44.311Z,13.1517,-91.3617,41.21,4.3,mb,30,203,1.608,1.03,us,us6000jndx,2023-02-12T05:01:35.040Z,"103 km SW of Puerto San José, Guatemala",earthquake,9.08,11.14,0.071,56,reviewed,us,us
-2023-02-12T04:40:54.270Z,36.6143341,-121.2113342,1.02,1.53,md,9,130,0.04739,0.06,nc,nc73845196,2023-02-12T04:58:13.411Z,"11km NNW of Pinnacles, CA",earthquake,0.49,1.4,0.07,5,automatic,nc,nc
+2023-02-12T04:40:54.270Z,36.6143341,-121.2113342,1.02,1.53,md,9,130,0.04739,0.06,nc,nc73845196,2023-02-12T05:59:12.750Z,"11km NNW of Pinnacles, CA",earthquake,0.49,1.4,0.07,5,automatic,nc,nc
 2023-02-12T04:29:14.956Z,37.8213,38.2487,10,4.2,mb,23,122,1.05,0.87,us,us6000jndu,2023-02-12T04:44:09.040Z,"eastern Turkey",earthquake,3.04,1.95,0.236,5,reviewed,us,us
 2023-02-12T04:15:02.743Z,-18.2039,-178.2062,532.855,4.3,mb,25,117,3.59,0.82,us,us6000jndt,2023-02-12T04:55:39.040Z,"262 km E of Levuka, Fiji",earthquake,14.67,11.504,0.07,57,reviewed,us,us
 2023-02-12T03:42:11.599Z,59.9423,-149.1096,8.7,1.9,ml,,,,0.5,ak,ak0231z6590n,2023-02-12T03:44:15.807Z,"23 km SE of Lowell Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -30,7 +32,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-12T01:54:44.490Z,38.8516655,-122.7839966,1.18,0.7,md,10,153,0.01075,0.02,nc,nc73845151,2023-02-12T02:21:15.563Z,"6km WNW of Cobb, CA",earthquake,0.43,0.58,0.23,10,automatic,nc,nc
 2023-02-12T01:43:51.111Z,60.7943,-148.5485,17.4,1.6,ml,,,,1.08,ak,ak0231z4yoiw,2023-02-12T01:45:58.423Z,"7 km ENE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-12T01:38:19.633Z,60.7726,-151.9186,85.7,1.9,ml,,,,0.1,ak,ak0231z4xjkb,2023-02-12T01:39:37.871Z,"35 km WNW of Nikiski, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-02-12T01:29:50.010Z,59.256,-154.7595,33.8,1.9,ml,,,,1.25,ak,ak0231z4vogp,2023-02-12T01:32:42.465Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-12T01:29:31.237Z,60.1965,-153.2122,144.7,2.3,ml,,,,0.47,ak,ak0231z4vn0j,2023-02-12T01:37:45.040Z,"61 km E of Port Alsworth, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-12T01:25:10.410Z,17.9593333333333,-66.8861666666667,16.18,2.36,md,8,202,0.01696,0.07,pr,pr71396003,2023-02-12T01:46:29.160Z,"2 km S of Maria Antonia, Puerto Rico",earthquake,0.52,0.47,0.140655654293736,5,reviewed,pr,pr
 2023-02-12T01:22:17.621Z,43.5344,-110.398,5,3.5,ml,30,79,0.169,0.55,us,us6000jnd8,2023-02-12T05:14:06.728Z,"20 km ESE of Kelly, Wyoming",earthquake,1.62,0.495,0.051,50,reviewed,us,us
@@ -181,8 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-11T06:47:20.540Z,34.0026667,-116.972,16.62,1.5,ml,44,41,0.08138,0.22,ci,ci40413392,2023-02-11T06:58:22.300Z,"7km ESE of Yucaipa, CA",earthquake,0.26,0.57,0.15,26,automatic,ci,ci
 2023-02-11T06:43:14.900Z,35.5088333,-118.3941667,5.43,0.93,ml,15,48,0.1891,0.12,ci,ci40413384,2023-02-11T06:46:45.492Z,"12km SE of Bodfish, CA",earthquake,0.24,1.3,0.151,9,automatic,ci,ci
 2023-02-11T06:28:13.065Z,37.9814,36.5916,10,4.6,mb,39,73,0.945,0.63,us,us6000jn97,2023-02-11T08:53:08.040Z,"Central Turkey",earthquake,5.72,1.908,0.173,10,reviewed,us,us
-2023-02-11T06:07:24.790Z,33.7183333,-116.8191667,16.21,1.04,ml,28,95,0.08781,0.21,ci,ci40413376,2023-02-11T16:48:04.545Z,"8km ESE of Valle Vista, CA",earthquake,0.37,0.57,0.151,23,reviewed,ci,ci
-2023-02-11T06:06:24.313Z,37.9638,38.207,10,4,mb,30,115,1.119,0.58,us,us6000jn8z,2023-02-11T12:20:09.765Z,"eastern Turkey",earthquake,5.25,1.949,0.183,8,reviewed,us,us
-2023-02-11T06:05:16.420Z,33.9285,-119.3105,1.01,2.6,ml,22,230,0.2628,0.26,ci,ci40413368,2023-02-11T06:13:24.040Z,"22km ESE of Santa Cruz Is. (E end), CA",earthquake,1.7,31.61,0.214,27,automatic,ci,ci
-2023-02-11T06:04:12.440Z,19.02516746521,-155.397994995117,32.0099983215332,1.85000002,md,29,216,,0.119999997,hv,hv73322737,2023-02-11T06:07:33.090Z,"19 km ESE of Naalehu, Hawaii",earthquake,0.72,1.29999995,0.159999996,5,automatic,hv,hv
-2023-02-11T06:01:26.350Z,35.6435,-117.531,11.12,1.01,ml,13,219,0.1802,0.1,ci,ci40413360,2023-02-11T06:04:55.876Z,"13km E of Ridgecrest, CA",earthquake,0.45,0.47,0.211,9,automatic,ci,ci

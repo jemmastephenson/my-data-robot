@@ -177,4 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-11T10:35:02.300Z,38.8233337,-122.8450012,2.31,0.67,md,11,77,0.01018,0.01,nc,nc73844926,2023-02-11T13:15:14.451Z,"9km WNW of The Geysers, CA",earthquake,0.35,0.68,0.42,14,automatic,nc,nc
 2023-02-11T10:16:50.750Z,38.8408318,-122.8081665,2.71,1.03,md,18,54,0.01413,0.04,nc,nc73844921,2023-02-11T11:24:14.801Z,"8km WNW of Cobb, CA",earthquake,0.29,0.7,0.08,17,automatic,nc,nc
 2023-02-11T10:00:42.065Z,-21.3964,-68.7248,148.575,4.4,mb,21,68,0.794,0.67,us,us6000jnae,2023-02-11T10:22:34.040Z,"119 km N of Calama, Chile",earthquake,6.31,6.999,0.22,6,reviewed,us,us
-2023-02-11T09:49:38.370Z,38.8240013,-122.7941666,2.73,1.08,md,20,60,0.01244,0.02,nc,nc73844916,2023-02-11T12:07:11.181Z,"6km NNW of The Geysers, CA",earthquake,0.26,0.51,0.09,23,automatic,nc,nc

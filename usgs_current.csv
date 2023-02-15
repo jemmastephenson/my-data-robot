@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-15T13:56:05.710Z,38.8268318,-122.8028336,1.75,0.8,md,9,92,0.006615,0.02,nc,nc73846756,2023-02-15T13:57:40.426Z,"7km NW of The Geysers, CA",earthquake,0.4,0.87,0.19,11,automatic,nc,nc
 2023-02-15T13:46:51.193Z,61.5022,-151.8773,87.4,1.9,ml,,,,0.53,ak,ak02324aqkgv,2023-02-15T13:49:02.848Z,"58 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-15T13:22:24.508Z,59.3065,-136.4636,0.8,2.3,ml,,,,0.17,ak,ak02324ald82,2023-02-15T13:25:35.894Z,"27 km WSW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-15T13:09:12.030Z,38.8348351,-122.8186646,1.63,0.72,md,8,91,0.01325,0.01,nc,nc73846751,2023-02-15T13:26:14.733Z,"8km NW of The Geysers, CA",earthquake,0.39,0.88,0.1,8,automatic,nc,nc
 2023-02-15T13:08:48.310Z,19.1525001525879,-155.37483215332,29.4300003051758,2.00999999,md,36,179,,0.150000006,hv,hv73325282,2023-02-15T13:12:00.050Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.69,0.930000007,1.59000003,10,automatic,hv,hv
-2023-02-15T13:04:10.442Z,6.7521,-73.0222,161.39,5.2,mb,107,38,0.856,0.79,us,us6000jp3b,2023-02-15T13:47:26.393Z,"5 km W of Cepitá, Colombia",earthquake,5.98,5.596,0.023,614,reviewed,us,us
+2023-02-15T13:04:10.442Z,6.7521,-73.0222,161.39,5.2,mb,107,38,0.856,0.79,us,us6000jp3b,2023-02-15T13:56:09.028Z,"5 km W of Cepitá, Colombia",earthquake,5.98,5.596,0.023,614,reviewed,us,us
 2023-02-15T12:51:11.682Z,59.5396,-138.8566,4.6,2.8,ml,,,,0.67,ak,ak02324a64e8,2023-02-15T13:30:54.040Z,"49 km E of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-15T12:46:08.300Z,19.2504997253418,-155.395004272461,31.3700008392334,1.87,md,38,135,,0.140000001,hv,hv73325277,2023-02-15T12:49:23.780Z,"Hawaii region, Hawaii",earthquake,0.74,0.959999979,1.20000005,15,automatic,hv,hv
 2023-02-15T12:34:32.030Z,19.2425003051758,-155.403335571289,32.2799987792969,1.92999995,md,38,133,,0.119999997,hv,hv73325272,2023-02-15T12:37:46.140Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.860000014,0.289999992,13,automatic,hv,hv

@@ -117,7 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-16T09:19:28.510Z,34.0101667,-116.7151667,16.15,1.81,ml,53,31,0.06258,0.2,ci,ci40415232,2023-02-16T14:30:57.580Z,"12km NNE of Cabazon, CA",earthquake,0.21,0.52,0.153,27,reviewed,ci,ci
 2023-02-16T09:12:55.500Z,38.7898331,-122.7685013,2.3,0.74,md,8,94,0.01278,0.01,nc,nc73847206,2023-02-16T11:55:12.883Z,"2km NW of The Geysers, CA",earthquake,0.51,1.13,0.2,8,automatic,nc,nc
 2023-02-16T09:12:33.018Z,60.7862,-151.0581,56.8,1.9,ml,,,,0.52,ak,ak02325vousl,2023-02-16T09:14:30.003Z,"16 km NE of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-02-16T09:07:35.320Z,41.507,-112.1761667,7.26,3.17,ml,43,72,0.1001,0.21,uu,uu60531356,2023-02-16T21:19:36.647Z,"Utah",earthquake,0.32,0.63,0.104,24,reviewed,uu,uu
+2023-02-16T09:07:35.320Z,41.507,-112.1761667,7.26,3.17,ml,43,72,0.1001,0.21,uu,uu60531356,2023-02-16T21:50:11.966Z,"Utah",earthquake,0.32,0.63,0.104,24,reviewed,uu,uu
 2023-02-16T09:04:19.224Z,37.4105,-115.4706,0,1.2,ml,8,130.3,0.321,0.1102,nn,nn00856140,2023-02-16T17:38:45.497Z,"27 km W of Alamo, Nevada",earthquake,,0,0.05,3,reviewed,nn,nn
 2023-02-16T09:04:05.790Z,33.4455,-117.1163333,11.88,0.54,ml,25,46,0.04713,0.13,ci,ci40415224,2023-02-16T16:00:58.296Z,"6km SSE of Temecula, CA",earthquake,0.2,0.5,0.244,5,reviewed,ci,ci
 2023-02-16T09:00:52.907Z,63.2463,-150.4274,30.5,1.6,ml,,,,1.04,ak,ak02325vmbqi,2023-02-16T09:02:52.322Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1.9,,,automatic,ak,ak
@@ -246,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-15T22:03:44.820Z,33.47,-116.5661667,9.1,0.1,ml,15,129,0.03891,0.14,ci,ci37502684,2023-02-16T15:01:55.078Z,"14km SE of Anza, CA",earthquake,0.34,0.57,0.107,6,reviewed,ci,ci
 2023-02-15T21:56:29.570Z,38.8291664,-122.8550034,2.21,1.09,md,17,71,0.00218,0.01,nc,nc73846966,2023-02-15T23:03:18.266Z,"10km NW of The Geysers, CA",earthquake,0.23,0.61,0.29,20,automatic,nc,nc
 2023-02-15T21:54:04.120Z,38.7900009,-122.7324982,1.6,0.44,md,11,91,0.007519,0.02,nc,nc73846961,2023-02-15T22:54:21.222Z,"2km NE of The Geysers, CA",earthquake,0.25,1.04,0.28,10,automatic,nc,nc
-2023-02-15T21:49:19.230Z,33.9371667,-116.7681667,15.93,1.25,ml,37,62,0.1031,0.17,ci,ci40414912,2023-02-16T15:31:51.245Z,"3km NE of Cabazon, CA",earthquake,0.21,0.59,0.114,30,reviewed,ci,ci
-2023-02-15T21:43:30.410Z,19.1590003967285,-155.365661621094,26.3199996948242,1.87,md,32,216,,0.109999999,hv,hv73325492,2023-02-15T21:46:43.090Z,"Island of Hawaii, Hawaii",earthquake,0.92,1.13,1.24000001,7,automatic,hv,hv

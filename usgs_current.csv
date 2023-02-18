@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-18T04:49:40.110Z,37.2573318,-121.6368332,5.14,2.37,md,54,66,0.029,0.05,nc,nc73848026,2023-02-18T04:52:35.986Z,"14km N of Morgan Hill, CA",earthquake,0.13,0.27,0.14,60,automatic,nc,nc
+2023-02-18T04:30:05.556Z,52.6655,-174.3929,215.694,4.3,mb,40,70,0.313,0.52,us,us6000jpuh,2023-02-18T04:48:21.040Z,"53 km NNW of Atka, Alaska",earthquake,11.65,4.257,0.097,30,reviewed,us,us
 2023-02-18T04:16:57.390Z,38.8433342,-122.836998,1.86,1.04,md,19,92,0.004883,0.04,nc,nc73848021,2023-02-18T04:34:13.884Z,"10km NW of The Geysers, CA",earthquake,0.24,0.48,0.14,20,automatic,nc,nc
 2023-02-18T03:23:13.622Z,63.5799,-147.6535,25,1.4,ml,,,,0.99,ak,ak02329399jk,2023-02-18T03:25:29.469Z,"64 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-18T03:21:09.730Z,18.047,-66.8768333333333,16.44,2.83,md,23,74,0.07159,0.23,pr,pr71396598,2023-02-18T03:34:14.500Z,"3 km ENE of Lluveras, Puerto Rico",earthquake,0.34,0.75,0.103417929394718,8,reviewed,pr,pr
@@ -13,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-18T02:07:19.277Z,-20.1404,168.4578,41.147,4.9,mb,16,83,2.634,1.1,us,us6000jptt,2023-02-18T02:27:15.040Z,"108 km SW of Isangel, Vanuatu",earthquake,6.05,9.817,0.14,16,reviewed,us,us
 2023-02-18T01:57:02.644Z,-19.7581,-177.5958,393.14,4.2,mb,22,62,2.646,1,us,us6000jptq,2023-02-18T02:12:56.040Z,"Fiji region",earthquake,10.87,6.131,0.115,23,reviewed,us,us
 2023-02-18T01:37:16.100Z,34.6763333,-116.3475,0.72,1.24,ml,10,84,0.1531,0.12,ci,ci40415800,2023-02-18T01:40:50.302Z,"18km WSW of Ludlow, CA",earthquake,0.3,0.75,0.139,17,automatic,ci,ci
-2023-02-18T01:25:53.090Z,37.5643349,-118.927002,8.72,1.59,md,15,156,0.04859,0.02,nc,nc73847981,2023-02-18T02:08:15.107Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.37,1.06,0.15,16,automatic,nc,nc
+2023-02-18T01:25:53.090Z,37.5643349,-118.927002,8.72,1.59,md,15,156,0.04859,0.02,nc,nc73847981,2023-02-18T04:41:11.959Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.37,1.06,0.15,16,automatic,nc,nc
 2023-02-18T01:16:16.043Z,64.5541,-147.8165,5.4,1.1,ml,,,,0.5,ak,ak0232920whw,2023-02-18T01:17:53.272Z,"28 km S of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-18T01:05:19.750Z,33.7131667,-116.8205,15.1,0.68,ml,21,82,0.08602,0.17,ci,ci40415792,2023-02-18T01:09:00.759Z,"8km ESE of Valle Vista, CA",earthquake,0.45,0.55,0.21,15,automatic,ci,ci
 2023-02-18T01:05:03.540Z,38.809166,-122.8246689,1.88,0.57,md,7,68,0.003535,0.01,nc,nc73847976,2023-02-18T01:58:13.892Z,"7km WNW of The Geysers, CA",earthquake,0.48,1.2,0.22,9,automatic,nc,nc
@@ -173,9 +175,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-17T08:54:46.962Z,61.524,-149.915,34.9,1.4,ml,,,,0.65,ak,ak02327ivsu0,2023-02-17T08:56:40.086Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-17T08:46:00.150Z,34.125,-117.4716667,6.24,1.61,ml,51,33,0.03727,0.22,ci,ci40415616,2023-02-17T08:58:55.468Z,"3km NNW of Fontana, CA",earthquake,0.26,0.67,0.16,26,automatic,ci,ci
 2023-02-17T08:43:54.110Z,51.8598333333333,-177.9325,3.78,2.54,ml,14,120,,0.23,av,av91764181,2023-02-18T04:15:08.320Z,"89 km W of Adak, Alaska",earthquake,0.5,0.28,0.21821781155327,14,reviewed,av,av
+2023-02-17T08:43:11.540Z,51.8581666666667,-177.941166666667,3.68,1.69,ml,6,152,,0.15,av,av91764186,2023-02-18T04:46:17.750Z,"90 km W of Adak, Alaska",earthquake,0.45,1.14,0.262878959117282,6,reviewed,av,av
 2023-02-17T08:39:47.321Z,62.1426,-147.8462,35.7,1.2,ml,,,,0.66,ak,ak02327isl4c,2023-02-17T08:41:55.835Z,"38 km NNW of Glacier View, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-02-17T08:35:23.240Z,18.9906666666667,-65.8915,15.38,3.43,md,35,232,0.5552,0.23,pr,pr71396548,2023-02-17T09:10:00.070Z,"61 km N of Loíza, Puerto Rico",earthquake,0.59,1.37,0.0669942212061811,19,reviewed,pr,pr
 2023-02-17T08:34:42.721Z,-7.5605,155.8915,105.366,4.5,mb,34,88,4.425,0.6,us,us6000jpjp,2023-02-17T09:00:29.040Z,"120 km WNW of Gizo, Solomon Islands",earthquake,10.42,8.953,0.106,26,reviewed,us,us
+2023-02-17T08:31:37.630Z,51.8586666666667,-177.944333333333,3.71,1.03,ml,6,150,,0.19,av,av91764151,2023-02-18T04:39:39.030Z,"90 km W of Adak, Alaska",earthquake,0.56,0.86,0.332447841168627,6,reviewed,av,av
 2023-02-17T08:29:37.980Z,58.1858333333333,-155.3235,1.95,-0.26,ml,6,158,,0.06,av,av91764146,2023-02-18T04:25:00.700Z,"85 km NW of Karluk, Alaska",earthquake,0.31,0.42,0.339104056065675,6,reviewed,av,av
 2023-02-17T08:21:12.920Z,51.8628333333333,-177.958166666667,3.86,1.32,ml,5,142,,0.22,av,av91764136,2023-02-18T04:22:07.580Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.45,0.67,0.276739197603431,5,reviewed,av,av
 2023-02-17T08:19:11.780Z,51.8543333333333,-177.952333333333,3.64,1.91,ml,7,125,,0.17,av,av91764121,2023-02-18T04:09:35.500Z,"90 km W of Adak, Alaska",earthquake,0.48,0.69,0.200220089767984,7,reviewed,av,av
@@ -252,7 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-17T05:08:08.340Z,17.9476666666667,-66.9011666666667,11.53,2.54,md,7,213,0.0343,0.1,pr,pr71396528,2023-02-17T05:28:40.500Z,"2 km SSE of Guánica, Puerto Rico",earthquake,0.64,0.48,0.109571391972239,5,reviewed,pr,pr
 2023-02-17T05:02:35.470Z,37.5083333,-121.6133333,4.99,1.08,md,14,92,0.04403,0.06,nc,nc73847606,2023-02-17T21:57:11.385Z,"24km SE of Livermore, CA",earthquake,0.28,0.57,0.31,14,reviewed,nc,nc
 2023-02-17T05:00:31.530Z,41.4968333,-112.1706667,7.09,0.9,md,18,70,0.1109,0.14,uu,uu60531461,2023-02-17T16:05:28.130Z,"7 km SW of Corinne, Utah",earthquake,0.3,1.36,0.114,12,reviewed,uu,uu
-2023-02-17T04:50:36.270Z,33.9511667,-116.7131667,12.93,2.22,ml,83,20,0.06979,0.14,ci,ci40415536,2023-02-17T23:32:26.120Z,"8km ENE of Cabazon, CA",earthquake,0.1,0.3,0.146,54,reviewed,ci,ci
-2023-02-17T04:45:51.760Z,-5.4598,34.9596,10,4.3,mb,11,155,4.353,1.06,us,us6000jpiy,2023-02-17T05:02:39.040Z,"41 km SSE of Ikungi, Tanzania",earthquake,11.72,1.962,0.218,6,reviewed,us,us
-2023-02-17T04:45:30.650Z,38.7886667,-122.7731667,-0.41,2.03,md,68,33,0.01238,0.06,nc,nc73847591,2023-02-18T01:53:22.865Z,"2km NW of The Geysers, CA",earthquake,0.08,0.21,0.182,68,reviewed,nc,nc
-2023-02-17T04:36:57.030Z,51.8581666666667,-177.961333333333,3.53,1.66,ml,6,135,,0.18,av,av91763711,2023-02-18T01:22:37.840Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.47,1.2,0.170195213720518,6,reviewed,av,av

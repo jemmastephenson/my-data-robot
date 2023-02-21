@@ -130,6 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-21T08:57:49.388Z,65.0672,-148.4591,7.2,1.7,ml,,,,0.71,ak,ak0232e51u56,2023-02-21T09:00:29.232Z,"32 km NW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-21T08:56:28.630Z,34.3208333,-116.4626667,5.96,1.09,ml,18,69,0.07249,0.1,ci,ci40417320,2023-02-21T21:16:03.383Z,"23km N of Yucca Valley, CA",earthquake,0.2,0.39,0.16,20,reviewed,ci,ci
 2023-02-21T08:41:04.323Z,64.7154,-17.5759,10,5.1,mb,77,74,1.61,0.81,us,us6000jqie,2023-02-21T08:58:57.040Z,"Iceland",earthquake,6.52,1.767,0.037,237,reviewed,us,us
+2023-02-21T08:28:10.327Z,36.8392,-116.1296,2.2,0.4,ml,6,280.11,0.042,0.1352,nn,nn00856274,2023-02-21T23:49:57.552Z,"50 km NW of Indian Springs, Nevada",earthquake,,4.7,0,1,reviewed,nn,nn
 2023-02-21T08:27:05.080Z,35.96233333,-96.75883333,6.97,2.56,ml,100,64,0,0.2,ok,ok2023dpvj,2023-02-21T18:33:49.571Z,"2 km SSE of Cushing, Oklahoma",earthquake,,0.4,0.2,35,reviewed,ok,ok
 2023-02-21T08:25:58.800Z,33.4643333,-116.5686667,9.88,1.27,ml,57,79,0.04126,0.17,ci,ci40417312,2023-02-21T21:13:16.380Z,"14km SE of Anza, CA",earthquake,0.17,0.3,0.203,25,reviewed,ci,ci
 2023-02-21T08:02:25.620Z,38.4815,-112.8438333,-0.27,-0.5,md,12,108,0.02609,0.07,uu,uu60531691,2023-02-21T15:11:55.680Z,"Utah",earthquake,0.22,0.13,0.318,4,reviewed,uu,uu
@@ -198,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-21T00:23:21.700Z,19.1574993133545,-155.363159179688,30.3099994659424,2.67,ml,40,210,,0.129999995,hv,hv73328282,2023-02-21T19:04:49.115Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.59,0.810000002,1.97,19,automatic,hv,hv
 2023-02-21T00:14:36.070Z,40.4603348,-124.0018311,22.58,1.7,md,8,138,0.1424,0.09,nc,nc73849146,2023-02-21T03:00:14.034Z,"10km ESE of Rio Dell, CA",earthquake,1.5,0.8,0.03,5,automatic,nc,nc
 2023-02-21T00:11:18.900Z,38.5413322,-122.5778351,4.35,0.98,md,5,195,0.2717,0.08,nc,nc73849141,2023-02-21T02:33:13.861Z,"4km S of Calistoga, CA",earthquake,5.36,9.21,,1,automatic,nc,nc
-2023-02-20T23:49:45.935Z,44.9624,-74.7823,5.483,2.1,ml,19,87,0.352,0.3,us,us6000jqfy,2023-02-21T16:35:56.842Z,"7 km SW of Cornwall, Canada",earthquake,1.6,5.552,0.148,6,reviewed,us,us

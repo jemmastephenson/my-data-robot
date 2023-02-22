@@ -198,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-21T03:57:14.891Z,61.3866,-150.0226,32.2,1.4,ml,,,,0.48,ak,ak0232e22lgh,2023-02-21T03:59:08.589Z,"3 km NW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-21T03:51:28.839Z,2.6069,-84.434,10,4.9,mb,162,148,5.453,0.46,us,us6000jqhc,2023-02-22T01:59:29.040Z,"off the coast of Central America",earthquake,7.59,1.9,0.049,132,reviewed,us,us
 2023-02-21T03:50:57.370Z,0.4262,96.6403,35,4.5,mb,32,176,1.278,0.61,us,us6000jqhe,2023-02-22T01:22:52.040Z,"228 km S of Sinabang, Indonesia",earthquake,4.65,1.946,0.118,21,reviewed,us,us
-2023-02-21T03:44:15.020Z,19.1751666666667,-155.485166666667,33.69,1.51,md,16,168,,0.11,hv,hv73328337,2023-02-22T03:05:23.350Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.62,0.76,0.0747801261905372,10,reviewed,hv,hv

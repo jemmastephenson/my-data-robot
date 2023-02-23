@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-23T05:54:55.490Z,35.7116667,-117.5493333,3.21,1.3,ml,12,161,0.111,0.15,ci,ci40417968,2023-02-23T05:58:34.626Z,"14km WSW of Searles Valley, CA",earthquake,0.4,1.36,0.134,15,automatic,ci,ci
 2023-02-23T05:41:43.685Z,61.9706,-150.4098,32.8,1.4,ml,,,,0.6,ak,ak0232he8sf4,2023-02-23T05:56:57.727Z,"31 km NW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-23T05:12:21.860Z,35.707,-118.0678333,-0.12,0.91,ml,14,76,0.1426,0.12,ci,ci40417960,2023-02-23T05:15:47.571Z,"24km WNW of Inyokern, CA",earthquake,0.23,0.44,0.087,9,automatic,ci,ci
-2023-02-23T04:47:00.430Z,38.8338318,-122.7906647,1.85,1.62,md,26,50,0.004577,0.02,nc,nc73850521,2023-02-23T07:33:10.933Z,"6km WNW of Cobb, CA",earthquake,0.18,0.32,0.15,26,automatic,nc,nc
+2023-02-23T04:47:00.430Z,38.8338318,-122.7906647,1.85,1.62,md,26,50,0.004577,0.02,nc,nc73850521,2023-02-23T07:57:16.079Z,"6km WNW of Cobb, CA",earthquake,0.18,0.32,0.15,26,automatic,nc,nc
 2023-02-23T04:42:19.860Z,33.233,-116.7665,13.11,0.91,ml,20,55,0.1055,0.16,ci,ci40417952,2023-02-23T04:45:52.128Z,"1km SSW of Lake Henshaw, CA",earthquake,0.28,1.01,0.132,15,automatic,ci,ci
 2023-02-23T04:36:50.890Z,37.1158333,-121.50383,5.17,1.2,md,8,64,0.04885,0.18,nc,nc73850511,2023-02-23T07:28:15.901Z,"10km ENE of San Martin, CA",earthquake,0.62,1.97,0.1,7,automatic,nc,nc
 2023-02-23T04:33:37.960Z,34.2185,-117.4151667,13.88,1.46,ml,35,48,0.02777,0.2,ci,ci40417944,2023-02-23T04:37:19.361Z,"1km WSW of Devore, CA",earthquake,0.32,0.57,0.134,29,automatic,ci,ci
@@ -71,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-22T22:19:06.500Z,38.8308334,-122.7910004,1.75,0.96,md,12,55,0.01638,0.02,nc,nc73850361,2023-02-22T22:40:14.681Z,"6km W of Cobb, CA",earthquake,0.28,0.98,0.3,14,automatic,nc,nc
 2023-02-22T22:08:20.941Z,58.0952,-155.3304,81.1,0.7,ml,,,,1.36,ak,ak0232g0mpkt,2023-02-22T22:17:17.795Z,"78 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-02-22T22:05:53.566Z,10.1791,125.0633,10,4.6,mb,44,120,3.131,0.46,us,us6000jqwn,2023-02-23T04:25:16.518Z,"6 km WNW of Liloan, Philippines",earthquake,10.85,1.887,0.077,51,reviewed,us,us
-2023-02-22T22:04:29.140Z,38.707,-123.533,0.62,1.74,md,12,265,0.06406,0.06,nc,nc73850356,2023-02-23T07:45:23.890Z,"7km W of Sea Ranch, CA",earthquake,1.12,1.58,0.084,11,reviewed,nc,nc
+2023-02-22T22:04:29.140Z,38.707,-123.533,0.62,1.74,md,12,265,0.06406,0.06,nc,nc73850356,2023-02-23T07:54:11.062Z,"7km W of Sea Ranch, CA",earthquake,1.12,1.58,0.084,11,reviewed,nc,nc
 2023-02-22T21:53:29.789Z,60.7651,-149.0395,16.4,1.4,ml,,,,0.39,ak,ak0232g0ax4i,2023-02-22T21:55:34.287Z,"19 km W of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-22T21:41:54.490Z,63.5631,-150.8303,11.7,1.2,ml,,,,0.69,ak,ak0232g08eft,2023-02-22T21:43:57.049Z,"44 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-22T21:39:43.663Z,59.1843,-151.5174,2,2.5,ml,,,,1.08,ak,ak0232g07y66,2023-02-22T21:42:36.481Z,"25 km SE of Port Graham, Alaska",earthquake,,3.8,,,automatic,ak,ak
@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-22T21:18:44.007Z,23.9638,121.7741,8.774,4.4,mb,34,83,0.266,0.51,us,us6000jqwd,2023-02-22T23:06:06.040Z,"17 km E of Hualien City, Taiwan",earthquake,2.29,4.572,0.126,18,reviewed,us,us
 2023-02-22T21:13:48.378Z,60.6213,-151.3374,31,1.5,ml,,,,0.65,ak,ak0232g02dx1,2023-02-22T21:16:13.743Z,"1 km NW of Salamatof, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-22T21:09:15.496Z,61.3592,-150.0561,38.8,2.3,ml,,,,0.68,ak,ak0232g01gfy,2023-02-23T00:21:07.389Z,"4 km W of Point MacKenzie, Alaska",earthquake,,0.7,,,reviewed,ak,ak
-2023-02-22T21:08:58.770Z,37.5566667,-118.8676667,7.57,0.74,md,6,218,0.04525,0.03,nc,nc73850341,2023-02-23T07:38:11.114Z,"13km SE of Mammoth Lakes, CA",earthquake,1.41,1.74,0.069,5,reviewed,nc,nc
+2023-02-22T21:08:58.770Z,37.5566667,-118.8676667,7.57,0.74,md,6,218,0.04525,0.03,nc,nc73850341,2023-02-23T07:57:17.078Z,"13km SE of Mammoth Lakes, CA",earthquake,1.41,1.74,0.069,5,reviewed,nc,nc
 2023-02-22T21:05:56.425Z,62.2415,-151.24,72.3,1.6,ml,,,,0.67,ak,ak0232g00ot6,2023-02-22T21:08:09.047Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-22T20:57:42.546Z,61.4513,-150.0808,30.7,1.3,ml,,,,0.5,ak,ak0232fzqdda,2023-02-22T21:00:03.882Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-22T20:54:51.749Z,38.1559,-117.8873,8,1.6,ml,8,80.37,0.059,0.1348,nn,nn00856298,2023-02-23T02:03:11.851Z,"32 km SE of Mina, Nevada",earthquake,,1.5,0.33,4,reviewed,nn,nn
@@ -234,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-22T08:04:14.054Z,-20.4986,-177.612,520.122,4.8,mb,52,122,3.87,0.9,us,us6000jqr1,2023-02-22T08:18:56.040Z,"259 km WNW of Haveluloto, Tonga",earthquake,4.93,9.077,0.09,39,reviewed,us,us
 2023-02-22T08:02:49.080Z,46.4565,-122.17583333333333,13.23,0.62,ml,14,169,0.04401,0.18,uw,uw61899217,2023-02-22T18:24:11.480Z,"13 km SE of Morton, Washington",earthquake,1.22,0.8,0.0811341151304702,6,reviewed,uw,uw
 2023-02-22T08:00:23.770Z,29.6819,81.6462,27.258,4.8,mb,57,62,3.7,0.79,us,us6000jqqz,2023-02-22T10:41:15.550Z,"68 km NW of Jumla, Nepal",earthquake,10.01,6.065,0.07,64,reviewed,us,us
-2023-02-22T07:56:55.958Z,38.0724,37.7836,16.93,4.1,mb,33,79,0.9,1.09,us,us6000jqqy,2023-02-22T08:47:50.040Z,"7 km W of Doğanşehir, Turkey",earthquake,4.42,6.177,0.197,7,reviewed,us,us

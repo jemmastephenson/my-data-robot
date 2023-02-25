@@ -177,6 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-24T23:12:03.205Z,39.0932,-119.7089,10.7,0.4,ml,5,87.01,0.085,0.0656,nn,nn00856378,2023-02-25T00:48:42.308Z,"5 km NNE of Johnson Lane, Nevada",earthquake,,4.2,0,1,reviewed,nn,nn
 2023-02-24T23:09:31.707Z,39.0973,-119.7088,6.5,0.8,ml,8,82.62,0.061,0.1489,nn,nn00856377,2023-02-25T00:42:27.728Z,"5 km NNE of Johnson Lane, Nevada",earthquake,,3.8,0,1,reviewed,nn,nn
 2023-02-24T23:00:36.764Z,58.2436,-155.1786,0,0.4,ml,,,,0.24,ak,ak0232jc94ws,2023-02-24T23:04:03.252Z,"86 km NNW of Karluk, Alaska",earthquake,,60.6,,,automatic,ak,ak
-2023-02-24T22:53:27.561Z,37.0556,-117.3165,7.4,0.9,ml,14,169.8,0.317,0.158,nn,nn00856374,2023-02-25T00:14:21.977Z,"52 km WNW of Beatty, Nevada",earthquake,,4.9,0.99,7,reviewed,nn,nn
-2023-02-24T22:50:42.140Z,46.09616666666667,-122.74116666666667,15.41,1.26,ml,20,116,0.0566,0.22,uw,uw61899657,2023-02-25T15:35:22.440Z,"Washington",earthquake,0.61,1.03,0.10284273808274591,13,reviewed,uw,uw
-2023-02-24T22:47:45.230Z,19.1821670532227,-155.495330810547,27.4099998474121,1.80999994,md,16,232,,0.109999999,hv,hv73330287,2023-02-24T22:50:52.930Z,"2 km SW of Pāhala, Hawaii",earthquake,0.93,1.20000005,0.0299999993,5,automatic,hv,hv

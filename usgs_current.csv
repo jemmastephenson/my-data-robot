@@ -158,4 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-25T14:29:34.340Z,37.4758339,-118.8026657,7.36,1.36,md,15,176,0.1159,0.03,nc,nc73851641,2023-02-25T16:53:17.723Z,"14km SW of Toms Place, CA",earthquake,0.92,1.49,0.1,12,automatic,nc,nc
 2023-02-25T14:23:14.106Z,43.1729,-127.0118,10,3,ml,26,286,1.771,0.96,us,us6000jrk2,2023-02-25T18:54:57.493Z,"off the coast of Oregon",earthquake,10.28,2.024,0.045,66,reviewed,us,us
 2023-02-25T14:14:31.490Z,32.4366667,-115.6526667,8.6,1.69,ml,11,277,0.221,0.28,ci,ci40418576,2023-02-25T14:18:11.635Z,"17km SSW of Progreso, B.C., MX",earthquake,5.49,31.61,0.273,11,automatic,ci,ci
-2023-02-25T13:52:40.410Z,35.7881667,-117.5806667,8.18,1.09,ml,9,236,0.03073,0.13,ci,ci40418568,2023-02-25T13:56:15.423Z,"16km W of Searles Valley, CA",earthquake,0.85,1.13,0.191,8,automatic,ci,ci

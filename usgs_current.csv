@@ -1,12 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-28T19:10:36.770Z,38.8195,-122.8116684,3.47,0.74,md,8,115,0.004084,0.01,nc,nc73853011,2023-02-28T19:12:12.492Z,"7km NW of The Geysers, CA",earthquake,1.21,1.89,0.24,11,automatic,nc,nc
+2023-02-28T19:25:10.880Z,38.800499,-122.7734985,1.71,0.98,md,10,83,0.01077,0.01,nc,nc73853016,2023-02-28T19:26:47.758Z,"3km NNW of The Geysers, CA",earthquake,0.31,0.64,0.21,10,automatic,nc,nc
+2023-02-28T19:10:36.770Z,38.8195,-122.8116684,3.47,0.74,md,8,115,0.004084,0.01,nc,nc73853011,2023-02-28T19:26:11.645Z,"7km NW of The Geysers, CA",earthquake,1.21,1.89,0.24,11,automatic,nc,nc
 2023-02-28T19:10:13.788Z,62.2784,-151.22,80.5,1.7,ml,,,,0.56,ak,ak0232pw2vuq,2023-02-28T19:12:45.814Z,"33 km NNE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-28T18:56:00.720Z,38.8243332,-122.8106689,1.06,1.32,md,21,37,0.001046,0.02,nc,nc73853006,2023-02-28T19:11:12.700Z,"7km NW of The Geysers, CA",earthquake,0.18,0.45,0.28,24,automatic,nc,nc
 2023-02-28T18:47:54.600Z,33.0148333,-116.3478333,10.54,1.26,ml,32,88,0.06802,0.23,ci,ci40419576,2023-02-28T18:51:26.121Z,"25km SW of Ocotillo Wells, CA",earthquake,0.36,0.68,0.198,26,automatic,ci,ci
 2023-02-28T18:46:00.170Z,33.9555,-116.789,10.06,1.16,ml,23,71,0.08097,0.27,ci,ci40419568,2023-02-28T18:49:33.342Z,"4km N of Cabazon, CA",earthquake,0.48,1.29,0.218,28,automatic,ci,ci
 2023-02-28T18:39:26.640Z,44.7593333,-111.2218333,10.01,0.76,md,10,181,0.02016,0.15,uu,uu60532291,2023-02-28T18:58:41.170Z,"western Montana",earthquake,1.19,1.18,0.096,6,reviewed,uu,uu
 2023-02-28T18:34:00.180Z,19.2576675415039,-155.394836425781,30.6700000762939,2.11999989,md,27,130,,0.159999996,hv,hv73331882,2023-02-28T18:36:59.950Z,"10 km NE of Pāhala, Hawaii",earthquake,0.87,0.970000029,1.35000002,12,automatic,hv,hv
-2023-02-28T18:17:09.140Z,36.0256667,-117.8001667,5.32,1.11,ml,10,98,0.1019,0.13,ci,ci40419552,2023-02-28T18:20:52.888Z,"14km E of Coso Junction, CA",earthquake,0.46,2.6,0.138,12,automatic,ci,ci
+2023-02-28T18:17:08.970Z,36.0293333,-117.8131667,5.33,1.01,ml,13,89,0.06622,0.14,ci,ci40419552,2023-02-28T19:23:35.866Z,"12km E of Coso Junction, CA",earthquake,0.36,1.3,0.195,7,reviewed,ci,ci
 2023-02-28T18:17:08.940Z,38.7496681,-122.7109985,1.01,0.88,md,7,130,0.0161,0.02,nc,nc73852996,2023-02-28T18:51:16.456Z,"3km SSW of Anderson Springs, CA",earthquake,0.54,0.56,0.17,5,automatic,nc,nc
 2023-02-28T17:34:39.610Z,19.3379993438721,-155.175827026367,3.91000008583069,2.04,ml,36,81,,0.180000007,hv,hv73331862,2023-02-28T17:40:10.540Z,"13 km SSE of Volcano, Hawaii",earthquake,0.43,2.32999992,0.3,5,automatic,hv,hv
 2023-02-28T17:22:38.490Z,39.388,-112.0971667,0.97,1.54,md,9,86,0.05844,0.15,uu,uu60532281,2023-02-28T18:05:49.110Z,"Utah",earthquake,0.46,3.93,0.372,5,reviewed,uu,uu
@@ -153,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-28T00:35:28.668Z,31.60684713,-103.9713467,9.537878418,2.2,ml,29,58,0.004412218608,0.1,tx,tx2023ecaj,2023-02-28T18:02:05.687Z,"36 km NNW of Toyah, Texas",earthquake,0.5296703523,0.4469359846,0.1,15,reviewed,tx,tx
 2023-02-28T00:33:30.974Z,64.0411,-148.7979,0,1.8,ml,,,,1.19,ak,ak0232pkwm5l,2023-02-28T00:35:21.499Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-28T00:25:55.892Z,27.9303,139.5216,498.668,4,mb,45,136,5.174,0.41,us,us7000jg51,2023-02-28T00:58:02.040Z,"Bonin Islands, Japan region",earthquake,12,10.13,0.102,26,reviewed,us,us
-2023-02-28T00:25:30.400Z,37.5839996,-118.7343369,8.84,2.52,md,17,126,0.07553,0.02,nc,nc73852621,2023-02-28T05:12:04.397Z,"5km WNW of Toms Place, CA",earthquake,0.49,0.86,0.19,21,automatic,nc,nc
+2023-02-28T00:25:30.400Z,37.5839996,-118.7343369,8.84,2.52,md,17,126,0.07553,0.02,nc,nc73852621,2023-02-28T19:24:33.694Z,"5km WNW of Toms Place, CA",earthquake,0.49,0.86,0.19,21,automatic,nc,nc
 2023-02-28T00:20:15.555Z,58.0836,-155.5661,27.5,1.1,ml,,,,0.84,ak,ak0232pktsnn,2023-02-28T00:21:51.919Z,"87 km NW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-02-28T00:15:24.210Z,47.328,-117.84733333333334,-0.67,2.04,ml,7,116,0.1295,0.36,uw,uw61900167,2023-02-28T05:41:03.530Z,"10 km ENE of Sprague, Washington",explosion,1.3,31.61,0.056225274445172224,2,reviewed,uw,uw
 2023-02-28T00:03:15.490Z,33.6895,-116.712,14.46,0.72,ml,24,67,0.02169,0.18,ci,ci40419384,2023-02-28T00:06:42.193Z,"6km S of Idyllwild, CA",earthquake,0.42,0.34,0.149,14,automatic,ci,ci
@@ -179,7 +180,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-27T21:54:17.843Z,59.7336,-153.3928,124.2,2,ml,,,,0.32,ak,ak0232o9zudc,2023-02-27T22:12:50.040Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-27T21:50:10.772Z,39.8262,13.8624,412.09,4.5,mb,70,112,1.319,0.71,us,us7000jg46,2023-02-27T22:08:06.040Z,"85 km SSW of Anacapri, Italy",earthquake,11.23,7.375,0.049,124,reviewed,us,us
 2023-02-27T21:48:49.920Z,46.31483333333333,-122.248,11.01,0.54,ml,15,119,0.01639,0.19,uw,uw61900152,2023-02-28T05:27:31.450Z,"27 km S of Morton, Washington",earthquake,0.69,0.53,0.12974215846518733,7,reviewed,uw,uw
-2023-02-27T21:37:34.170Z,33.5896667,-116.8061667,6.59,0.49,ml,18,92,0.03534,0.22,ci,ci40419336,2023-02-27T21:41:05.397Z,"13km WNW of Anza, CA",earthquake,0.49,0.69,0.186,11,automatic,ci,ci
+2023-02-27T21:37:34.030Z,33.5861667,-116.8058333,7.53,0.49,ml,23,69,0.03563,0.1,ci,ci40419336,2023-02-28T19:31:37.493Z,"13km WNW of Anza, CA",earthquake,0.18,0.35,0.103,6,reviewed,ci,ci
 2023-02-27T21:37:16.408Z,61.7993,-151.8981,97.2,1.3,ml,,,,0.34,ak,ak0232o9w73s,2023-02-27T21:47:14.891Z,"33 km SW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-27T21:36:50.568Z,-4.5399,154.9101,140.307,4.5,mb,28,132,2.76,0.54,us,us7000jg40,2023-02-27T22:15:35.040Z,"200 km NNW of Arawa, Papua New Guinea",earthquake,12.11,10.304,0.108,25,reviewed,us,us
 2023-02-27T21:32:41.460Z,38.7956657,-122.7583313,2.45,0.94,md,7,204,0.005068,0.01,nc,nc73852591,2023-02-27T21:54:16.803Z,"2km N of The Geysers, CA",earthquake,0.73,1.27,0.21,8,automatic,nc,nc

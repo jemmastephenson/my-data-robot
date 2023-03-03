@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-03T11:20:33.570Z,38.8286667,-122.854332,2.33,0.69,md,8,181,0.01589,0.01,nc,nc73854911,2023-03-03T11:22:06.176Z,"10km NW of The Geysers, CA",earthquake,0.62,1.26,0.3,9,automatic,nc,nc
 2023-03-03T11:03:50.490Z,61.0683,-151.0489,51.3,2,ml,,,,0.43,ak,ak0232upw1bd,2023-03-03T11:06:06.078Z,"4 km E of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-03-03T11:03:01.000Z,60.2818,-149.6565,25.2,2,ml,,,,0.32,ak,ak023sj6va9w,2023-03-03T11:04:30.625Z,"18 km WSW of Primrose, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-03T10:51:29.900Z,33.2388333,-116.1013333,8.37,0.91,ml,24,55,0.1224,0.24,ci,ci40420368,2023-03-03T10:54:58.670Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.43,1.59,0.126,17,automatic,ci,ci

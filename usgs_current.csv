@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-04T13:37:29.760Z,38.783165,-122.7429962,0.74,0.61,md,7,114,0.004902,0.02,nc,nc73855361,2023-03-04T13:39:04.466Z,"1km ENE of The Geysers, CA",earthquake,0.42,1,0.17,7,automatic,nc,nc
+2023-03-04T13:46:31.670Z,19.2350006103516,-155.386001586914,31.1800003051758,1.78999996,md,28,149,,0.129999995,hv,hv73333237,2023-03-04T13:54:36.040Z,"Island of Hawaii, Hawaii",earthquake,0.63,0.680000007,0.889999986,3,automatic,hv,hv
+2023-03-04T13:37:29.760Z,38.783165,-122.7429962,0.74,0.61,md,7,114,0.004902,0.02,nc,nc73855361,2023-03-04T14:01:11.541Z,"1km ENE of The Geysers, CA",earthquake,0.42,1,0.17,7,automatic,nc,nc
 2023-03-04T13:14:45.450Z,32.941,-116.243,11.46,0.75,ml,15,87,0.05255,0.16,ci,ci40420864,2023-03-04T13:18:19.007Z,"25km SSW of Ocotillo Wells, CA",earthquake,0.32,0.58,0.135,8,automatic,ci,ci
 2023-03-04T13:13:57.069Z,25.1946,128.3398,10,4.9,mb,53,97,1.636,0.75,us,us7000jhby,2023-03-04T13:39:42.040Z,"123 km SSE of Itoman, Japan",earthquake,5.78,1.838,0.077,52,reviewed,us,us
 2023-03-04T13:03:25.910Z,38.8139992,-122.8255005,1.82,0.76,md,8,78,0.01176,0.01,nc,nc73855351,2023-03-04T13:20:13.310Z,"7km NW of The Geysers, CA",earthquake,0.37,1.14,0.16,10,automatic,nc,nc

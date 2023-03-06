@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T08:52:00.923Z,62.0612,-148.2019,27.3,1.4,ml,,,,0.8,ak,ak0232zn0678,2023-03-06T08:53:45.856Z,"32 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-06T08:46:21.738Z,58.2592,-154.9497,0,0.6,ml,,,,0.36,ak,ak0232zmyxk4,2023-03-06T08:49:54.221Z,"82 km NNW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-03-06T08:37:56.180Z,38.8348351,-122.8141632,1.42,0.61,md,8,84,0.01186,0.01,nc,nc73856031,2023-03-06T08:55:13.192Z,"8km W of Cobb, CA",earthquake,0.37,0.96,0.33,10,automatic,nc,nc
-2023-03-06T08:35:59.580Z,36.8793335,-121.6213303,7.62,2.45,md,55,73,0.02409,0.15,nc,nc73856026,2023-03-06T14:59:54.762Z,"2km ESE of Aromas, CA",earthquake,0.27,0.48,0.11,59,automatic,nc,nc
+2023-03-06T08:35:59.580Z,36.8793335,-121.6213303,7.62,2.45,md,55,73,0.02409,0.15,nc,nc73856026,2023-03-06T18:55:59.003Z,"2km ESE of Aromas, CA",earthquake,0.27,0.48,0.11,59,automatic,nc,nc
 2023-03-06T08:25:38.380Z,34.045,-118.937,10.74,1.36,ml,13,220,0.1154,0.26,ci,ci40421424,2023-03-06T08:29:10.287Z,"12km WNW of Malibu, CA",earthquake,1.14,1.55,0.123,27,automatic,ci,ci
 2023-03-06T08:21:54.979Z,59.6442,-152.9454,95.8,1.6,ml,,,,0.2,ak,ak0232zmtn7t,2023-03-06T08:23:42.998Z,"64 km WSW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-06T08:19:55.065Z,60.0886,-153.1205,124.7,1.8,ml,,,,0.59,ak,ak0232zmt7si,2023-03-06T08:22:49.954Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -188,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T19:13:25.140Z,56.8547,-158.208,0,2.5,ml,,,,1.16,ak,ak0232y5saci,2023-03-05T21:06:53.040Z,"27 km ESE of Port Heiden, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-05T19:02:16.658Z,-17.9405,-174.8544,256.519,4.9,mb,64,49,1.075,1.14,us,us7000jhhp,2023-03-05T19:26:31.040Z,"121 km NW of Neiafu, Tonga",earthquake,6.24,6.902,0.054,108,reviewed,us,us
 2023-03-05T18:59:48.283Z,61.6551,-149.788,12.6,1.2,ml,,,,0.78,ak,ak0232y5grgs,2023-03-05T19:01:43.492Z,"3 km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-05T18:53:01.810Z,38.7910004,-122.7596664,2.33,0.71,md,9,113,0.009611,0.02,nc,nc73855766,2023-03-05T20:55:11.986Z,"2km N of The Geysers, CA",earthquake,0.64,0.91,0.15,9,automatic,nc,nc
-2023-03-05T18:50:01.742Z,63.4271,-150.3679,127.7,1.4,ml,,,,0.29,ak,ak0232y5eqfi,2023-03-05T18:53:00.364Z,"68 km E of Denali National Park, Alaska",earthquake,,2.1,,,automatic,ak,ak

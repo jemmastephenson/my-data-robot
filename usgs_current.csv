@@ -235,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T14:00:28.940Z,44.7975,-110.9823333,8,0.74,md,14,173,0.04177,0.15,uu,uu60532766,2023-03-07T15:17:09.740Z,"16 km E of Hebgen Lake Estates, Montana",earthquake,0.69,0.42,0.268,9,reviewed,uu,uu
 2023-03-07T13:52:33.678Z,36.7563,-116.2682,7.7,0.3,ml,29,57.76,0.018,0.1362,nn,nn00856622,2023-03-07T17:37:34.966Z,"California-Nevada border region",earthquake,,0.7,0.51,13,reviewed,nn,nn
 2023-03-07T13:51:49.761Z,-3.2132,150.6471,10,6,mww,97,37,1.798,0.84,us,us7000jhw8,2023-03-07T16:29:38.040Z,"72 km SSW of Kavieng, Papua New Guinea",earthquake,5.98,1.794,0.052,36,reviewed,us,us
-2023-03-07T13:43:39.230Z,36.0715,-120.9548333,10.35,1.04,md,34,59,0.07064,0.13,nc,nc73856421,2023-03-07T23:50:11.119Z,"7km NW of San Ardo, CA",earthquake,0.25,0.58,0.187,17,reviewed,nc,nc
-2023-03-07T13:41:19.680Z,38.7798347,-122.7726669,0.74,1.64,md,23,116,0.01059,0.03,nc,nc73856416,2023-03-07T14:51:10.830Z,"1km WNW of The Geysers, CA",earthquake,0.23,0.4,0.2,23,automatic,nc,nc

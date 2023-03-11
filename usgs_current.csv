@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-11T07:18:49.300Z,33.5705,-116.6506667,10.72,0.52,ml,21,45,0.01722,0.17,ci,ci40183151,2023-03-11T07:22:28.162Z,"3km NE of Anza, CA",earthquake,0.31,0.48,0.257,12,automatic,ci,ci
 2023-03-11T07:16:58.365Z,61.7566,-149.7101,34,1.4,ml,,,,0.86,ak,ak02337vvvrg,2023-03-11T07:18:49.346Z,"15 km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-11T07:11:30.515Z,63.287,-151.2802,5.6,1.6,ml,,,,0.41,ak,ak02337vur17,2023-03-11T07:13:56.044Z,"35 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-11T06:59:58.038Z,62.2726,-149.2218,53.8,1.2,ml,,,,0.53,ak,ak02337vjnx7,2023-03-11T07:01:44.848Z,"34 km ENE of Susitna North, Alaska",earthquake,,1.4,,,automatic,ak,ak

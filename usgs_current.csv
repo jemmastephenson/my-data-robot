@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-13T13:34:41.664Z,37.5204,-117.9569,4.4,1.4,ml,9,190.32,0.379,0.4455,nn,nn00856852,2023-03-13T13:36:01.991Z,"18 km SSE of Dyer, Nevada",earthquake,,1,0.81,6,automatic,nn,nn
 2023-03-13T13:20:34.363Z,37.541,-117.9347,0.9,1.3,ml,8,184.59,0.384,0.4475,nn,nn00856851,2023-03-13T13:22:01.731Z,"California-Nevada border region",earthquake,,22.1,0.83,6,automatic,nn,nn
 2023-03-13T13:16:51.600Z,32.705,-115.8085,9.89,1.41,ml,15,105,0.08876,0.2,ci,ci40184183,2023-03-13T13:20:26.047Z,"18km E of Ocotillo, CA",earthquake,0.61,1.05,0.286,17,automatic,ci,ci
 2023-03-13T13:00:58.100Z,33.9916667,-117.1858333,15.39,1.56,ml,46,42,0.04549,0.18,ci,ci40184167,2023-03-13T13:22:01.480Z,"7km S of Redlands, CA",earthquake,0.2,0.34,0.228,25,reviewed,ci,ci

@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-13T15:39:01.410Z,38.8161659,-122.8221664,3.57,0.99,md,8,103,0.009116,0.03,nc,nc73856225,2023-03-13T15:40:39.901Z,"7km NW of The Geysers, CA",earthquake,1.11,1.14,0.15,8,automatic,nc,nc
+2023-03-13T15:44:53.956Z,65.4445,-144.7889,0,1.5,ml,,,,1.14,ak,ak0233bbw1ar,2023-03-13T15:54:15.522Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-13T15:39:01.410Z,38.8161659,-122.8221664,3.57,0.99,md,8,103,0.009116,0.03,nc,nc73856225,2023-03-13T15:55:13.376Z,"7km NW of The Geysers, CA",earthquake,1.11,1.14,0.15,8,automatic,nc,nc
 2023-03-13T15:36:09.700Z,19.1613330841064,-155.370498657227,29.7700004577637,2.11999989,md,37,222,,0.119999997,hv,hv73338722,2023-03-13T15:39:31.440Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.59,0.689999998,1.50999999,22,automatic,hv,hv
 2023-03-13T15:11:58.437Z,61.7906,-149.5771,13.7,1.4,ml,,,,0.38,ak,ak0233bboz0j,2023-03-13T15:13:35.616Z,"18 km N of Meadow Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-13T15:10:27.220Z,51.861,-177.942166666667,5.82,0.46,ml,4,155,,0.05,av,av91093913,2023-03-13T15:30:15.180Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.39,1,0.417543982171874,4,reviewed,av,av
@@ -102,6 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T03:35:00.300Z,33.1855,-116.1296667,8.37,1.01,ml,29,59,0.04373,0.23,ci,ci40184063,2023-03-13T03:38:38.728Z,"5km N of Ocotillo Wells, CA",earthquake,0.34,0.95,0.183,20,automatic,ci,ci
 2023-03-13T03:35:00.120Z,33.172,-116.1211667,10.08,1.04,ml,13,159,0.04244,0.13,ci,ci40184055,2023-03-13T03:38:27.682Z,"3km NNE of Ocotillo Wells, CA",earthquake,0.78,0.95,0.172,20,automatic,ci,ci
 2023-03-13T03:32:14.170Z,34.8411667,-120.3655,1.22,1.39,ml,10,195,0.06369,0.18,ci,ci40184047,2023-03-13T03:35:51.398Z,"7km ESE of Orcutt, CA",earthquake,0.6,0.76,0.119,15,automatic,ci,ci
+2023-03-13T03:15:39.847Z,38.4141,-118.3381,7.4,1.9,ml,13,62.05,0.209,0.1274,nn,nn00856849,2023-03-13T15:49:39.211Z,"20 km W of Mina, Nevada",earthquake,,2.4,0.26,9,reviewed,nn,nn
 2023-03-13T03:14:24.750Z,38.8390007,-122.80233,3.82,0.4,md,6,125,0.01672,0.01,nc,nc73856035,2023-03-13T05:10:14.305Z,"7km WNW of Cobb, CA",earthquake,0.77,2.48,0.27,7,automatic,nc,nc
 2023-03-13T03:14:22.166Z,63.4744,-147.6825,0,1,ml,,,,0.74,ak,ak0233b4kc3s,2023-03-13T03:15:58.092Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-13T03:11:49.272Z,-3.8684,-76.6221,108.328,4.7,mb,81,104,2.744,0.67,us,us7000jjgg,2023-03-13T03:28:04.040Z,"48 km SSW of Alianza Cristiana, Peru",earthquake,9.09,7.128,0.034,269,reviewed,us,us

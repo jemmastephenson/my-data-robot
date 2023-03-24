@@ -34,7 +34,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T16:30:06.710Z,63.2526,-150.4711,121.2,1.6,ml,,,,0.23,ak,ak0233tjb6nz,2023-03-24T16:32:23.033Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-03-24T16:19:28.738Z,31.67417272,-104.3814407,7.288427734,2.3,ml,18,57,0.04673769385,0.3,tx,tx2023fvbo,2023-03-24T16:46:09.756Z,"55 km S of Whites City, New Mexico",earthquake,1.246097017,1.479713166,0.2,13,reviewed,tx,tx
 2023-03-24T16:10:38.180Z,33.1826667,-116.4125,10.64,1.38,ml,49,31,0.08539,0.23,ci,ci40189407,2023-03-24T16:22:15.930Z,"9km SSW of Borrego Springs, CA",earthquake,0.25,0.64,0.168,24,automatic,ci,ci
-2023-03-24T16:10:15.160Z,45.31666666666667,-121.84316666666666,5.78,0.63,ml,11,246,0.04521,0.11,uw,uw61904627,2023-03-24T17:44:04.090Z,"7 km WNW of Government Camp, Oregon",earthquake,0.45,0.57,0.0324814140361413,5,reviewed,uw,uw
 2023-03-24T16:09:16.941Z,59.7012,-153.7342,90.4,1.9,ml,,,,1.04,ak,ak0233tj6oyn,2023-03-24T17:50:09.716Z,"23 km ESE of Pedro Bay, Alaska",earthquake,,5.2,,,reviewed,ak,ak
 2023-03-24T16:03:57.540Z,45.310833333333335,-121.82983333333334,6.77,0.32,ml,8,240,0.03418,0.05,uw,uw61904622,2023-03-24T17:36:32.230Z,"5 km W of Government Camp, Oregon",earthquake,0.35,0.63,0.14448633495669244,4,reviewed,uw,uw
 2023-03-24T15:51:51.184Z,63.0821,-150.6005,95.5,1.7,ml,,,,0.63,ak,ak0233tiucj2,2023-03-24T15:53:47.997Z,"65 km N of Petersville, Alaska",earthquake,,2.4,,,automatic,ak,ak

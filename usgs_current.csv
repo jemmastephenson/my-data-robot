@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-26T11:49:19.800Z,38.8338318,-122.7990036,2.12,0.7,md,8,75,0.008163,0.01,nc,nc73862515,2023-03-26T11:50:58.500Z,"7km W of Cobb, CA",earthquake,0.53,1.69,0.12,8,automatic,nc,nc
+2023-03-26T11:49:06.630Z,38.8274994,-122.7945023,0.72,0.42,md,6,139,0.01137,0.01,nc,nc73862510,2023-03-26T11:50:42.526Z,"6km W of Cobb, CA",earthquake,0.47,1.23,0.3,8,automatic,nc,nc
 2023-03-26T11:42:52.310Z,33.6918333,-116.7091667,15.93,0.65,ml,16,103,0.01973,0.12,ci,ci40190199,2023-03-26T11:46:21.236Z,"5km S of Idyllwild, CA",earthquake,0.34,0.56,0.15,11,automatic,ci,ci
 2023-03-26T11:24:30.630Z,36.2408333,-120.8131638,6.58,2.19,md,31,77,0.02667,0.13,nc,nc73862505,2023-03-26T11:31:13.562Z,"22km NE of San Lucas, CA",earthquake,0.33,0.52,0.2,26,automatic,nc,nc
 2023-03-26T11:21:12.320Z,61.7378,-151.412,70.7,1.1,ml,,,,0.21,ak,ak0233wrcsm8,2023-03-26T11:23:18.350Z,"Southern Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -210,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T12:13:54.350Z,33.444,-116.6335,4.56,0.65,ml,29,88,0.05693,0.17,ci,ci40189735,2023-03-25T14:58:41.280Z,"13km SSE of Anza, CA",earthquake,0.22,0.42,0.122,17,reviewed,ci,ci
 2023-03-25T12:03:44.617Z,22.6673,95.3275,9.98,4.3,mb,18,136,2.467,0.38,us,us7000jmp2,2023-03-25T12:24:08.040Z,"39 km WNW of Shwebo, Myanmar",earthquake,6.41,6.276,0.16,11,reviewed,us,us
 2023-03-25T11:59:33.180Z,38.7885017,-122.7616653,2.19,0.78,md,14,64,0.0122,0.03,nc,nc73862060,2023-03-25T12:18:11.448Z,"1km NNW of The Geysers, CA",earthquake,0.28,0.7,0.09,15,automatic,nc,nc
-2023-03-25T11:50:08.840Z,17.9675,-66.96,6.45,2.85,md,6,188,0.07722,0.07,pr,pr71401483,2023-03-25T12:18:23.030Z,"5 km WSW of Fuig, Puerto Rico",earthquake,1.23,0.89,0.0580313776645638,5,reviewed,pr,pr

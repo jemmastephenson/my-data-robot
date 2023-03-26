@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-26T09:22:09.290Z,38.8294983,-122.8551636,2.45,0.58,md,8,125,0.01484,0.01,nc,nc73862470,2023-03-26T09:23:43.492Z,"10km NW of The Geysers, CA",earthquake,0.41,1.42,0.31,8,automatic,nc,nc
+2023-03-26T09:22:09.290Z,38.8294983,-122.8551636,2.45,0.58,md,8,125,0.01484,0.01,nc,nc73862470,2023-03-26T09:39:10.894Z,"10km NW of The Geysers, CA",earthquake,0.41,1.42,0.31,8,automatic,nc,nc
 2023-03-26T09:13:27.463Z,62.2237,-150.1091,22.3,1.5,ml,,,,0.53,ak,ak0233wq48ui,2023-03-26T09:15:22.930Z,"11 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-26T09:08:54.490Z,19.1650009155273,-155.49299621582,32.9599990844727,1.84000003,md,31,157,,0.140000001,hv,hv73349542,2023-03-26T09:12:13.250Z,"Island of Hawaii, Hawaii",earthquake,0.68,1.07000005,0.180000007,5,automatic,hv,hv
 2023-03-26T08:57:09.252Z,62.2184,-149.4708,16.7,1.3,ml,,,,0.44,ak,ak0233wps7cd,2023-03-26T08:59:25.075Z,"20 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak

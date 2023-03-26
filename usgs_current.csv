@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-26T05:23:54.050Z,38.8380013,-122.8378296,1.98,1.12,md,9,119,0.001921,0.02,nc,nc73862405,2023-03-26T05:25:31.854Z,"10km NW of The Geysers, CA",earthquake,0.34,0.81,0.19,9,automatic,nc,nc
+2023-03-26T05:23:54.050Z,38.8380013,-122.8378296,1.98,1.12,md,9,119,0.001921,0.02,nc,nc73862405,2023-03-26T05:27:54.690Z,"10km NW of The Geysers, CA",earthquake,0.34,0.81,0.19,9,automatic,nc,nc
 2023-03-26T05:05:10.444Z,63.4985,-147.3055,0,1.9,ml,,,,0.37,ak,ak0233wnordw,2023-03-26T05:06:57.932Z,"82 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-26T05:01:00.850Z,36.185,-118.0555,2.41,1.19,ml,10,139,0.1758,0.11,ci,ci40189951,2023-03-26T05:04:44.766Z,"12km SSW of Olancha, CA",earthquake,0.27,0.97,0.159,11,automatic,ci,ci
 2023-03-26T04:58:09.220Z,19.1709995269775,-155.491668701172,34.9599990844727,2.35,ml,38,151,,0.129999995,hv,hv73349422,2023-03-26T05:11:09.040Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.67,0.839999974,2.74,10,automatic,hv,hv
@@ -226,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T05:59:38.030Z,46.85666666666667,-121.757,1.26,0.38,ml,18,92,0.02209,0.09,uw,uw61904732,2023-03-26T04:02:37.580Z,"23 km ENE of Ashford, Washington",earthquake,0.26,0.44,0.06407146450744225,6,reviewed,uw,uw
 2023-03-25T05:51:21.212Z,63.0193,-151.5563,8.5,1.9,ml,,,,0.22,ak,ak0233v0fant,2023-03-25T05:52:53.654Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-25T05:46:02.702Z,58.1775,-155.399,2.7,0.5,ml,,,,0.81,ak,ak0233v0e6ni,2023-03-25T05:47:46.408Z,"87 km NW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-03-25T05:31:51.090Z,19.1478328704834,-155.358505249023,29.5300006866455,1.97000003,md,36,190,,0.129999995,hv,hv73348792,2023-03-25T05:34:56.630Z,"Island of Hawaii, Hawaii",earthquake,0.7,0.850000024,0.819999993,17,automatic,hv,hv
-2023-03-25T05:27:34.724Z,63.3043,-145.1723,2.5,2.3,ml,,,,0.7,ak,ak0233v0a6io,2023-03-25T05:29:53.418Z,"32 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak

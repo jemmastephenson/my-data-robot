@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-26T04:07:41.730Z,38.8214989,-122.805336,2.79,1.04,md,22,40,0.004157,0.02,nc,nc73862380,2023-03-26T04:19:11.273Z,"6km NW of The Geysers, CA",earthquake,0.23,0.58,0.11,22,automatic,nc,nc
+2023-03-26T04:07:41.730Z,38.8214989,-122.805336,2.79,1.04,md,22,40,0.004157,0.02,nc,nc73862380,2023-03-26T04:27:16.198Z,"6km NW of The Geysers, CA",earthquake,0.23,0.58,0.11,22,automatic,nc,nc
+2023-03-26T04:06:48.245Z,54.3886,-159.7074,35,3.3,ml,26,199,1.061,0.92,us,us7000jmsz,2023-03-26T04:24:22.040Z,"south of Alaska",earthquake,7.67,2.021,0.088,17,reviewed,us,us
 2023-03-26T04:05:49.700Z,38.8216667,-122.8036652,3.38,2.36,md,45,34,0.005295,0.06,nc,nc73862375,2023-03-26T04:12:10.113Z,"6km NW of The Geysers, CA",earthquake,0.19,0.27,0.19,47,automatic,nc,nc
 2023-03-26T03:58:14.337Z,18.8957,-67.7734,35,2.8,ml,13,187,0.69,0.64,us,us7000jmss,2023-03-26T04:05:54.040Z,"75 km ENE of Punta Cana, Dominican Republic",earthquake,5.65,2.011,0.074,24,reviewed,us,us
 2023-03-26T03:54:14.443Z,59.4769,-152.8309,89.5,1.8,ml,,,,0.28,ak,ak0233wmsf6n,2023-03-26T03:56:15.917Z,"53 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -229,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T04:40:43.660Z,62.0716,-149.4805,59.9,1.4,ml,,,,0.73,ak,ak0233uzrjwu,2023-03-25T04:42:43.112Z,"21 km ESE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-25T04:39:34.022Z,37.9894,36.9839,10,4.4,mb,47,57,0.488,0.97,us,us7000jmme,2023-03-25T04:57:37.040Z,"19 km WSW of Ekinözü, Turkey",earthquake,5.28,1.923,0.115,22,reviewed,us,us
 2023-03-25T04:38:26.110Z,34.142,-117.4091667,2.71,1.11,ml,23,63,0.0527,0.17,ci,ci40189679,2023-03-25T04:41:57.731Z,"5km NW of Rialto, CA",earthquake,0.29,0.51,0.138,30,automatic,ci,ci
-2023-03-25T04:32:11.250Z,35.4933333,-118.459,4.21,2.73,ml,38,29,0.1695,0.18,ci,ci40189671,2023-03-25T16:30:09.827Z,"11km SSE of Bodfish, CA",earthquake,0.21,1.06,0.211,25,automatic,ci,ci

@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-27T03:37:59.380Z,38.7989998,-122.7543335,1.79,1.29,md,24,95,0.004505,0.03,nc,nc73862815,2023-03-27T03:39:35.628Z,"2km N of The Geysers, CA",earthquake,0.25,0.4,0.21,24,automatic,nc,nc
+2023-03-27T03:37:59.380Z,38.7989998,-122.7543335,1.79,1.29,md,24,95,0.004505,0.03,nc,nc73862815,2023-03-27T03:50:11.401Z,"2km N of The Geysers, CA",earthquake,0.25,0.4,0.21,24,automatic,nc,nc
 2023-03-27T03:29:06.960Z,19.0095,-65.038,12.07,3.26,md,6,277,0.6582,0.22,pr,pr71401708,2023-03-27T03:41:57.550Z,"74 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.2,3.29,0.0216891460649729,3,reviewed,pr,pr
 2023-03-27T03:22:34.060Z,33.7646667,-116.938,13.29,1.11,ml,38,36,0.04989,0.22,ci,ci40190399,2023-03-27T03:26:11.504Z,"3km SE of San Jacinto, CA",earthquake,0.28,0.54,0.163,26,automatic,ci,ci
 2023-03-27T03:17:28.545Z,62.4015,-149.7298,63.6,1,ml,,,,0.28,ak,ak0233ya3unq,2023-03-27T03:20:22.660Z,"19 km ESE of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak

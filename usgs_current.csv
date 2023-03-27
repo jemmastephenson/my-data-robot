@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-27T05:50:19.256Z,60.2997,-151.4246,58.8,1.2,ml,,,,0.48,ak,ak0233ybhrs5,2023-03-27T05:52:08.981Z,"Kenai Peninsula, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-03-27T05:20:16.680Z,37.3037,-117.6584,2.9,0.3,ml,9,169.51,0.072,0.343,nn,nn00857523,2023-03-27T05:21:30.746Z,"50 km S of Silver Peak, Nevada",earthquake,,2.1,1.01,7,automatic,nn,nn
 2023-03-27T04:53:13.028Z,43.3548,-126.8521,10,4,mb,50,192,1.557,0.78,us,us7000jmyr,2023-03-27T05:13:23.857Z,"200 km W of Bandon, Oregon",earthquake,3.49,1.994,0.139,14,reviewed,us,us
 2023-03-27T04:50:00.624Z,53.5347,-170.5969,204.207,4.2,mb,41,130,1.189,0.81,us,us7000jmyq,2023-03-27T05:20:12.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,12.61,11.996,0.079,45,reviewed,us,us

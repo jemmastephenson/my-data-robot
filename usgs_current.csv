@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-31T11:09:13.890Z,36.0756667,-117.6528333,2.05,1.84,ml,18,107,0.1173,0.12,ci,ci39508034,2023-03-31T11:19:51.540Z,"27km E of Coso Junction, CA",earthquake,0.28,0.76,0.16,19,automatic,ci,ci
 2023-03-31T10:53:07.210Z,38.8349991,-122.8048325,-0.85,0.35,md,7,80,0.02072,0.17,nc,nc73864835,2023-03-31T11:06:11.353Z,"7km WNW of Cobb, CA",earthquake,0.48,5.09,0.2,8,automatic,nc,nc
 2023-03-31T10:48:07.016Z,36.8289,-115.9515,3,1.2,ml,27,71.11,0.031,0.1661,nn,nn00857713,2023-03-31T10:49:42.976Z,"38 km NW of Indian Springs, Nevada",earthquake,,0.5,0.85,18,automatic,nn,nn
 2023-03-31T10:46:22.431Z,-24.7616,-70.1594,53.385,5.2,mww,69,93,0.26,0.98,us,us6000k138,2023-03-31T11:07:35.040Z,"78 km NNE of Taltal, Chile",earthquake,4.05,3.154,0.086,13,reviewed,us,us
@@ -109,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T00:02:49.740Z,33.1208333,-116.532,11.36,2.11,ml,66,30,0.08991,0.16,ci,ci39507914,2023-03-31T00:37:32.990Z,"8km NE of Julian, CA",earthquake,0.16,0.58,0.183,25,reviewed,ci,ci
 2023-03-31T00:02:02.421Z,58.296,-154.9006,1.1,2.4,ml,,,,0.28,ak,ak02344udo2a,2023-03-31T00:21:47.917Z,"85 km NNW of Karluk, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2023-03-30T23:59:52.206Z,62.8711,-150.6963,83.2,1.2,ml,,,,0.61,ak,ak02343kvm50,2023-03-31T00:02:34.571Z,"41 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-03-30T23:59:07.280Z,61.5878,-149.8665,45,1.3,ml,,,,0.79,ak,ak02343kvio8,2023-03-31T00:01:19.856Z,"Southern Alaska",earthquake,,1.8,,,automatic,ak,ak
+2023-03-30T23:59:07.280Z,61.5878,-149.8665,45,1.3,ml,,,,0.79,ak,ak02343kvio8,2023-03-31T00:01:19.856Z,"5 km SSW of Houston, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-03-30T23:58:24.960Z,46.103,-122.0705,6.45,0.46,ml,11,182,0.02187,0.17,uw,uw61905967,2023-03-31T00:16:36.230Z,"36 km NE of Amboy, Washington",earthquake,0.78,1.69,0.1989367645210054,10,reviewed,uw,uw
 2023-03-30T23:58:07.430Z,19.2348327636719,-155.382659912109,31.6100006103516,2.07999992,md,25,147,,0.129999995,hv,hv73353002,2023-03-31T00:01:09.980Z,"Island of Hawaii, Hawaii",earthquake,1.24,0.860000014,0.189999998,5,automatic,hv,hv
 2023-03-30T23:56:56.113Z,58.3054,-154.9282,0,0.5,ml,,,,0.22,ak,ak02343kuzct,2023-03-30T23:59:50.688Z,"86 km NNW of Karluk, Alaska",earthquake,,29.2,,,automatic,ak,ak
@@ -232,6 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T11:23:23.325Z,56.1406,-152.1955,11.6,2.7,ml,,,,0.95,ak,ak02343dimk4,2023-03-30T19:48:07.864Z,"136 km SSE of Old Harbor, Alaska",earthquake,,5.8,,,reviewed,ak,ak
 2023-03-30T11:22:21.780Z,60.0511666666667,-153.087333333333,2.04,-0.8,ml,4,134,,0.14,av,av91825746,2023-03-31T05:06:47.910Z,"64 km ENE of Pedro Bay, Alaska",earthquake,1.03,1.46,0.0563995338455192,4,reviewed,av,av
 2023-03-30T11:22:17.370Z,35.235,-97.73333333,4.72,1.89,ml,55,32,0.01799646848,0.3,ok,ok2023gfqu,2023-03-30T14:05:05.049Z,"0 km E of Bridge Creek, Oklahoma",earthquake,,0.6,0.36,6,reviewed,ok,ok
-2023-03-30T11:19:15.600Z,51.8406666666667,-178.106833333333,-1.8,0.77,ml,4,230,,0.15,av,av91825741,2023-03-31T05:04:27.010Z,"101 km W of Adak, Alaska",earthquake,1.94,2.64,0.254392349142653,4,reviewed,av,av
-2023-03-30T11:18:13.120Z,37.6161667,-122.4628333,7.61,0.87,md,19,109,0.02305,0.05,nc,nc73864415,2023-03-30T20:59:11.647Z,"2km E of Pacifica, CA",earthquake,0.26,0.35,0.203,13,reviewed,nc,nc
-2023-03-30T11:15:32.300Z,62.3584,-149.179,0,1.3,ml,,,,0.55,ak,ak02343dgxu5,2023-03-30T11:17:51.180Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak

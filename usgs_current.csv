@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-31T08:23:32.410Z,35.5008333,-118.3883333,9.34,1,ml,17,65,0.176,0.12,ci,ci39508002,2023-03-31T08:27:00.610Z,"14km SE of Bodfish, CA",earthquake,0.23,0.94,0.13,10,automatic,ci,ci
+2023-03-31T08:23:32.410Z,35.5008333,-118.3883333,9.34,1,ml,17,65,0.176,0.12,ci,ci39508002,2023-03-31T08:39:42.564Z,"14km SE of Bodfish, CA",earthquake,0.23,0.94,0.13,10,automatic,ci,ci
 2023-03-31T08:13:44.877Z,60.9978,-152.2485,116,2.1,ml,,,,0.47,ak,ak02344z7l1v,2023-03-31T08:16:49.414Z,"60 km W of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-31T08:11:24.220Z,33.7156667,-116.763,16.18,1.13,ml,40,35,0.04095,0.17,ci,ci39507994,2023-03-31T08:15:04.802Z,"5km WSW of Idyllwild, CA",earthquake,0.2,0.4,0.188,27,automatic,ci,ci
 2023-03-31T07:55:45.842Z,59.9409,-152.3939,97.5,1.8,ml,,,,0.2,ak,ak02344yv5lk,2023-03-31T07:57:16.933Z,"36 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak

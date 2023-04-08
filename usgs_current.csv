@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-08T14:20:17.240Z,33.7075,-116.8083333,14.47,0.61,ml,13,176,0.07858,0.14,ci,ci40438328,2023-04-08T14:23:40.033Z,"9km WSW of Idyllwild, CA",earthquake,0.51,0.41,0.194,12,automatic,ci,ci
 2023-04-08T13:53:11.118Z,64.5454,-150.1326,5,1.4,ml,,,,0.28,ak,ak0234iaq12f,2023-04-08T13:54:42.339Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-08T13:50:10.230Z,34.0405,-116.872,17.71,0.92,ml,23,68,0.0536,0.27,ci,ci40438296,2023-04-08T13:53:38.866Z,"13km N of Banning, CA",earthquake,0.5,0.95,0.26,22,automatic,ci,ci
 2023-04-08T13:28:27.321Z,63.7942,-149.288,28.8,1.4,ml,,,,1.33,ak,ak0234iakpf0,2023-04-08T13:30:50.556Z,"17 km WSW of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -247,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T14:37:26.133Z,58.1544,-155.4482,15.4,0.9,ml,,,,0.63,ak,ak0234gnopvp,2023-04-07T23:21:56.500Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-04-07T14:35:46.844Z,63.436,-147.227,34.9,1.3,ml,,,,0.49,ak,ak0234gnobv8,2023-04-07T14:39:17.736Z,"86 km E of Cantwell, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-04-07T14:30:31.170Z,37.5125,-118.7483333,3.54,1.11,md,8,266,0.1006,0.03,nc,nc73868580,2023-04-07T20:20:13.007Z,"8km SW of Toms Place, CA",earthquake,2.62,1.87,0.122,7,reviewed,nc,nc
-2023-04-07T14:15:03.930Z,53.874,-166.566833333333,6.2,0.73,ml,14,111,,0.19,av,av91838686,2023-04-07T20:48:20.120Z,"2 km W of Unalaska, Alaska",earthquake,0.46,0.73,0.199419556758864,13,reviewed,av,av

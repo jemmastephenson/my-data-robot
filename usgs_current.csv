@@ -311,6 +311,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T08:51:13.651Z,62.8061,-150.5685,79.2,2.6,ml,,,,0.51,ak,ak0234lit4rf,2023-04-10T08:53:20.876Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-10T08:50:35.670Z,53.8611666666667,-166.606,6.13,-0.6,ml,4,191,,0.06,av,av91842396,2023-04-11T03:02:17.680Z,"4 km WSW of Unalaska, Alaska",earthquake,0.56,0.65,0.302980774357179,4,reviewed,av,av
 2023-04-10T08:50:12.680Z,38.7879982,-122.7630005,1.9,0.25,md,9,110,0.01738,0.02,nc,nc73870165,2023-04-10T09:26:10.652Z,"1km NNW of The Geysers, CA",earthquake,0.51,1.09,0.04,8,automatic,nc,nc
-2023-04-10T08:39:12.690Z,33.0105,-116.27,5.52,0.47,ml,13,155,0.06241,0.16,ci,ci40439160,2023-04-10T21:03:35.851Z,"20km SW of Ocotillo Wells, CA",earthquake,0.39,1.29,0.146,9,reviewed,ci,ci
-2023-04-10T08:37:06.380Z,53.8633333333333,-166.790166666667,8.35,2.07,ml,18,122,,0.16,av,av91842381,2023-04-11T03:08:05.200Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.43,0.25,0.251732398584317,17,reviewed,av,av
-2023-04-10T08:33:24.108Z,-32.3637,-71.4382,51.829,4.1,mb,32,142,0.506,0.62,us,us6000k38q,2023-04-10T14:45:16.040Z,"Near the coast of Valparaiso, Chile",earthquake,3.74,7.28,0.213,6,reviewed,us,us

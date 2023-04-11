@@ -125,9 +125,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T00:48:28.930Z,33.5263333,-116.7281667,5.15,0.46,ml,19,84,0.0397,0.1,ci,ci40439472,2023-04-11T14:10:15.177Z,"6km WSW of Anza, CA",earthquake,0.21,0.36,0.166,5,reviewed,ci,ci
 2023-04-11T00:36:59.823Z,58.1385,-156.3575,4.5,1.1,ml,,,,0.71,ak,ak0234n1hzfi,2023-04-11T13:44:33.508Z,"60 km E of Egegik, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-04-11T00:24:03.800Z,33.707,-116.7625,15.53,0.91,ml,36,39,0.0405,0.16,ci,ci40439464,2023-04-11T00:27:34.983Z,"6km SW of Idyllwild, CA",earthquake,0.23,0.35,0.215,26,automatic,ci,ci
+2023-04-11T00:24:01.450Z,36.2068333333333,-89.4985,4.41,1.43,md,7,116,0.03587,0.23,nm,nm60500603,2023-04-11T14:22:53.200Z,"6 km S of Ridgely, Tennessee",earthquake,0.81,2.05,0.137578010060774,7,reviewed,nm,nm
 2023-04-11T00:23:32.030Z,62.2695,-151.1076,73,1.4,ml,,,,0.34,ak,ak0234n1f1tf,2023-04-11T00:26:43.391Z,"30 km SW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-11T00:21:58.620Z,53.8623333333333,-166.791333333333,7.35,0.63,ml,7,123,,0.15,av,av91097308,2023-04-11T00:42:35.720Z,"16 km W of Dutch Harbor, Alaska",earthquake,0.45,0.82,0.208223041581163,7,reviewed,av,av
 2023-04-11T00:21:40.820Z,53.9303333333333,-166.753833333333,4.32,0.6,ml,7,175,,0.12,av,av91843591,2023-04-11T00:40:30.040Z,"14 km WNW of Dutch Harbor, Alaska",earthquake,0.36,0.6,0.106747987322567,7,reviewed,av,av
+2023-04-11T00:20:15.290Z,36.2061666666667,-89.502,4.16,1.43,md,6,111,0.03509,0.22,nm,nm60500598,2023-04-11T14:30:06.290Z,"6 km SSW of Ridgely, Tennessee",earthquake,0.59,2.04,0.0666901521326396,6,reviewed,nm,nm
 2023-04-11T00:18:13.727Z,60.2771,-152.3261,85.4,1.8,ml,,,,0.23,ak,ak0234n1dxto,2023-04-11T00:19:33.587Z,"44 km NW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-11T00:16:21.860Z,19.3934993743896,-155.317337036133,3.52999997138977,1.85,ml,26,70,,0.25,hv,hv73360932,2023-04-11T00:21:52.430Z,"10 km WSW of Volcano, Hawaii",earthquake,0.42,0.699999988,0.24,3,automatic,hv,hv
 2023-04-10T23:58:13.667Z,-15.1727,167.5053,128.472,5.1,mb,90,39,0.399,0.6,us,us6000k3ds,2023-04-11T00:24:32.040Z,"48 km ESE of Port-Olry, Vanuatu",earthquake,6.28,3.538,0.067,72,reviewed,us,us

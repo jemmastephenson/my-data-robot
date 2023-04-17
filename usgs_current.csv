@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-17T05:22:01.000Z,33.1586667,-116.5665,14.17,1.02,ml,38,40,0.07886,0.24,ci,ci40441744,2023-04-17T05:25:41.594Z,"10km NNE of Julian, CA",earthquake,0.28,0.69,0.176,27,automatic,ci,ci
+2023-04-17T05:27:13.520Z,19.1299991607666,-155.897994995117,42.4700012207031,3.39,ml,47,225,,0.109999999,hv,hv73366297,2023-04-17T05:33:25.653Z,"15 km WNW of Hawaiian Ocean View, Hawaii",earthquake,0.53,0.620000005,1.83,23,automatic,hv,hv
+2023-04-17T05:22:01.000Z,33.1586667,-116.5665,14.17,1.02,ml,38,40,0.07886,0.24,ci,ci40441744,2023-04-17T05:33:12.010Z,"10km NNE of Julian, CA",earthquake,0.28,0.69,0.176,27,automatic,ci,ci
 2023-04-17T05:15:14.561Z,62.9331,-150.92,104,2.1,ml,,,,0.67,ak,ak0234x1kjq8,2023-04-17T05:17:26.318Z,"49 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-17T04:57:33.050Z,19.1768341064453,-155.492828369141,32.6800003051758,1.80999994,md,26,95,,0.180000007,hv,hv73366277,2023-04-17T05:00:47.880Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.7,1.14999998,1.80999994,4,automatic,hv,hv
 2023-04-17T04:38:27.506Z,-8.4254,107.7916,35,4.8,mb,52,103,0.967,0.98,us,us6000k4z3,2023-04-17T05:24:19.922Z,"123 km SSW of Singaparna, Indonesia",earthquake,6.93,1.927,0.087,41,reviewed,us,us

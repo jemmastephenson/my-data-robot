@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-19T06:43:02.880Z,33.8286667,-117.6625,2.56,2.12,ml,64,30,0.05556,0.22,ci,ci40442632,2023-04-19T07:19:11.377Z,"10km WSW of Corona, CA",earthquake,0.19,0.38,0.203,25,automatic,ci,ci
 2023-04-19T06:37:00.360Z,35.79016667,-96.96533333,7.95,2.6,ml,78,32,0,0.13,ok,ok2023hpvk,2023-04-19T12:50:17.712Z,"4 km ESE of Carney, Oklahoma",earthquake,,0.6,0.24,48,reviewed,ok,ok
 2023-04-19T06:35:44.930Z,35.851,-117.7643333,0.15,1.45,ml,10,157,0.04235,0.3,ci,ci40442624,2023-04-19T06:39:27.520Z,"16km SE of Little Lake, CA",earthquake,0.95,31.61,0.13,12,automatic,ci,ci
-2023-04-19T06:31:25.260Z,33.5305,-117.3331667,14.8,1.36,ml,30,102,0.1414,0.13,ci,ci40442616,2023-04-19T06:35:05.748Z,"9km SSW of Wildomar, CA",earthquake,0.22,0.51,0.206,30,automatic,ci,ci
+2023-04-19T06:31:25.260Z,33.5305,-117.3331667,14.8,1.36,ml,30,102,0.1414,0.13,ci,ci40442616,2023-04-19T13:45:39.120Z,"9km SSW of Wildomar, CA",earthquake,0.22,0.51,0.206,30,reviewed,ci,ci
 2023-04-19T06:25:54.385Z,63.5292,-147.291,5,1.2,ml,,,,0.49,ak,ak02350dawkp,2023-04-19T06:29:17.925Z,"83 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-19T06:11:07.320Z,38.8180008,-122.8228302,2.22,0.74,md,12,86,0.01038,0.01,nc,nc73875355,2023-04-19T07:25:12.986Z,"7km NW of The Geysers, CA",earthquake,0.36,0.77,0.16,14,automatic,nc,nc
 2023-04-19T05:59:21.160Z,17.9308333333333,-66.6206666666667,10.56,2.2,md,4,266,0.1122,0.13,pr,pr71405868,2023-04-19T06:11:11.880Z,"8 km S of Ponce, Puerto Rico",earthquake,1.09,1.81,0.0713393319726472,3,reviewed,pr,pr
@@ -123,7 +123,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-19T00:48:52.500Z,18.109,-65.9938333333333,69.91,2.94,md,12,126,0.1417,0.13,pr,pr71405793,2023-04-19T01:13:49.760Z,"5 km S of Jagual, Puerto Rico",earthquake,1.36,0.73,0.156851922655692,11,reviewed,pr,pr
 2023-04-19T00:42:07.040Z,19.4231666666667,-155.613,-2.37,1.1,md,8,158,,0.12,hv,hv73368707,2023-04-19T02:50:22.480Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.39,0.35,0.101528035258075,4,reviewed,hv,hv
 2023-04-19T00:33:35.300Z,19.398,-155.2605,1.61,1.96,ml,22,62,,0.07,hv,hv73368697,2023-04-19T03:08:11.700Z,"Island of Hawaii, Hawaii",earthquake,0.16,0.15,0.0624740899977647,6,reviewed,hv,hv
-2023-04-19T00:33:06.320Z,33.1489983,-116.4785004,18.9,1.01,ml,17,82,0.4098,0.44,ci,ci40442560,2023-04-19T00:36:33.718Z,"14km NE of Julian, CA",earthquake,1.33,10.34,0.275,7,automatic,ci,ci
 2023-04-19T00:25:46.640Z,36.442,-96.88,5.16,0.96,ml,26,87,0.05308958201,0.15,ok,ok2023hpje,2023-04-19T12:38:07.943Z,"13 km NNW of Pawnee, Oklahoma",earthquake,,0.4,0.16,10,reviewed,ok,ok
 2023-04-19T00:25:20.540Z,36.4378319,-121.0131683,8.58,1.9,md,16,74,0.04011,0.11,nc,nc73875295,2023-04-19T01:11:14.545Z,"16km SE of Pinnacles, CA",earthquake,0.35,0.81,0.17,15,automatic,nc,nc
 2023-04-19T00:22:13.336Z,60.8266,-150.7957,15.7,1.6,ml,,,,0.48,ak,ak023509pklx,2023-04-19T00:23:45.615Z,"12 km SSW of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak

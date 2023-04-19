@@ -1,11 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-19T07:10:25.653Z,36.27788544,-97.48329163,2.81735301,2.04,ml,17,58.50958252,0.05628036335,0.5923261697,ok,ok2023hpwn,2023-04-19T07:12:07.448Z,"2 km W of Lucien, Oklahoma",earthquake,2.97853033,2.264135952,0.27,7,automatic,ok,ok
+2023-04-19T07:10:25.653Z,36.27788544,-97.48329163,2.81735301,2.04,ml,17,58.50958252,0.05628036335,0.5923261697,ok,ok2023hpwn,2023-04-19T07:13:38.389Z,"2 km W of Lucien, Oklahoma",earthquake,2.97853033,2.264135952,0.24,10,automatic,ok,ok
 2023-04-19T07:05:55.930Z,33.6783333,-116.6838333,16,0.61,ml,18,130,0.04138,0.13,ci,ci40442656,2023-04-19T07:09:29.348Z,"8km SSE of Idyllwild, CA",earthquake,0.37,0.47,0.16,13,automatic,ci,ci
 2023-04-19T06:56:52.880Z,17.9495,-66.9668333333333,11.77,2.55,md,4,221,0.08715,0.07,pr,pr71405878,2023-04-19T07:06:29.110Z,"6 km WSW of Guánica, Puerto Rico",earthquake,1.05,0.49,0.0394415178029339,3,reviewed,pr,pr
 2023-04-19T06:55:36.690Z,33.825,-117.6685,2.89,1.19,ml,20,62,0.05768,0.22,ci,ci40442648,2023-04-19T06:59:15.789Z,"11km WSW of Corona, CA",earthquake,0.29,0.4,0.124,28,automatic,ci,ci
 2023-04-19T06:51:12.820Z,68.8768,-145.0836,0,2.8,ml,,,,0.84,ak,ak02350dgdwf,2023-04-19T06:53:53.284Z,"85 km NNE of Arctic Village, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-04-19T06:47:48.950Z,33.824,-117.6703333,2.56,1.38,ml,31,36,0.0585,0.27,ci,ci40442640,2023-04-19T06:58:34.280Z,"11km WSW of Corona, CA",earthquake,0.34,0.51,0.15,28,automatic,ci,ci
-2023-04-19T06:43:02.880Z,33.8286667,-117.6625,2.56,2.12,ml,64,30,0.05556,0.22,ci,ci40442632,2023-04-19T06:46:47.562Z,"10km WSW of Corona, CA",earthquake,0.19,0.38,0.203,25,automatic,ci,ci
+2023-04-19T06:43:02.880Z,33.8286667,-117.6625,2.56,2.12,ml,64,30,0.05556,0.22,ci,ci40442632,2023-04-19T07:19:11.377Z,"10km WSW of Corona, CA",earthquake,0.19,0.38,0.203,25,automatic,ci,ci
 2023-04-19T06:37:00.790Z,35.79895782,-96.97168732,1.657147288,2.68,ml,53,30.83778381,0.1803702563,0.6395783441,ok,ok2023hpvk,2023-04-19T07:02:21.040Z,"3 km ESE of Carney, Oklahoma",earthquake,1.567933574,1.326856407,0.23,43,automatic,ok,ok
 2023-04-19T06:35:44.930Z,35.851,-117.7643333,0.15,1.45,ml,10,157,0.04235,0.3,ci,ci40442624,2023-04-19T06:39:27.520Z,"16km SE of Little Lake, CA",earthquake,0.95,31.61,0.13,12,automatic,ci,ci
 2023-04-19T06:31:25.260Z,33.5305,-117.3331667,14.8,1.36,ml,30,102,0.1414,0.13,ci,ci40442616,2023-04-19T06:35:05.748Z,"9km SSW of Wildomar, CA",earthquake,0.22,0.51,0.206,30,automatic,ci,ci
@@ -195,7 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-18T07:50:51.360Z,37.3247,-116.4225,7.9,-0.1,ml,7,237.8,0.033,0.1622,nn,nn00858370,2023-04-18T18:27:52.295Z,"55 km NNE of Beatty, Nevada",earthquake,,1.8,0.8,4,reviewed,nn,nn
 2023-04-18T07:44:56.420Z,38.8204994,-122.7853317,2.14,0.76,md,9,102,0.00809,0.01,nc,nc73875005,2023-04-18T07:46:30.782Z,"5km W of Cobb, CA",earthquake,0.45,1.44,0.27,9,automatic,nc,nc
 2023-04-18T07:32:34.133Z,39.3979,-119.5124,10,1.2,ml,5,251.05,0.148,0.0794,nn,nn00858369,2023-04-18T18:15:28.871Z,"12 km WNW of Stagecoach, Nevada",earthquake,,11.8,0.47,3,reviewed,nn,nn
-2023-04-18T07:20:41.781Z,64.6166,-147.9765,10.3,1.1,ml,,,,0.56,ak,ak0234yqbw42,2023-04-18T07:23:09.486Z,"23 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-18T07:19:25.670Z,17.9563333333333,-66.9666666666667,7.29,2.38,md,8,204,0.07496,0.11,pr,pr71405678,2023-04-18T07:32:27.880Z,"Puerto Rico region",earthquake,0.7,0.28,0.0410053617606776,3,reviewed,pr,pr
-2023-04-18T07:15:15.950Z,37.5958333,-122.4556667,7.77,0.78,md,15,84,0.03137,0.06,nc,nc73875000,2023-04-18T10:41:15.183Z,"3km SE of Pacifica, CA",earthquake,0.24,0.35,0.34,12,reviewed,nc,nc
-2023-04-18T07:14:14.977Z,63.5727,-150.0874,104,1.5,ml,,,,0.61,ak,ak0234yqajqx,2023-04-18T07:16:36.894Z,"60 km WNW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak

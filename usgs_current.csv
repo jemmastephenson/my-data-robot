@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-20T21:22:07.500Z,36.5154991,-121.0851669,8.58,1.58,md,5,159,0.0728,0.01,nc,nc73875965,2023-04-20T21:23:44.510Z,"6km ESE of Pinnacles, CA",earthquake,1.05,2.57,0.18,5,automatic,nc,nc
 2023-04-20T21:17:09.350Z,38.8453331,-122.8223343,7.83,0.6,md,8,117,0.009347,0.04,nc,nc73875960,2023-04-20T21:18:44.124Z,"9km WNW of Cobb, CA",earthquake,1.65,7.31,0.38,8,automatic,nc,nc
 2023-04-20T21:14:20.070Z,19.2411670684814,-155.399993896484,31.1100006103516,2.13000011,md,32,135,,0.109999999,hv,hv73370667,2023-04-20T21:17:31.130Z,"Island of Hawaii, Hawaii",earthquake,0.68,0.860000014,0.270000011,5,automatic,hv,hv
 2023-04-20T21:07:10.417Z,65.0085,-147.0656,1.2,1.2,ml,,,,0.47,ak,ak023529nsu9,2023-04-20T21:08:34.919Z,"15 km N of Two Rivers, Alaska",earthquake,,4.6,,,automatic,ak,ak
@@ -51,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T16:22:56.860Z,33.3858333,-116.4125,11.95,0.58,ml,17,66,0.07011,0.13,ci,ci40443120,2023-04-20T17:14:46.762Z,"15km NNW of Borrego Springs, CA",earthquake,0.28,0.93,0.105,7,reviewed,ci,ci
 2023-04-20T16:15:12.613Z,58.1546,-155.592,18.9,0,ml,,,,1.31,ak,ak023526qcx9,2023-04-20T16:19:12.933Z,"86 km SE of King Salmon, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-20T16:05:10.440Z,34.9783333,-118.9593333,16.27,1.55,ml,32,96,0.05844,0.19,ci,ci40443112,2023-04-20T17:13:39.247Z,"5km NW of Grapevine, CA",earthquake,0.27,0.52,0.175,14,reviewed,ci,ci
-2023-04-20T15:13:42.240Z,19.406665802002,-155.317001342773,2.57999992370605,2.78,ml,35,55,,0.239999995,hv,hv73370332,2023-04-20T15:23:47.513Z,"9 km WSW of Volcano, Hawaii",earthquake,0.42,0.529999971,0.59,19,automatic,hv,hv
+2023-04-20T15:13:42.220Z,19.4096666666667,-155.3195,3.85,2.7,ml,44,56,,0.12,hv,hv73370332,2023-04-20T21:28:49.794Z,"9 km WSW of Volcano, Hawaii",earthquake,0.24,0.39,0.239292307733381,17,reviewed,hv,hv
 2023-04-20T15:08:22.357Z,59.9994,-151.4492,58.8,1.2,ml,,,,0.44,ak,ak0235263fuj,2023-04-20T15:10:08.232Z,"13 km ESE of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-20T15:02:00.480Z,38.8148346,-122.796669,1.87,0.89,md,20,38,0.006939,0.02,nc,nc73875870,2023-04-20T15:20:16.515Z,"5km NW of The Geysers, CA",earthquake,0.23,0.4,0.18,20,automatic,nc,nc
 2023-04-20T15:00:01.595Z,13.909,-91.2913,54.782,4.9,mb,40,151,1.468,0.75,us,us6000k5ss,2023-04-20T15:15:50.040Z,"32 km SW of La Gomera, Guatemala",earthquake,10.19,4.486,0.029,364,reviewed,us,us
@@ -88,6 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T12:18:47.780Z,19.388,-155.279833333333,1.27,0.65,md,10,92,,0.06,hv,hv73370157,2023-04-20T12:30:17.750Z,"7 km SW of Volcano, Hawaii",earthquake,0.32,0.26,0.00861566572510736,2,reviewed,hv,hv
 2023-04-20T12:11:38.690Z,34.368,-118.4506667,11.55,1.01,ml,18,168,0.06979,0.15,ci,ci40443040,2023-04-20T16:14:41.254Z,"7km N of Sylmar, CA",earthquake,0.33,0.59,0.036,3,reviewed,ci,ci
 2023-04-20T12:01:21.466Z,60.3334,-143.0917,0,1.6,ml,,,,0.92,ak,ak0235249mya,2023-04-20T12:03:08.900Z,"122 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-20T11:56:18.882Z,38.5018,-119.4584,4.8,0.9,ml,6,243.06,0.016,0.0477,nn,nn00858477,2023-04-20T21:22:45.055Z,"2 km SE of Walker, California",earthquake,,2.5,0,1,reviewed,nn,nn
 2023-04-20T11:50:01.264Z,61.2162,-150.0363,42.3,1.3,ml,,,,0.35,ak,ak023523ynvi,2023-04-20T12:02:00.448Z,"7 km W of Anchorage, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-20T11:43:03.860Z,19.3856666666667,-155.281,1.61,2.53,ml,27,66,,0.11,hv,hv73370112,2023-04-20T13:00:02.811Z,"8 km SW of Volcano, Hawaii",earthquake,0.21,0.13,0.279183641827299,15,reviewed,hv,hv
 2023-04-20T11:42:56.950Z,19.4028333333333,-155.270666666667,0.24,0.4,md,13,72,,0.1,hv,hv73370107,2023-04-20T12:49:03.210Z,"5 km SW of Volcano, Hawaii",earthquake,0.16,0.27,0.121203474158585,4,reviewed,hv,hv
@@ -189,6 +191,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T02:32:32.140Z,37.3181667,-119.6723333,26.52,2.03,md,20,78,0.1162,0.17,nc,nc73875675,2023-04-20T17:31:10.394Z,"2km WSW of Oakhurst, CA",earthquake,0.42,0.67,0.297,20,reviewed,nc,nc
 2023-04-20T02:28:02.332Z,62.9018,-150.5776,84,1.3,ml,,,,0.46,ak,ak02351yh1rd,2023-04-20T02:30:27.161Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-20T02:24:52.240Z,38.8196678,-122.8236694,2.25,1.07,md,23,48,0.009519,0.03,nc,nc73875670,2023-04-20T02:41:13.844Z,"8km NW of The Geysers, CA",earthquake,0.22,0.44,0.15,23,automatic,nc,nc
+2023-04-20T02:23:10.170Z,51.8801666666667,-178.1365,7.15,1.57,ml,4,243,,0.23,av,av91855196,2023-04-20T21:24:03.690Z,"103 km W of Adak, Alaska",earthquake,1.21,1.41,0.210265761123804,4,reviewed,av,av
 2023-04-20T02:18:04.660Z,51.8526666666667,-178.0685,3.58,1.37,ml,4,197,,0.15,av,av91855191,2023-04-20T21:21:38.950Z,"98 km W of Adak, Alaska",earthquake,0.61,0.57,0.259389762750984,4,reviewed,av,av
 2023-04-20T02:17:09.549Z,36.7869,-115.9457,4.6,-0.4,ml,6,287.58,0.067,0.083,nn,nn00858461,2023-04-20T14:46:41.132Z,"34 km NW of Indian Springs, Nevada",earthquake,,3.9,0,1,reviewed,nn,nn
 2023-04-20T02:13:10.499Z,63.1043,-151.3508,0,1.2,ml,,,,0.41,ak,ak02351ydund,2023-04-20T02:15:05.649Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak

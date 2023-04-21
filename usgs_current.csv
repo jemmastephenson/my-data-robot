@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-21T07:11:10.730Z,35.6398333,-117.4723333,3.46,1.79,ml,26,51,0.04695,0.16,ci,ci40443560,2023-04-21T07:21:40.940Z,"16km SSW of Searles Valley, CA",earthquake,0.31,1.01,0.15,26,automatic,ci,ci
+2023-04-21T07:02:33.136Z,13.3541,-89.7631,52.784,4,mb,18,200,0.427,0.44,us,us6000k5yk,2023-04-21T07:13:32.040Z,"27 km SSE of Acajutla, El Salvador",earthquake,7.67,12.136,0.183,8,reviewed,us,us
 2023-04-21T06:52:33.330Z,33.7181667,-116.8348333,16.82,0.89,ml,34,57,0.0804,0.2,ci,ci40443552,2023-04-21T06:56:08.112Z,"6km ESE of Valle Vista, CA",earthquake,0.33,0.5,0.129,28,automatic,ci,ci
 2023-04-21T06:43:46.522Z,62.8772,-150.9371,98.4,1.5,ml,,,,0.3,ak,ak02353ohfto,2023-04-21T06:46:11.308Z,"43 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-21T06:36:05.810Z,17.8398333333333,-66.8871666666667,15.09,2.48,md,5,258,0.1347,0.07,pr,pr71405998,2023-04-21T06:47:31.450Z,"14 km S of Guánica, Puerto Rico",earthquake,1.11,0.56,0.18324742539252,3,reviewed,pr,pr
@@ -105,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T20:21:28.067Z,-28.9815,-71.6417,35,4,ml,21,185,0.825,0.86,us,us6000k5vh,2023-04-20T21:19:25.040Z,"Near the coast of Atacama, Chile",earthquake,5.72,2.013,,,reviewed,us,guc
 2023-04-20T20:10:27.810Z,19.1723333333333,-155.481666666667,31.17,1.73,md,31,91,,0.11,hv,hv73370622,2023-04-20T22:21:09.700Z,"3 km S of Pāhala, Hawaii",earthquake,0.55,0.66,0.143891450077567,14,reviewed,hv,hv
 2023-04-20T20:07:21.150Z,37.3813324,-121.7366638,5.86,1.28,md,11,70,0.0848,0.01,nc,nc73875955,2023-04-20T20:48:14.483Z,"8km ENE of Alum Rock, CA",earthquake,0.27,1.09,0.09,8,automatic,nc,nc
-2023-04-20T20:04:17.925Z,61.487,-149.9287,31.4,1.7,ml,,,,0.48,ak,ak0235291qo0,2023-04-20T20:06:19.362Z,"4 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-20T20:04:17.925Z,61.487,-149.9287,31.4,1.7,ml,,,,0.48,ak,ak0235291qo0,2023-04-20T20:06:19.362Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-20T20:03:27.152Z,-14.6396,-175.5787,10,4.8,mb,30,55,2.485,1.58,us,us6000k5vl,2023-04-20T20:57:31.040Z,"163 km SSE of Mata-Utu, Wallis and Futuna",earthquake,7.5,1.864,0.075,55,reviewed,us,us
 2023-04-20T20:03:23.250Z,60.0276666666667,-153.057333333333,0.14,-1.06,ml,5,126,,0.14,av,av91856061,2023-04-21T02:42:52.060Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.36,1.61,0.352145539953151,5,reviewed,av,av
 2023-04-20T20:01:42.580Z,51.8611666666667,-178.065333333333,1.77,0.78,ml,4,178,,0.33,av,av91856056,2023-04-21T02:40:36.370Z,"98 km W of Adak, Alaska",earthquake,1.11,2.55,0.312767421762903,4,reviewed,av,av

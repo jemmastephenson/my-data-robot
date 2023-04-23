@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-23T13:24:57.700Z,33.1678352,-115.6426697,3.05,1.45,ml,24,75,0.02273,0.19,ci,ci40444496,2023-04-23T13:27:18.522Z,"13km WNW of Calipatria, CA",earthquake,0.37,0.47,0.307,9,automatic,ci,ci
+2023-04-23T13:20:27.780Z,33.1628333,-115.6426667,2.55,1.06,ml,17,51,0.02634,0.25,ci,ci40444488,2023-04-23T13:23:56.493Z,"13km WNW of Calipatria, CA",earthquake,0.48,0.58,0.239,16,automatic,ci,ci
 2023-04-23T13:07:50.510Z,35.6896667,-117.5245,1.77,0.45,ml,11,131,0.08564,0.27,ci,ci40444480,2023-04-23T13:11:24.662Z,"14km SW of Searles Valley, CA",earthquake,1.05,1.21,0.126,5,automatic,ci,ci
 2023-04-23T13:02:02.523Z,61.1478,-149.1735,25.1,1.6,ml,,,,0.57,ak,ak023573haak,2023-04-23T13:04:32.817Z,"22 km N of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-23T12:40:01.640Z,39.4766655,-123.3151703,6.39,1.74,md,11,76,0.01886,0.04,nc,nc73876945,2023-04-23T12:57:17.192Z,"7km ENE of Brooktrails, CA",earthquake,0.39,0.65,0.13,7,automatic,nc,nc
@@ -196,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-22T13:55:00.910Z,33.316,-116.7588333,12.65,1.07,ml,36,32,0.0798,0.16,ci,ci40444136,2023-04-22T13:58:39.629Z,"8km N of Lake Henshaw, CA",earthquake,0.21,0.51,0.239,26,automatic,ci,ci
 2023-04-22T13:40:40.811Z,14.4435,-93.0286,10,4.3,mb,32,189,3.197,0.97,us,us6000k6dj,2023-04-22T19:25:01.040Z,"72 km WSW of Puerto Madero, Mexico",earthquake,10.6,1.977,0.071,56,reviewed,us,us
 2023-04-22T13:29:22.230Z,17.9395,-66.9493333333333,15.32,3.07,md,25,217,0.05058,0.14,pr,pr71406273,2023-04-22T13:57:51.090Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.38,0.41,0.101302589005345,16,reviewed,pr,pr
-2023-04-22T13:24:00.671Z,62.8065,-148.8571,14.6,0.8,ml,,,,0.19,ak,ak02355g2ner,2023-04-22T13:25:24.995Z,"65 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak

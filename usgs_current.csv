@@ -224,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T09:47:02.660Z,38.8246651,-122.8043365,2.46,1.03,md,20,44,0.004658,0.02,nc,nc73877280,2023-04-24T11:51:13.540Z,"7km NW of The Geysers, CA",earthquake,0.25,0.68,0.28,21,automatic,nc,nc
 2023-04-24T09:35:14.169Z,62.5643,-149.6391,5.2,1.6,ml,,,,0.58,ak,ak02358otzw8,2023-04-24T09:37:03.259Z,"27 km ENE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-24T09:32:07.840Z,9.2956,125.3827,9.604,5,mb,44,113,2.22,1.35,us,us6000k6qt,2023-04-25T07:27:08.890Z,"Mindanao, Philippines",earthquake,7.6,4.277,0.064,79,reviewed,us,us
-2023-04-24T09:25:58.635Z,-30.1463,-177.4586,25.234,4.9,mb,55,69,0.969,0.98,us,us6000k6qr,2023-04-24T09:48:12.040Z,"Kermadec Islands, New Zealand",earthquake,6.25,4.522,0.082,76,reviewed,us,us

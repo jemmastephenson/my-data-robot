@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-30T04:16:19.359Z,61.3283,-146.9108,29.3,2.9,ml,,,,0.44,ak,ak0235iiyumn,2023-04-30T04:21:01.345Z,"37 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-30T04:16:19.359Z,61.3283,-146.9108,29.3,2.9,ml,,,,0.44,ak,ak0235iiyumn,2023-04-30T04:31:51.040Z,"37 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-30T04:14:00.780Z,19.1561660766602,-155.466506958008,32.1500015258789,2.0999999,md,23,214,,0.109999999,hv,hv73383962,2023-04-30T04:17:09.560Z,"5 km SSE of Pāhala, Hawaii",earthquake,1.07,1.24000001,1.20000005,3,automatic,hv,hv
 2023-04-30T04:13:55.273Z,61.3516,-151.2919,64.3,1.2,ml,,,,0.39,ak,ak0235iiya93,2023-04-30T04:15:34.989Z,"26 km NNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-30T04:09:16.414Z,58.3725,-154.4823,20.2,1.1,ml,,,,1.31,ak,ak0235iixce1,2023-04-30T04:10:44.607Z,"89 km N of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-04-30T04:08:08.100Z,35.8456667,-117.702,4.83,1.22,ml,17,98,0.0631,0.19,ci,ci40215407,2023-04-30T04:11:37.115Z,"21km ESE of Little Lake, CA",earthquake,0.31,0.65,0.2,11,automatic,ci,ci
+2023-04-30T04:07:43.797Z,-10.7958,113.3698,25.735,4.5,mb,17,123,2.436,1.32,us,us7000jx3k,2023-04-30T04:24:09.040Z,"277 km S of Kencong, Indonesia",earthquake,8.84,2.632,0.22,7,reviewed,us,us
 2023-04-30T04:01:23.580Z,38.8631668,-122.7848358,2.08,0.76,md,10,174,0.0256,0.03,nc,nc73882131,2023-04-30T04:18:13.422Z,"7km NW of Cobb, CA",earthquake,0.66,0.78,0.47,10,automatic,nc,nc
 2023-04-30T04:00:43.710Z,19.1926670074463,-155.512664794922,35.1199989318848,2.17,ml,39,88,,0.119999997,hv,hv73383942,2023-04-30T04:06:14.790Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.66,0.930000007,2.81,10,automatic,hv,hv
 2023-04-30T03:45:38.320Z,33.1838333,-116.0326667,4.19,1.06,ml,24,67,0.0472,0.24,ci,ci40215399,2023-04-30T03:49:53.497Z,"10km ENE of Ocotillo Wells, CA",earthquake,0.37,1.09,0.156,22,automatic,ci,ci
@@ -28,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T02:15:24.920Z,32.7446667,-115.5648333,12.26,1.41,ml,10,114,0.05151,0.26,ci,ci40215335,2023-04-30T02:19:04.374Z,"4km WNW of Heber, CA",earthquake,1.09,1.47,0.18,15,automatic,ci,ci
 2023-04-30T01:58:53.280Z,38.8261681,-122.7963333,2.81,0.85,md,9,114,0.01108,0.02,nc,nc73882106,2023-04-30T02:55:11.783Z,"6km W of Cobb, CA",earthquake,0.38,1.06,0.26,10,automatic,nc,nc
 2023-04-30T01:52:58.160Z,38.7878342,-122.7483368,0.45,1.06,md,16,83,0.01556,0.04,nc,nc73882101,2023-04-30T02:41:14.697Z,"1km NNE of The Geysers, CA",earthquake,0.26,0.54,0.2,15,automatic,nc,nc
-2023-04-30T01:49:43.450Z,38.7873344,-122.7509995,0.05,1.92,md,31,45,0.01188,0.06,nc,nc73882096,2023-04-30T04:18:13.294Z,"1km NNE of The Geysers, CA",earthquake,0.19,0.4,0.19,32,automatic,nc,nc
+2023-04-30T01:49:43.450Z,38.7873344,-122.7509995,0.05,1.92,md,31,45,0.01188,0.06,nc,nc73882096,2023-04-30T04:26:10.355Z,"1km NNE of The Geysers, CA",earthquake,0.19,0.4,0.19,32,automatic,nc,nc
 2023-04-30T01:48:28.270Z,38.8036652,-122.8225021,3.02,0.77,md,9,129,0.007362,0.02,nc,nc73882091,2023-04-30T02:22:13.576Z,"6km WNW of The Geysers, CA",earthquake,0.6,1.44,0.27,10,automatic,nc,nc
 2023-04-30T01:36:38.940Z,32.713,-115.547,7.16,1.28,ml,8,120,0.08121,0.21,ci,ci40215327,2023-04-30T01:40:15.504Z,"3km SW of Heber, CA",earthquake,0.66,1.64,0.211,11,automatic,ci,ci
 2023-04-30T01:34:10.980Z,19.3966674804688,-155.27099609375,1.12999999523163,1.71,ml,16,97,,0.100000001,hv,hv73383847,2023-04-30T01:39:43.710Z,"6 km SW of Volcano, Hawaii",earthquake,0.31,0.219999999,0.27,6,automatic,hv,hv
@@ -221,7 +222,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T15:02:15.790Z,19.4134998321533,-155.277496337891,0.0199999995529652,1.8,ml,19,85,,0.25,hv,hv73382887,2023-04-29T15:07:48.110Z,"5 km SW of Volcano, Hawaii",earthquake,0.34,0.469999999,0.75,7,automatic,hv,hv
 2023-04-29T14:54:00.369Z,61.0933,-153.9454,3.6,1.1,ml,,,,0.16,ak,ak0235h1lxxg,2023-04-29T14:55:57.055Z,"85 km ESE of Lime Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-29T14:53:13.580Z,19.418,-155.325833333333,4.21,0.69,md,16,158,,0.07,hv,hv73382872,2023-04-29T15:10:26.050Z,"10 km WSW of Volcano, Hawaii",earthquake,0.39,0.55,0.198395386235951,4,reviewed,hv,hv
-2023-04-29T14:48:55.060Z,32.7103348,-115.5400009,10.29,3.03,ml,51,48,0.06217,0.24,ci,ci40214511,2023-04-29T22:34:46.191Z,"2km SSW of Heber, CA",earthquake,0.26,0.54,0.321,22,automatic,ci,ci
+2023-04-29T14:48:55.060Z,32.7103348,-115.5400009,10.29,3.03,ml,51,48,0.06217,0.24,ci,ci40214511,2023-04-30T04:27:18.810Z,"2km SSW of Heber, CA",earthquake,0.26,0.54,0.321,22,automatic,ci,ci
 2023-04-29T14:47:32.081Z,56.8134,-158.1289,3.8,2.3,ml,,,,0.51,ak,ak0235h1kid4,2023-04-29T23:01:41.880Z,"60 km NNE of Chignik, Alaska",earthquake,,5.4,,,automatic,ak,ak
 2023-04-29T14:46:25.410Z,19.4151666666667,-155.312666666667,3.16,0.7,md,12,192,,0.07,hv,hv73382857,2023-04-29T15:03:03.600Z,"8 km WSW of Volcano, Hawaii",earthquake,0.39,0.44,0.268691469749333,2,reviewed,hv,hv
 2023-04-29T14:43:57.632Z,63.28,-151.5362,1.9,1.2,ml,,,,0.91,ak,ak0235h1jphd,2023-04-29T14:46:56.574Z,"30 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak

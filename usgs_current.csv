@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-01T08:43:20.700Z,34.1635,-117.2508333,2.81,1.04,ml,24,60,0.04272,0.21,ci,ci40216511,2023-05-01T08:46:54.329Z,"5km NE of San Bernardino, CA",earthquake,0.29,0.52,0.152,27,automatic,ci,ci
 2023-05-01T08:30:37.920Z,19.2569999694824,-155.425827026367,32.6500015258789,2.23,ml,40,115,,0.189999998,hv,hv73385482,2023-05-01T08:36:08.050Z,"8 km NE of Pāhala, Hawaii",earthquake,0.67,0.709999979,2.93,9,automatic,hv,hv
-2023-05-01T07:59:37.624Z,25.9356,128.5466,10,5.4,mww,89,62,0.93,0.43,us,us7000jxba,2023-05-01T08:39:30.718Z,"80 km ESE of Katsuren-haebaru, Japan",earthquake,4.98,1.775,0.086,13,reviewed,us,us
+2023-05-01T07:59:37.624Z,25.9356,128.5466,10,5.4,mww,89,62,0.93,0.43,us,us7000jxba,2023-05-01T08:45:23.137Z,"80 km ESE of Katsuren-haebaru, Japan",earthquake,4.98,1.775,0.086,13,reviewed,us,us
 2023-05-01T07:54:05.629Z,-9.4288,148.6374,10,4.9,mb,47,117,1.458,0.64,us,us7000jxb8,2023-05-01T08:40:09.040Z,"eastern New Guinea region, Papua New Guinea",earthquake,8.1,1.892,0.065,74,reviewed,us,us
 2023-05-01T07:51:58.660Z,33.5845,-116.8048333,7.89,1.01,ml,38,41,0.03522,0.15,ci,ci40216495,2023-05-01T07:55:34.093Z,"13km WNW of Anza, CA",earthquake,0.19,0.44,0.142,25,automatic,ci,ci
 2023-05-01T07:37:54.713Z,61.7528,-146.4391,31.3,1.9,ml,,,,0.58,ak,ak0235k8f2pb,2023-05-01T07:39:44.317Z,"31 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -141,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T16:23:41.320Z,17.9611666666667,-66.9605,7.05,2.32,md,11,197,0.05056,0.12,pr,pr71407318,2023-04-30T16:53:24.440Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.58,0.27,0.0468957589521872,4,reviewed,pr,pr
 2023-04-30T16:20:44.220Z,39.2903328,-123.2838364,-0.09,1.39,md,7,135,0.08553,0.05,nc,nc73882301,2023-04-30T17:20:11.067Z,"7km WNW of Redwood Valley, CA",earthquake,0.5,2.98,0.03,5,automatic,nc,nc
 2023-04-30T16:12:33.270Z,58.166,-155.362333333333,-0.89,-0.11,ml,4,190,,0.03,av,av91869486,2023-05-01T02:30:22.880Z,"85 km NW of Karluk, Alaska",earthquake,0.29,8.14,0.119253196706622,4,reviewed,av,av
-2023-04-30T16:07:06.278Z,62.0604,-148.8287,22.2,1.1,ml,,,,0.42,ak,ak0235iq23fn,2023-04-30T16:09:01.950Z,"31 km N of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-30T16:07:06.278Z,62.0604,-148.8287,22.2,1.1,ml,,,,0.42,ak,ak0235iq23fn,2023-04-30T16:09:01.950Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-30T16:01:54.230Z,19.4038333892822,-155.259170532227,0.159999996423721,2.17000008,md,13,75,,0.219999999,hv,hv73384632,2023-04-30T16:04:47.990Z,"5 km SSW of Volcano, Hawaii",earthquake,0.23,0.540000021,2.07999992,6,automatic,hv,hv
 2023-04-30T15:58:29.830Z,17.9366666666667,-66.9651666666667,6.83,1.73,md,5,230,0.06437,0.03,pr,pr71407308,2023-04-30T16:11:42.140Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.76,0.31,0.171972009439333,3,reviewed,pr,pr
 2023-04-30T15:50:39.259Z,61.4036,-149.8548,33.9,2,ml,,,,0.17,ak,ak0235ippy5x,2023-04-30T15:51:57.200Z,"8 km NE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -221,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T09:08:26.090Z,58.112,-155.697,4.44,0.58,ml,4,331,,0.08,av,av91869026,2023-05-01T00:57:23.190Z,"85 km SE of King Salmon, Alaska",earthquake,1.15,31.61,0.122553874728885,5,reviewed,av,av
 2023-04-30T09:04:21.880Z,33.2016667,-115.5928333,1.37,2.3,ml,40,88,0.03079,0.26,ci,ci40215879,2023-04-30T09:15:23.160Z,"8km WSW of Niland, CA",earthquake,0.32,0.53,0.121,26,automatic,ci,ci
 2023-04-30T08:58:58.940Z,33.191,-115.6003333,2.01,1.29,ml,15,90,0.01862,0.17,ci,ci40215871,2023-04-30T09:02:37.626Z,"9km SW of Niland, CA",earthquake,0.31,0.34,0.23,22,automatic,ci,ci
-2023-04-30T08:44:57.320Z,33.8973333,-116.8913333,12.7,0.84,ml,36,58,0.078,0.19,ci,ci40215855,2023-04-30T14:09:25.273Z,"3km SSW of Banning, CA",earthquake,0.25,0.64,0.206,27,reviewed,ci,ci
-2023-04-30T08:43:34.640Z,19.1476669311523,-155.467330932617,32.6699981689453,1.84000003,md,27,173,,0.100000001,hv,hv73384172,2023-04-30T08:46:50.050Z,"6 km S of Pāhala, Hawaii",earthquake,1.08,1.61000001,1.64999998,6,automatic,hv,hv

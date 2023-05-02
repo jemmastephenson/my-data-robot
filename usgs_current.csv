@@ -167,4 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T07:37:54.713Z,61.7528,-146.4391,31.3,1.9,ml,,,,0.58,ak,ak0235k8f2pb,2023-05-01T19:20:51.456Z,"31 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-01T07:17:10.380Z,47.70916666666667,-120.15916666666666,4.73,1.25,ml,14,57,0.06409,0.08,uw,uw61920676,2023-05-01T20:05:12.070Z,"Washington",earthquake,0.22,0.56,0.17197919361442926,14,reviewed,uw,uw
 2023-05-01T07:15:06.965Z,62.0155,-148.8858,21.9,0.8,ml,,,,0.36,ak,ak0235k8a9a0,2023-05-01T07:17:14.739Z,"27 km NNW of Sutton-Alpine, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-05-01T06:51:00.060Z,38.8216667,-122.8523331,2.44,0.94,md,12,105,0.006858,0.01,nc,nc73882626,2023-05-01T09:32:13.035Z,"10km WNW of The Geysers, CA",earthquake,0.34,0.97,0.29,12,automatic,nc,nc

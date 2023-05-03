@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-03T21:23:06.280Z,19.2546672821045,-155.452163696289,31.6499996185303,2.25,md,31,113,,0.109999999,hv,hv73388307,2023-05-03T21:26:20.530Z,"6 km NNE of Pāhala, Hawaii",earthquake,0.56,0.800000012,1,12,automatic,hv,hv
-2023-05-03T21:18:06.807Z,61.3573,-150.1061,22.2,3.1,ml,,,,0.75,ak,ak0235nrpnx0,2023-05-03T21:23:22.461Z,"6 km W of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-03T21:14:20.300Z,33.7071667,-116.7701667,16.04,2.88,ml,98,15,0.04685,0.2,ci,ci40218471,2023-05-03T21:26:48.810Z,"6km SW of Idyllwild, CA",earthquake,0.16,0.35,0.17,25,automatic,ci,ci
+2023-05-03T21:29:58.900Z,64.0829,-148.3434,11.7,1.6,ml,,,,0.51,ak,ak0235nrs4r6,2023-05-03T21:31:40.585Z,"38 km E of Ferry, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-03T21:23:06.280Z,19.2546672821045,-155.452163696289,31.6499996185303,2.01,ml,31,113,,0.109999999,hv,hv73388307,2023-05-03T21:28:37.020Z,"6 km NNE of Pāhala, Hawaii",earthquake,0.56,0.800000012,0.26,4,automatic,hv,hv
+2023-05-03T21:18:06.807Z,61.3573,-150.1061,22.2,3.1,ml,,,,0.75,ak,ak0235nrpnx0,2023-05-03T21:33:44.603Z,"6 km W of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-03T21:14:20.300Z,33.7071667,-116.7701667,16.04,2.88,ml,98,15,0.04685,0.2,ci,ci40218471,2023-05-03T21:29:40.485Z,"6km SW of Idyllwild, CA",earthquake,0.16,0.35,0.17,25,automatic,ci,ci
 2023-05-03T21:05:00.620Z,33.4476667,-116.6841667,12.09,1.16,ml,43,41,0.08303,0.18,ci,ci40218463,2023-05-03T21:08:39.431Z,"12km S of Anza, CA",earthquake,0.21,0.5,0.185,25,automatic,ci,ci
 2023-05-03T21:00:38.550Z,32.7555,-116.9141667,5.12,1.24,ml,17,90,0.03098,0.21,ci,ci40218447,2023-05-03T21:04:09.806Z,"2km ENE of Rancho San Diego, CA",quarry blast,0.53,0.69,0.166,11,automatic,ci,ci
 2023-05-03T20:42:05.360Z,19.4006666666667,-64.7888333333333,8.87,3.44,md,16,271,1.055,0.24,pr,pr71407808,2023-05-03T21:10:57.520Z,"118 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.21,5.66,0.14573288789825,10,reviewed,pr,pr
@@ -66,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T14:12:58.270Z,38.477,-112.8416667,1.1,-0.53,md,11,116,0.01678,0.11,uu,uu60539031,2023-05-03T15:27:04.200Z,"17 km ENE of Milford, Utah",earthquake,0.25,0.88,0.381,4,reviewed,uu,uu
 2023-05-03T14:11:27.125Z,61.9103,-150.8862,58.3,1.1,ml,,,,0.22,ak,ak0235nni66g,2023-05-03T14:13:20.027Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-03T14:11:15.120Z,38.4773333,-112.8418333,1.99,-0.26,md,11,147,0.01644,0.18,uu,uu60539021,2023-05-03T15:11:07.510Z,"17 km ENE of Milford, Utah",earthquake,0.49,0.99,0.494,4,reviewed,uu,uu
-2023-05-03T14:06:27.070Z,38.414,-122.2326667,7.13,1.48,md,20,50,0.02994,0.11,nc,nc73883441,2023-05-03T21:10:47.914Z,"11km E of Yountville, CA",earthquake,0.31,0.45,0.08,14,reviewed,nc,nc
+2023-05-03T14:06:27.070Z,38.414,-122.2326667,7.13,1.48,md,20,50,0.02994,0.11,nc,nc73883441,2023-05-03T21:34:11.212Z,"11km E of Yountville, CA",earthquake,0.31,0.45,0.08,14,reviewed,nc,nc
 2023-05-03T14:04:18.410Z,37.6101685,-122.4603348,7.25,1.14,md,8,193,0.02933,0.02,nc,nc73883436,2023-05-03T14:32:14.706Z,"2km E of Pacifica, CA",earthquake,0.64,0.49,0.28,5,automatic,nc,nc
 2023-05-03T13:55:13.230Z,32.7205,-115.5525,7.19,1.63,ml,9,158,0.07291,0.23,ci,ci40218079,2023-05-03T13:58:53.432Z,"2km WSW of Heber, CA",earthquake,0.96,1.71,0.242,23,automatic,ci,ci
 2023-05-03T13:48:08.185Z,60.3215,-151.6982,57,1.5,ml,,,,0.55,ak,ak0235nn4mlu,2023-05-03T13:50:47.572Z,"19 km WNW of Clam Gulch, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -103,6 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T10:33:28.010Z,34.52033333,-97.195,0.86,1.65,ml,80,103,0.1430719244,0.36,ok,ok2023ipsh,2023-05-03T12:25:33.030Z,"7 km WNW of Davis, Oklahoma",earthquake,,0.4,0.2,30,reviewed,ok,ok
 2023-05-03T10:30:10.380Z,44.7501667,-111.1845,8.2,0.16,md,11,96,0.008361,0.16,uu,uu60539006,2023-05-03T14:11:34.240Z,"Idaho-Montana border region",earthquake,0.45,0.84,0.24,8,reviewed,uu,uu
 2023-05-03T10:22:29.714Z,59.3989,-151.3807,30.6,1.6,ml,,,,0.78,ak,ak0235nl6su3,2023-05-03T10:24:28.183Z,"17 km ESE of Seldovia Village, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-05-03T10:17:44.760Z,19.2488333333333,-155.360166666667,31.55,1.74,md,42,158,,0.11,hv,hv73387772,2023-05-03T21:31:59.370Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.39,0.47,0.0748648388349362,15,reviewed,hv,hv
 2023-05-03T10:10:55.933Z,63.055,-151.3243,0,1.8,ml,,,,0.87,ak,ak0235nl4a9l,2023-05-03T10:14:18.090Z,"57 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-03T10:03:19.392Z,12.4021,-88.2603,45.704,4.5,mb,73,185,1.245,0.62,us,us7000jxqc,2023-05-03T10:19:00.040Z,"90 km SSW of Intipucá, El Salvador",earthquake,9.29,12.468,0.068,63,reviewed,us,us
 2023-05-03T09:55:02.080Z,44.801,-110.9685,7.72,1.35,ml,18,119,0.04955,0.17,uu,uu60539001,2023-05-03T13:31:28.500Z,"17 km ENE of Hebgen Lake Estates, Montana",earthquake,0.49,0.62,0.308,2,reviewed,uu,uu
@@ -282,5 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T21:48:55.476Z,61.038,-151.8114,78.7,0.6,ml,,,,0.13,ak,ak0235m4culn,2023-05-02T21:50:29.553Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-02T21:47:42.706Z,29.11468506,-97.72920496,5.062133789,2,ml,15,53,0.08875459858,0.2,tx,tx2023iotb,2023-05-03T20:31:52.817Z,"17 km SSE of Nixon, Texas",earthquake,1.28867688,2.570233653,0.2,14,reviewed,tx,tx
 2023-05-02T21:39:21.340Z,45.074,-111.734,-2,1.3,ml,9,125,0.2691,0.19,mb,mb90012168,2023-05-03T19:30:48.110Z,"29 km SE of Virginia City, Montana",quarry blast,17.23,31.61,0.331155778755179,4,reviewed,mb,mb
-2023-05-02T21:36:16.050Z,46.48266666666667,-122.44116666666666,18.67,2.1,ml,57,54,0.1143,0.13,uw,uw61912127,2023-05-02T21:55:04.740Z,"6 km SSE of Mossyrock, Washington",earthquake,0.17,0.45,0.190558387158149,38,reviewed,uw,uw
-2023-05-02T21:33:39.240Z,33.7928333,-116.1451667,7.04,1.93,ml,50,71,0.06371,0.2,ci,ci40217503,2023-05-02T21:38:06.373Z,"10km NE of Indio, CA",earthquake,0.22,0.61,0.167,26,automatic,ci,ci

@@ -192,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T18:58:37.160Z,17.9976666666667,-67.3376666666667,4.29,2.92,md,16,187,0.1648,0.15,pr,pr71407778,2023-05-03T19:11:39.200Z,"16 km W of Pole Ojea, Puerto Rico",earthquake,0.42,0.47,0.124558923673516,11,reviewed,pr,pr
 2023-05-03T18:48:46.280Z,34.527,-97.20016667,1.62,2.08,ml,90,66,0.1376729839,0.31,ok,ok2023iqip,2023-05-03T19:49:12.358Z,"7 km WNW of Davis, Oklahoma",earthquake,,1,0.28,35,reviewed,ok,ok
 2023-05-03T18:47:16.180Z,17.9018333333333,-66.848,12.79,2.35,md,10,235,0.07867,0.09,pr,pr71407773,2023-05-03T18:59:06.020Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.94,0.34,0.206110492683416,6,reviewed,pr,pr
-2023-05-03T18:40:03.740Z,17.9148333333333,-66.8466666666667,13.79,2.55,md,15,231,0.06745,0.2,pr,pr71407768,2023-05-03T18:54:33.800Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.84,0.32,0.157329747124986,5,reviewed,pr,pr

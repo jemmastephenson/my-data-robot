@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-05T22:32:17.630Z,35.051,-118.8925,13.69,1.95,ml,36,68,0.0914,0.23,ci,ci40219647,2023-05-05T22:36:01.388Z,"12km NNE of Grapevine, CA",earthquake,0.31,0.8,0.151,26,automatic,ci,ci
 2023-05-05T22:24:28.908Z,61.9909,-147.2446,44.5,1.4,ml,,,,0.32,ak,ak0235r3f4ga,2023-05-05T22:25:53.810Z,"7 km NW of Eureka Roadhouse, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-05T22:15:03.392Z,60.3669,-152.1552,87.7,1.1,ml,,,,0.39,ak,ak0235r3d51f,2023-05-05T22:16:54.196Z,"44 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-05T22:04:29.660Z,38.8019981,-122.8236694,2.58,0.75,md,11,79,0.008098,0.03,nc,nc73884321,2023-05-05T22:27:16.167Z,"6km WNW of The Geysers, CA",earthquake,0.46,0.9,0.2,13,automatic,nc,nc

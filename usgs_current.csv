@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-05T18:54:28.200Z,32.4536667,-115.0780029,11.03,1.75,ml,10,107,0.02679,0.21,ci,ci40219527,2023-05-05T18:56:50.190Z,"15km SW of Tecolots, B.C., MX",earthquake,1.06,2.01,0.305,9,automatic,ci,ci
+2023-05-05T18:52:24.777Z,31.68345239,-104.3675246,37.1097168,1.9,ml,12,85,0.04986001722,0.5,tx,tx2023itzt,2023-05-05T18:55:46.054Z,"54 km S of Whites City, New Mexico",earthquake,16.5705869,16.16693609,0.4,5,reviewed,tx,tx
 2023-05-05T18:38:18.422Z,34.54934311,-97.75177765,3.535209179,2.22,ml,12,112.3947601,0.08426620066,0.9802973407,ok,ok2023itzh,2023-05-05T18:41:37.627Z,"11 km SSE of Bray, Oklahoma",earthquake,3.760486097,2.029019344,0.27,5,automatic,ok,ok
 2023-05-05T18:31:30.510Z,33.1778333,-116.2896667,19.58,0.97,ml,7,275,0.1398,0.18,ci,ci40219519,2023-05-05T18:35:04.566Z,"12km SE of Borrego Springs, CA",earthquake,3.26,2.05,0.237,15,automatic,ci,ci
 2023-05-05T18:29:31.550Z,38.8310013,-122.8154984,2.65,0.8,md,8,93,0.008697,0.01,nc,nc73884291,2023-05-05T18:46:10.802Z,"8km NW of The Geysers, CA",earthquake,0.49,1.45,0.32,8,automatic,nc,nc
@@ -77,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T11:16:58.692Z,61.8093,-150.394,19.1,1.2,ml,,,,0.23,ak,ak0235qwtpd9,2023-05-05T11:19:29.510Z,"20 km WNW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-05T11:12:15.710Z,35.056,-118.8973333,13.84,3.38,ml,77,20,0.08969,0.25,ci,ci40219303,2023-05-05T18:37:16.568Z,"13km NNE of Grapevine, CA",earthquake,0.19,0.48,0.159,245,reviewed,ci,ci
 2023-05-05T11:11:07.430Z,33.3633333,-116.4175,6.27,0.63,ml,35,75,0.05576,0.14,ci,ci40219295,2023-05-05T14:55:26.399Z,"13km NNW of Borrego Springs, CA",earthquake,0.19,0.55,0.129,21,reviewed,ci,ci
-2023-05-05T11:06:50.940Z,37.7923317,-121.9075012,15.54,1.49,md,9,150,0.09462,0.04,nc,nc73884141,2023-05-05T13:45:10.884Z,"3km S of Blackhawk, CA",earthquake,0.52,1.17,0.04,5,automatic,nc,nc
+2023-05-05T11:06:50.830Z,37.7998333,-121.9078333,15.66,1.62,md,45,82,0.08393,0.07,nc,nc73884141,2023-05-05T18:54:02.290Z,"2km S of Blackhawk, CA",earthquake,0.15,0.3,0.187,37,reviewed,nc,nc
 2023-05-05T11:04:25.800Z,36.4981666666667,-89.5078333333333,4.13,1.92,md,26,52,0.04918,0.09,nm,nm60523751,2023-05-05T13:08:50.190Z,"southeastern Missouri",earthquake,0.38,0.48,0.12116040847839,19,reviewed,nm,nm
 2023-05-05T11:00:18.220Z,33.3581667,-116.4236667,7.95,1.23,ml,66,31,0.05676,0.18,ci,ci40219287,2023-05-05T14:32:52.120Z,"12km NNW of Borrego Springs, CA",earthquake,0.16,0.51,0.154,35,reviewed,ci,ci
 2023-05-05T10:44:19.441Z,38.5204,-119.548,5.7,0.8,ml,7,94.64,0.069,0.1693,nn,nn00859095,2023-05-05T17:48:06.269Z,"6 km SW of Coleville, California",earthquake,,4,0,1,reviewed,nn,nn
@@ -179,6 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T01:57:09.543Z,63.6101,-149.7647,11,1.1,ml,,,,0.58,ak,ak0235qr41vu,2023-05-05T01:59:05.614Z,"44 km WSW of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-05T01:45:43.312Z,63.4288,-148.4038,0,1.6,ml,,,,0.88,ak,ak0235qr1jwb,2023-05-05T01:47:44.149Z,"27 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-05T01:36:38.543Z,14.4861,-93.5449,10,4.5,mb,46,183,2.243,1.28,us,us6000k9l9,2023-05-05T01:58:55.040Z,"114 km SSW of La Esperanza (El Zapotal), Mexico",earthquake,7.8,1.934,0.042,166,reviewed,us,us
+2023-05-05T01:34:10.830Z,60.0278333333333,-153.061666666667,-3,0.08,ml,5,119,,0.19,av,av91874296,2023-05-05T18:55:10.760Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.46,2.1,0.335383898703586,5,reviewed,av,av
 2023-05-05T01:24:18.457Z,29.11834717,-97.73747702,0.0244547526,2.7,ml,22,62,0.08619029128,0.2,tx,tx2023isre,2023-05-05T10:00:30.927Z,"16 km S of Nixon, Texas",earthquake,0.7331730907,1.778263557,0.1,18,reviewed,tx,tx
 2023-05-05T01:08:06.920Z,11.4454,-85.6647,180.281,4.2,mb,20,158,0.665,0.74,us,us6000k9l7,2023-05-05T01:46:32.040Z,"Nicaragua",earthquake,10.28,8.564,0.146,13,reviewed,us,us
 2023-05-05T01:03:38.470Z,38.8358345,-122.8195038,1.33,0.78,md,20,68,0.01278,0.05,nc,nc73883946,2023-05-05T01:45:13.558Z,"8km W of Cobb, CA",earthquake,0.24,0.39,0.2,21,automatic,nc,nc
@@ -263,5 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T18:58:16.460Z,38.8251648,-122.8548355,2.11,0.58,md,8,132,0.00286,0.01,nc,nc73883856,2023-05-04T19:49:13.494Z,"10km WNW of The Geysers, CA",earthquake,0.43,0.94,0.45,9,automatic,nc,nc
 2023-05-04T18:57:54.530Z,33.0716667,-115.5868333,10.41,1.42,ml,20,55,0.03357,0.2,ci,ci37523101,2023-05-04T23:07:44.406Z,"5km NE of Westmorland, CA",earthquake,0.33,0.5,0.1,6,reviewed,ci,ci
 2023-05-04T18:57:41.750Z,33.1928333,-116.4713333,4.66,0.99,ml,24,111,0.08781,0.19,ci,ci40219055,2023-05-04T23:00:59.732Z,"11km SW of Borrego Springs, CA",earthquake,0.3,0.6,0.139,16,reviewed,ci,ci
-2023-05-04T18:54:47.191Z,62.0855,-150.244,14,1.7,ml,,,,0.42,ak,ak0235pdoifj,2023-05-04T18:56:42.652Z,"22 km WSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-04T18:51:36.790Z,38.8166656,-122.8195038,2.46,1.08,md,25,49,0.009971,0.02,nc,nc73883851,2023-05-04T19:25:12.354Z,"7km NW of The Geysers, CA",earthquake,0.19,0.43,0.13,24,automatic,nc,nc

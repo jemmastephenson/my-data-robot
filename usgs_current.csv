@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-11T11:04:32.370Z,37.5981674,-121.6181641,-0.25,0.87,md,9,91,0.1032,0.24,nc,nc73886496,2023-05-11T11:06:09.345Z,"16km SE of Livermore, CA",earthquake,0.71,8.67,0.29,5,automatic,nc,nc
+2023-05-11T11:04:32.370Z,37.5981674,-121.6181641,-0.25,0.87,md,9,91,0.1032,0.24,nc,nc73886496,2023-05-11T11:23:17.868Z,"16km SE of Livermore, CA",earthquake,0.71,8.67,0.29,5,automatic,nc,nc
 2023-05-11T10:58:37.140Z,19.1753330230713,-155.403839111328,31.6800003051758,2.18,ml,44,170,,0.129999995,hv,hv73396387,2023-05-11T11:04:08.600Z,"8 km ESE of Pāhala, Hawaii",earthquake,0.63,0.709999979,0.03,3,automatic,hv,hv
 2023-05-11T10:58:21.660Z,33.7043333,-117.9193333,13.48,1.71,ml,51,62,0.02797,0.24,ci,ci40222719,2023-05-11T11:08:57.690Z,"3km E of Fountain Valley, CA",earthquake,0.32,0.58,0.174,29,automatic,ci,ci
+2023-05-11T10:50:17.870Z,19.1176,-64.7836,60,3.65,md,6,289,0.9514,0.34,pr,pr2023131006,2023-05-11T11:22:51.274Z,"87 km N of Cruz Bay, U.S. Virgin Islands",earthquake,6.19,11.79,0.02,4,reviewed,pr,pr
 2023-05-11T10:33:41.930Z,38.8406677,-122.876503,2.63,0.88,md,12,87,0.005951,0.02,nc,nc73886481,2023-05-11T10:50:14.671Z,"13km NW of The Geysers, CA",earthquake,0.43,0.68,0.24,14,automatic,nc,nc
 2023-05-11T10:20:16.300Z,34.2356667,-118.2091667,15.85,0.82,ml,16,83,0.0225,0.16,ci,ci40222695,2023-05-11T10:23:54.671Z,"2km E of La Crescenta-Montrose, CA",earthquake,0.36,0.66,0.161,14,automatic,ci,ci
 2023-05-11T10:16:50.730Z,37.4336662,-121.7693329,9.77,1.4,md,26,73,0.02979,0.05,nc,nc73886476,2023-05-11T10:33:14.571Z,"9km NE of Alum Rock, CA",earthquake,0.21,0.37,0.17,16,automatic,nc,nc
@@ -108,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T21:37:45.180Z,38.7574997,-122.7294998,0.54,0.74,md,6,140,0.005464,0.05,nc,nc73886311,2023-05-10T22:46:13.279Z,"3km SE of The Geysers, CA",earthquake,0.71,0.71,0.31,7,automatic,nc,nc
 2023-05-10T21:25:37.814Z,65.2673,-145.2974,0.6,1.4,ml,,,,0.47,ak,ak0235zcinpx,2023-05-10T21:28:03.389Z,"41 km SW of Central, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-10T21:22:59.440Z,37.26,-121.636,5.43,1.95,md,62,43,0.02963,0.09,nc,nc73886306,2023-05-11T08:03:11.665Z,"14km N of Morgan Hill, CA",earthquake,0.11,0.23,0.206,56,reviewed,nc,nc
-2023-05-10T21:20:23.659Z,44.2259,-128.863,10,3.1,ml,28,274,3.506,0.6,us,us6000kazh,2023-05-11T01:07:15.962Z,"off the coast of Oregon",earthquake,5.37,2.025,0.053,46,reviewed,us,us
+2023-05-10T21:20:23.659Z,44.2259,-128.863,10,3.1,ml,28,274,3.506,0.6,us,us6000kazh,2023-05-11T11:24:12.998Z,"off the coast of Oregon",earthquake,5.37,2.025,0.053,46,reviewed,us,us
 2023-05-10T21:18:56.992Z,37.2946,-104.4746,6.679,2.4,ml,17,65,0.164,0.34,us,us6000kaze,2023-05-11T03:59:40.705Z,"Colorado",earthquake,2.26,3.739,0.069,40,reviewed,us,us
 2023-05-10T21:13:35.720Z,38.8213348,-122.8248367,2.44,0.76,md,7,136,0.008159,0.02,nc,nc73886301,2023-05-10T22:04:12.026Z,"8km NW of The Geysers, CA",earthquake,0.67,0.99,0.1,8,automatic,nc,nc
 2023-05-10T21:12:51.998Z,38.2006,-117.8028,5.5,1.7,ml,7,89.96,0.143,0.1212,nn,nn00859318,2023-05-10T22:44:31.884Z,"34 km SE of Mina, Nevada",earthquake,,2.4,0.19,4,reviewed,nn,nn

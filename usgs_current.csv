@@ -1,9 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-16T21:51:52.390Z,35.9085,-117.6965,1.59,1.67,ml,15,88,0.1142,0.18,ci,ci40226319,2023-05-16T21:55:33.894Z,"19km E of Little Lake, CA",earthquake,0.34,0.75,0.131,20,automatic,ci,ci
+2023-05-16T21:50:27.630Z,32.8125,-115.564,15.68,1.54,ml,14,74,0.06718,0.27,ci,ci40226311,2023-05-16T21:53:57.412Z,"3km NNW of El Centro, CA",earthquake,0.59,1,0.228,20,automatic,ci,ci
+2023-05-16T21:48:49.270Z,32.8268333,-115.5821667,10.68,1.48,ml,13,108,0.06951,0.22,ci,ci40226303,2023-05-16T21:52:23.400Z,"3km SSW of Imperial, CA",earthquake,0.69,1.38,0.256,20,automatic,ci,ci
+2023-05-16T21:47:27.540Z,32.8313333,-115.5813333,11.83,1.18,ml,9,105,0.07206,0.16,ci,ci40226295,2023-05-16T21:50:58.520Z,"2km SSW of Imperial, CA",earthquake,0.75,0.95,0.263,10,automatic,ci,ci
 2023-05-16T21:45:26.640Z,38.8361664,-122.7935028,2.09,1.1,md,23,56,0.003332,0.02,nc,nc73888901,2023-05-16T21:47:00.394Z,"6km WNW of Cobb, CA",earthquake,0.2,0.4,0.14,24,automatic,nc,nc
-2023-05-16T21:42:37.530Z,19.4381675720215,-155.327331542969,4.57999992370605,2.04999995,md,22,88,,0.0799999982,hv,hv73405362,2023-05-16T21:45:53.400Z,"9 km W of Volcano, Hawaii",earthquake,0.27,0.850000024,1.25,10,automatic,hv,hv
+2023-05-16T21:42:37.530Z,19.4381675720215,-155.327331542969,4.57999992370605,2.31,ml,22,88,,0.0799999982,hv,hv73405362,2023-05-16T21:48:08.980Z,"9 km W of Volcano, Hawaii",earthquake,0.27,0.850000024,0.25,3,automatic,hv,hv
 2023-05-16T21:38:39.250Z,34.974,-118.1993333,0.17,1.22,ml,10,74,0.09795,0.21,ci,ci40226287,2023-05-16T21:42:16.881Z,"9km SSW of Mojave, CA",earthquake,0.61,31.61,0.045,11,automatic,ci,ci
 2023-05-16T21:38:04.560Z,58.2661,-155.3357,1.5,1.5,ml,,,,0.43,ak,ak023699tgfc,2023-05-16T21:39:43.336Z,"90 km ESE of King Salmon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-16T21:29:25.590Z,19.2393341064453,-155.401840209961,33.25,2.53,ml,42,136,,0.159999996,hv,hv73405347,2023-05-16T21:34:56.190Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.769999981,2.55,12,automatic,hv,hv
+2023-05-16T21:29:02.475Z,10.6891,-45.5449,10,4.7,mb,71,63,8.953,0.78,us,us6000kce9,2023-05-16T21:49:12.040Z,"North Atlantic Ocean",earthquake,9.7,1.865,0.055,102,reviewed,us,us
 2023-05-16T21:17:36.340Z,38.8246651,-122.7943344,2.81,0.77,md,11,81,0.01236,0.02,nc,nc73888896,2023-05-16T21:45:15.610Z,"6km W of Cobb, CA",earthquake,0.5,0.88,0.26,14,automatic,nc,nc
 2023-05-16T20:37:51.097Z,61.4796,-149.9802,48.1,1.1,ml,,,,0.42,ak,ak0236997wp1,2023-05-16T20:39:36.773Z,"4 km SSW of Big Lake, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-05-16T20:35:38.239Z,60.9933,-151.9789,89,0.9,ml,,,,0.23,ak,ak0236997g9r,2023-05-16T20:38:23.018Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -207,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T22:07:52.780Z,33.3911667,-116.3676667,2.11,1.08,ml,30,56,0.05644,0.17,ci,ci40225807,2023-05-16T21:15:30.771Z,"15km N of Borrego Springs, CA",earthquake,0.22,0.4,0.104,23,reviewed,ci,ci
 2023-05-15T22:07:29.521Z,64.9823,-148.79,17.5,1.1,ml,,,,0.4,ak,ak02367moy9k,2023-05-15T22:09:15.394Z,"32 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-15T21:59:49.430Z,35.6321667,-117.4535,11.04,1.4,ml,23,71,0.04086,0.14,ci,ci40225799,2023-05-16T21:11:14.490Z,"16km SSW of Searles Valley, CA",earthquake,0.23,0.38,0.257,14,reviewed,ci,ci
-2023-05-15T21:55:18.210Z,19.3991666666667,-155.2675,0.89,1.33,ml,12,107,,0.11,hv,hv73403902,2023-05-16T00:15:10.740Z,"5 km SW of Volcano, Hawaii",earthquake,0.26,0.39,0.0591744894042296,2,reviewed,hv,hv
-2023-05-15T21:52:24.510Z,43.1658333333333,-111.412666666667,5,0.87,ml,5,235,0.1159,0.26,mb,mb90014158,2023-05-15T22:11:30.220Z,"28 km SSW of Irwin, Idaho",earthquake,2.85,31.61,0.233255433166403,5,reviewed,mb,mb

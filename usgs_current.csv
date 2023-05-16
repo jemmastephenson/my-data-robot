@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-16T10:28:24.400Z,38.8246651,-122.8059998,1.26,0.28,md,9,78,0.003426,0.02,nc,nc73888721,2023-05-16T10:29:58.690Z,"7km NW of The Geysers, CA",earthquake,0.39,0.84,0.17,10,automatic,nc,nc
+2023-05-16T10:28:24.400Z,38.8246651,-122.8059998,1.26,0.28,md,9,78,0.003426,0.02,nc,nc73888721,2023-05-16T10:44:15.658Z,"7km NW of The Geysers, CA",earthquake,0.39,0.84,0.17,10,automatic,nc,nc
 2023-05-16T10:27:52.701Z,63.3926,-150.2786,0.2,1.5,ml,,,,0.5,ak,ak0236937fly,2023-05-16T10:29:39.784Z,"66 km W of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-16T10:22:09.860Z,19.3766670227051,-155.283828735352,2.84999990463257,1.78,ml,24,102,,0.280000001,hv,hv73404652,2023-05-16T10:27:40.220Z,"8 km SW of Volcano, Hawaii",earthquake,0.43,0.569999993,0.34,7,automatic,hv,hv
 2023-05-16T10:11:30.770Z,38.8356667,-122.8178329,1.55,0.75,md,12,65,0.01367,0.02,nc,nc73888716,2023-05-16T10:31:10.456Z,"8km W of Cobb, CA",earthquake,0.32,0.83,0.29,13,automatic,nc,nc
@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T11:11:08.461Z,36.8791,-116.2187,3.1,-0.3,ml,17,79.42,0.036,0.1478,nn,nn00859559,2023-05-15T20:33:25.857Z,"48 km E of Beatty, Nevada",earthquake,,1.8,1.08,6,reviewed,nn,nn
 2023-05-15T11:00:24.070Z,38.8201675,-122.8061676,2.41,0.85,md,16,52,0.004438,0.01,nc,nc73888371,2023-05-15T11:24:14.085Z,"6km NW of The Geysers, CA",earthquake,0.28,0.78,0.3,17,automatic,nc,nc
 2023-05-15T10:57:38.010Z,38.8400002,-122.8121643,1.27,0.73,md,14,52,0.01666,0.03,nc,nc73888366,2023-05-15T11:12:15.013Z,"8km WNW of Cobb, CA",earthquake,0.23,0.42,0.23,14,automatic,nc,nc
-2023-05-15T10:41:18.679Z,62.1954,-151.3597,78.2,3.5,ml,,,,0.56,ak,ak02367fr0p6,2023-05-15T11:22:05.158Z,"22 km N of Skwentna, Alaska",earthquake,,0.4,,,reviewed,ak,ak

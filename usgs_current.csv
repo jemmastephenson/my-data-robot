@@ -263,6 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T08:04:27.061Z,40.2386,-121.0848,0,1.7,ml,4,327.5,0.668,0.0978,nn,nn00859625,2023-05-17T19:25:29.667Z,"Northern California",earthquake,,0,0.14,4,reviewed,nn,nn
 2023-05-17T07:59:31.739Z,36.70133333,-97.6705,4,2.75,ml,95,51,0,0.13,ok,ok2023jpcg,2023-05-17T22:03:59.642Z,"10 km W of Lamont, Oklahoma",earthquake,,0.4,0.27,48,reviewed,ok,ok
 2023-05-17T07:56:59.210Z,19.2390003204346,-155.384170532227,31.8899993896484,2.47000003,md,26,197,,0.0900000036,hv,hv73405972,2023-05-17T08:00:05.830Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.8,0.600000024,1.47000003,3,automatic,hv,hv
-2023-05-17T07:56:44.240Z,46.87466666666667,-121.72633333333333,-2.75,0.16,ml,10,96,0.005617,0.22,uw,uw61916337,2023-05-17T22:18:46.080Z,"26 km ENE of Ashford, Washington",earthquake,0.59,1.13,0.09072076232191326,7,reviewed,uw,uw
-2023-05-17T07:48:34.163Z,62.8575,-150.7522,83.3,1.9,ml,,,,0.52,ak,ak0236ap2xw8,2023-05-17T07:50:39.370Z,"40 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-05-17T07:47:34.110Z,38.8426666,-122.8219986,1.22,0.66,md,8,107,0.01129,0.02,nc,nc73889026,2023-05-17T08:04:15.577Z,"9km WNW of Cobb, CA",earthquake,0.6,1.17,0.44,9,automatic,nc,nc

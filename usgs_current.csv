@@ -1,12 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-25T14:19:10.710Z,38.8308334,-122.8116684,10.04,0.71,md,6,123,0.007531,0.03,nc,nc73889745,2023-05-25T14:20:47.047Z,"8km NW of The Geysers, CA",earthquake,2,8.06,0.05,7,automatic,nc,nc
+2023-05-25T14:29:53.330Z,35.8875,-117.6951667,2.42,0.82,ml,13,160,0.09702,0.21,ci,ci40233351,2023-05-25T14:33:29.479Z,"20km ESE of Little Lake, CA",earthquake,0.38,0.49,0.076,8,automatic,ci,ci
+2023-05-25T14:19:10.710Z,38.8308334,-122.8116684,10.04,0.71,md,6,123,0.007531,0.03,nc,nc73889745,2023-05-25T14:32:11.312Z,"8km NW of The Geysers, CA",earthquake,2,8.06,0.05,7,automatic,nc,nc
 2023-05-25T14:12:11.710Z,38.8151665,-122.807663,1.31,1.11,md,17,42,0.00843,0.02,nc,nc73889740,2023-05-25T14:25:10.265Z,"6km NW of The Geysers, CA",earthquake,0.21,0.54,0.12,19,automatic,nc,nc
 2023-05-25T13:54:03.890Z,35.98,-117.7248333,4.44,1.88,ml,23,56,0.06819,0.2,ci,ci40233335,2023-05-25T14:05:03.450Z,"17km ENE of Little Lake, CA",earthquake,0.29,0.83,0.229,21,automatic,ci,ci
 2023-05-25T13:48:28.834Z,21.1016,122.0658,10,5.2,mww,43,104,1.938,1.22,us,us7000k3wu,2023-05-25T14:08:22.040Z,"72 km N of Basco, Philippines",earthquake,7.57,1.903,0.065,23,reviewed,us,us
 2023-05-25T13:39:23.400Z,19.4068336486816,-155.276168823242,1.5,2.08999991,md,6,222,,0.150000006,hv,hv73421017,2023-05-25T13:42:11.560Z,"5 km SW of Volcano, Hawaii",earthquake,0.78,1.47000003,2.3599999,4,automatic,hv,hv
 2023-05-25T13:20:21.421Z,60.0313,-140.3614,0.9,2.1,ml,,,,0.7,ak,ak0236o0safy,2023-05-25T13:22:52.476Z,"64 km NNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-25T13:03:34.630Z,34.137,-117.6756667,3.59,1.57,ml,36,50,0.03516,0.25,ci,ci40233311,2023-05-25T13:14:28.770Z,"5km NNW of Upland, CA",earthquake,0.36,0.7,0.192,27,automatic,ci,ci
-2023-05-25T13:01:56.222Z,59.0174,-152.6668,60.5,2.4,ml,,,,0.22,ak,ak0236o0oaiu,2023-05-25T13:03:54.531Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-05-25T13:01:56.222Z,59.0174,-152.6668,60.5,2.4,ml,,,,0.22,ak,ak0236o0oaiu,2023-05-25T14:34:23.040Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-25T12:58:34.559Z,60.1537,-140.4223,12.4,2.3,ml,,,,0.63,ak,ak0236o0f127,2023-05-25T13:00:57.262Z,"78 km NNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-25T12:54:34.064Z,59.8682,-140.4476,4.3,3.9,ml,,,,1.08,ak,ak0236o0e64p,2023-05-25T13:11:22.040Z,"54 km NW of Yakutat, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-05-25T12:54:06.227Z,60.1284,-140.424,5.1,3.7,ml,,,,1.23,ak,ak0236o0e3xo,2023-05-25T12:59:49.145Z,"75 km NNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -220,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T14:54:10.333Z,64.7578,-148.8903,15.7,1,ml,,,,0.35,ak,ak0236me1n1l,2023-05-24T14:56:40.801Z,"20 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-24T14:50:48.710Z,58.2705,-155.105666666667,5.88,-0.24,ml,8,125,,0.11,av,av91770967,2023-05-24T19:10:27.400Z,"87 km NNW of Karluk, Alaska",earthquake,0.29,0.72,0.232721979924967,8,reviewed,av,av
 2023-05-24T14:47:52.585Z,63.1239,-151.5246,0,2.1,ml,,,,0.7,ak,ak0236me08ai,2023-05-24T14:50:07.371Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-24T14:31:12.210Z,17.9886666666667,-66.806,18.59,2.12,md,7,186,0.07103,0.16,pr,pr71410823,2023-05-24T15:04:35.330Z,"1 km ESE of Indios, Puerto Rico",earthquake,0.78,0.81,0.0918599473601653,5,reviewed,pr,pr
-2023-05-24T14:27:34.570Z,38.8120003,-122.7835007,1.79,1.07,md,16,62,0.002534,0.02,nc,nc73889420,2023-05-24T15:42:15.026Z,"4km NNW of The Geysers, CA",earthquake,0.25,0.58,0.23,18,automatic,nc,nc

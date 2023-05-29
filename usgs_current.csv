@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-29T04:31:14.376Z,63.5479,-147.3495,0,2.3,ml,,,,0.67,ak,ak0236uhn4b1,2023-05-29T04:33:26.071Z,"80 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-29T04:41:37.849Z,61.5367,-149.8709,44.2,1.6,ml,,,,0.51,ak,ak0236uhpba0,2023-05-29T04:43:33.024Z,"4 km ENE of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-05-29T04:40:20.506Z,62.2003,-141.8745,0,2,ml,,,,0.52,ak,ak0236uhp282,2023-05-29T04:42:50.580Z,"62 km ESE of Nabesna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-29T04:31:14.376Z,63.5479,-147.3495,0,2.3,ml,,,,0.67,ak,ak0236uhn4b1,2023-05-29T04:44:40.833Z,"80 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-29T04:10:36.410Z,33.7763329,-116.8536682,25.06,1.22,ml,14,121,0.1332,0.2,ci,ci40236551,2023-05-29T04:14:08.554Z,"5km NE of Valle Vista, CA",earthquake,1.24,1.05,0.53,7,automatic,ci,ci
 2023-05-29T04:10:20.620Z,33.6261667,-116.7371667,13.84,0.86,ml,17,80,0.03943,0.12,ci,ci40236543,2023-05-29T04:13:55.487Z,"10km NW of Anza, CA",earthquake,0.29,0.69,0.326,14,automatic,ci,ci
 2023-05-29T03:51:58.210Z,33.5915,-116.605,13.53,0.62,ml,25,57,0.01004,0.12,ci,ci40236535,2023-05-29T03:55:38.788Z,"8km ENE of Anza, CA",earthquake,0.22,0.36,0.118,17,automatic,ci,ci
@@ -42,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T00:31:10.350Z,37.0081673,-121.456665,5.2,2.11,md,38,62,0.02815,0.13,nc,nc73891090,2023-05-29T01:54:16.968Z,"10km E of Gilroy, CA",earthquake,0.24,0.73,0.15,39,automatic,nc,nc
 2023-05-29T00:28:46.386Z,61.4193,-151.4329,67.8,1.7,ml,,,,0.28,ak,ak0236uf8t7i,2023-05-29T00:30:17.304Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-29T00:25:59.200Z,33.4431667,-116.6353333,3.91,0.59,ml,25,99,0.05838,0.21,ci,ci40236423,2023-05-29T00:29:41.969Z,"13km SSE of Anza, CA",earthquake,0.29,0.65,0.107,17,automatic,ci,ci
-2023-05-29T00:15:24.261Z,59.3601,-152.7489,72.4,2.1,ml,,,,0.31,ak,ak0236uf5z6y,2023-05-29T00:17:54.446Z,"47 km W of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-05-29T00:15:24.261Z,59.3601,-152.7489,72.4,2.1,ml,,,,0.31,ak,ak0236uf5z6y,2023-05-29T00:17:54.446Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-29T00:12:08.510Z,38.8306656,-122.8164978,1.76,1.36,md,24,46,0.008825,0.02,nc,nc73891075,2023-05-29T01:39:15.877Z,"8km NW of The Geysers, CA",earthquake,0.18,0.37,0.16,26,automatic,nc,nc
 2023-05-29T00:04:38.706Z,64.7417,-147.3222,0,1.2,ml,,,,0.91,ak,ak0236uf3nfi,2023-05-29T00:06:31.399Z,"1 km SE of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-29T00:02:53.027Z,7.0417,-76.1407,70.346,4.3,mb,21,118,2.835,0.35,us,us7000k4pl,2023-05-29T03:54:42.040Z,"northern Colombia",earthquake,8.04,12.321,0.178,9,reviewed,us,us
@@ -195,5 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T05:19:23.384Z,61.6036,-150.5925,35,2,ml,,,,0.37,ak,ak0236sumniq,2023-05-28T05:21:08.875Z,"7 km NNW of Susitna, Alaska",earthquake,,25.6,,,automatic,ak,ak
 2023-05-28T05:17:52.750Z,18.0151666666667,-67.1333333333333,13.22,2.55,md,9,202,0.02421,0.13,pr,pr71411343,2023-05-28T05:26:24.280Z,"Mona Passage",earthquake,0.88,0.53,0.193085649435128,7,reviewed,pr,pr
 2023-05-28T04:51:01.170Z,34.0546667,-117.9766667,0.66,1.33,ml,7,131,0.05,0.18,ci,ci40235855,2023-05-28T04:54:37.280Z,"1km WNW of West Puente Valley, CA",earthquake,0.54,31.61,0.206,7,automatic,ci,ci
-2023-05-28T04:46:49.743Z,60.1769,-147.8005,13.1,2.2,ml,,,,0.61,ak,ak0236su72a6,2023-05-28T04:49:35.861Z,"17 km NE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-28T04:46:49.420Z,38.8173332,-122.821167,2.45,0.6,md,7,110,0.01052,0.01,nc,nc73890830,2023-05-28T05:26:12.599Z,"7km NW of The Geysers, CA",earthquake,0.55,1.19,0.18,8,automatic,nc,nc

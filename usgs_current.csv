@@ -226,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T06:46:13.262Z,60.3048,-152.2292,82.3,1.2,ml,,,,0.22,ak,ak0236zhj8ni,2023-06-01T06:47:42.163Z,"42 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-01T06:44:36.060Z,38.8156667,-122.8076667,3.49,1.7,md,52,21,0.007943,0.06,nc,nc73894951,2023-06-01T20:00:15.089Z,"6km NW of The Geysers, CA",earthquake,0.15,0.23,0.135,47,reviewed,nc,nc
 2023-06-01T06:39:36.400Z,19.1681671142578,-155.504501342773,33.7299995422363,2.01999998,md,45,102,,0.140000001,hv,hv73433487,2023-06-01T06:42:47.360Z,"4 km SW of Pāhala, Hawaii",earthquake,0.56,0.939999998,1.58000004,10,automatic,hv,hv
-2023-06-01T06:26:21.530Z,34.019,-117.2276667,10.46,1.97,ml,96,27,0.08476,0.14,ci,ci40239535,2023-06-01T22:51:02.850Z,"4km SE of Loma Linda, CA",earthquake,0.11,0.24,0.179,26,reviewed,ci,ci

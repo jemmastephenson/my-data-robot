@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-08T04:42:42.880Z,37.9058342,-122.1151657,11.09,1.79,md,33,83,0.03259,0.1,nc,nc73898521,2023-06-08T04:44:21.105Z,"2km N of Lafayette, CA",earthquake,0.27,0.46,0.14,26,automatic,nc,nc
 2023-06-08T04:27:52.850Z,64.262,-147.6312,1.5,1.1,ml,,,,0.58,ak,ak0237b0ztcl,2023-06-08T04:29:29.503Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-08T04:21:44.360Z,33.717,-116.842,14.61,0.84,ml,26,102,0.07445,0.12,ci,ci40480352,2023-06-08T04:25:15.845Z,"6km SE of Valle Vista, CA",earthquake,0.26,0.35,0.154,25,automatic,ci,ci
 2023-06-08T04:15:16.880Z,39.3068352,-122.7854996,1.95,2.13,md,17,136,0.1412,0.15,nc,nc73898516,2023-06-08T04:34:16.011Z,"19km SE of Lake Pillsbury, CA",earthquake,0.39,3.27,0.21,9,automatic,nc,nc
@@ -7,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T03:47:20.512Z,36.5249,-116.326,16,0.6,ml,12,298.83,0.121,0.3366,nn,nn00861002,2023-06-08T03:49:06.027Z,"46 km NW of Pahrump, Nevada",earthquake,,1.7,0.2,8,automatic,nn,nn
 2023-06-08T03:38:43.029Z,37.766,36.3319,10,4.1,mb,28,46,0.186,0.91,us,us7000k71u,2023-06-08T03:47:54.040Z,"21 km N of Andırın, Turkey",earthquake,3.8,1.955,0.14,14,reviewed,us,us
 2023-06-08T03:37:57.331Z,65.6068,-147.9664,6.4,1.1,ml,,,,0.57,ak,ak0237b0gj91,2023-06-08T03:47:09.847Z,"28 km ENE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-08T03:33:17.180Z,37.0893333,-121.8706667,8.81,1.31,md,12,162,0.01315,0.03,nc,nc73898506,2023-06-08T04:35:27.123Z,"6km N of Day Valley, CA",earthquake,0.72,0.68,0.175,12,reviewed,nc,nc
 2023-06-08T03:29:38.483Z,35.39365005,-98.09967804,10.31052971,1.67,ml,12,98.438797,0.0651203841,1.15203443,ok,ok2023lcyk,2023-06-08T03:32:24.709Z,"Oklahoma",earthquake,4.589327342,3.927809917,0.15,8,automatic,ok,ok
 2023-06-08T03:28:29.040Z,37.609,-121.6143333,13.76,1.16,md,12,119,0.0946,0.06,nc,nc73898501,2023-06-08T04:33:26.776Z,"16km ESE of Livermore, CA",earthquake,0.59,1.46,0.139,13,reviewed,nc,nc
 2023-06-08T03:15:44.670Z,19.3351666666667,-155.183166666667,2.96,2.88,ml,51,102,,0.15,hv,hv73445337,2023-06-08T03:31:21.170Z,"13 km SSE of Volcano, Hawaii",earthquake,0.27,0.61,0.188365044765653,39,reviewed,hv,hv
@@ -175,7 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T12:25:24.638Z,45.4448,-111.8189,13.378,2.5,ml,33,46,0.202,0.42,us,us7000k6va,2023-06-08T02:39:17.316Z,"12 km NNW of Ennis, Montana",earthquake,1.76,8.141,0.053,47,reviewed,us,us
 2023-06-07T12:22:33.760Z,19.42,-155.2855,1.76,0.34,md,12,109,,0.09,hv,hv73444577,2023-06-07T12:39:03.300Z,"Island of Hawaii, Hawaii",earthquake,0.22,0.21,0.00316316556724083,2,reviewed,hv,hv
 2023-06-07T12:14:11.953Z,61.7817,-147.2674,36.2,0.9,ml,,,,0.3,ak,ak02379i528b,2023-06-07T12:15:49.073Z,"18 km SSW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-07T12:11:45.100Z,58.1738333333333,-155.330833333333,0.81,0.42,ml,9,114,,0.04,av,av91915591,2023-06-08T04:23:23.950Z,"Alaska Peninsula",earthquake,0.17,0.95,0.336885084091022,9,reviewed,av,av
+2023-06-07T12:11:45.100Z,58.1738333333333,-155.330833333333,0.81,0.42,ml,9,114,,0.04,av,av91915591,2023-06-08T04:23:23.950Z,"85 km NW of Karluk, Alaska",earthquake,0.17,0.95,0.336885084091022,9,reviewed,av,av
 2023-06-07T12:10:53.460Z,19.3976666666667,-155.269666666667,0.9,0.43,md,16,42,,0.07,hv,hv73444532,2023-06-07T12:22:47.820Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.26,0.12122377704185,2,reviewed,hv,hv
 2023-06-07T12:02:58.670Z,19.4101666666667,-155.274666666667,0.98,0.54,md,18,45,,0.07,hv,hv73444512,2023-06-07T12:16:15.370Z,"5 km SW of Volcano, Hawaii",earthquake,0.15,0.25,0.0705874323233495,2,reviewed,hv,hv
 2023-06-07T11:56:26.760Z,19.4161666666667,-155.261666666667,1.45,0.39,md,17,87,,0.07,hv,hv73444487,2023-06-07T12:08:39.890Z,"4 km SW of Volcano, Hawaii",earthquake,0.17,0.27,0.103754439335205,3,reviewed,hv,hv
@@ -301,5 +303,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T04:51:45.870Z,19.4145,-155.275666666667,1.19,0.32,md,13,83,,0.09,hv,hv73443522,2023-06-07T05:54:15.060Z,"5 km SW of Volcano, Hawaii",earthquake,0.2,0.24,0.0139782232415919,3,reviewed,hv,hv
 2023-06-07T04:47:48.150Z,19.4011666666667,-155.274166666667,1.06,0.49,md,12,87,,0.07,hv,hv73443507,2023-06-07T05:57:31.770Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.32,0.19425755574787,2,reviewed,hv,hv
 2023-06-07T04:46:53.820Z,38.8396683,-122.810997,1.9,1.03,md,14,55,0.01618,0.01,nc,nc73898001,2023-06-07T05:46:13.623Z,"8km WNW of Cobb, CA",earthquake,0.27,0.76,0.24,15,automatic,nc,nc
-2023-06-07T04:42:39.690Z,38.8286667,-122.8141632,1.68,1.09,md,22,58,0.006157,0.02,nc,nc73897996,2023-06-07T05:22:14.499Z,"8km NW of The Geysers, CA",earthquake,0.19,0.44,0.18,22,automatic,nc,nc
-2023-06-07T04:36:15.890Z,19.3915,-155.2795,1.08,0.7,md,11,61,,0.1,hv,hv73443477,2023-06-07T06:00:47.750Z,"Island of Hawaii, Hawaii",earthquake,0.3,0.22,0.0454282028640211,3,reviewed,hv,hv
